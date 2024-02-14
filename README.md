@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+# Pickleball Graphs
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+The graphs generated here come from The Big 3 pickleball reviewers
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- [Pickleball Studio](https://thepickleballstudio.notion.site/5bdf3ee752c940eba864a81bc3281164?v=a5170d43e5ab4573b18f48c363cce7ec)
+- [Pickleball Effect](https://pickleballeffect.com/pickleball-paddle-database)
+- [Johnkew Pickleball](https://www.johnkewpickleball.com/paddle-database)
