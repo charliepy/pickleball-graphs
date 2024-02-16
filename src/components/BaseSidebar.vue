@@ -63,16 +63,16 @@
             </div>
           </router-link>
         </li>
-<!--        <li>-->
-<!--          <router-link-->
-<!--            :to="{ name: ROUTES.johnkewpb }"-->
-<!--            :class="{ active: route.name === ROUTES.johnkewpb }">-->
-<!--            <div class="flex gap-x-2">-->
-<!--              <img class="h-8" src="/src/assets/Johnkew-Logo.png" />-->
-<!--              Johnkew Pickleball-->
-<!--            </div>-->
-<!--          </router-link>-->
-<!--        </li>-->
+        <li>
+          <router-link
+            :to="{ name: ROUTES.johnkewpb }"
+            :class="{ active: route.name === ROUTES.johnkewpb }">
+            <div class="flex gap-x-2">
+              <img class="h-8" src="/src/assets/Johnkew-Logo.png" />
+              Johnkew Pickleball
+            </div>
+          </router-link>
+        </li>
       </ul>
     </div>
   </div>

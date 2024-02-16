@@ -1,15 +1,43 @@
 <template>
   <BaseSidebar>
-    <article class="prose lg:prose-xl max-w-full">
-      <div class="flex flex-col items-center">
-        <h2>Pickleball Graphs</h2>
-        <h3>Powered By:</h3>
-        <img class="h-48 lg:h-64" src="/src/assets/chart-js-logo.png" />
-      </div>
-    </article>
+    <PaddleChart
+      :paddle-order="paddleOrder"
+      :paddle-menu="paddleMenu"
+      :paddle-data="paddleData" />
   </BaseSidebar>
 </template>
 
 <script setup>
 import BaseSidebar from '@/components/BaseSidebar.vue';
+import csv from '@/assets/stats/JohnkewPickleball.csv';
+import PaddleChart from '@/components/charts/PaddleChart.vue';
+
+const paddleData = csv.filter((item) => {
+  return item['Power Percentile'] && item['Pop Percentile'];
+});
+
+const paddleMenu = [
+  {
+    title: 'Power',
+    key: 'Serve Speed-MPH (Power)',
+    percentile: 'Power Percentile',
+  },
+  {
+    title: 'Pop',
+    key: 'Punch Volley Speed-MPH (Pop)',
+    percentile: 'Pop Percentile',
+  },
+  {
+    title: 'Swing Weight',
+    key: 'Swing Weight',
+    percentile: 'Swing Weight Percentile',
+  },
+  {
+    title: 'Twist Weight',
+    key: 'Twist Weight',
+    percentile: 'Twist Weight Percentile',
+  },
+];
+
+const paddleOrder = [0, 1];
 </script>
