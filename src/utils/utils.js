@@ -88,7 +88,7 @@ export const initialBarChartOptions = () => {
       },
       x: {
         beginAtZero: false,
-        grace: '100%',
+        grace: '50%',
         ticks: {
           precision: 1,
         },
