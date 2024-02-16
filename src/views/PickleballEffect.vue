@@ -10,7 +10,7 @@
                 :class="{
                   active: item.title === paddleMenu[currentMenuIndex].title,
                 }"
-                @click="changeFilter(index)">
+                @click="changeSort(index)">
                 {{ paddleMenu[index].title }}
               </a>
             </li>
@@ -21,12 +21,12 @@
           <p class="mx-2 font-medium">Direction</p>
           <ul class="menu menu-vertical md:menu-horizontal bg-base-200 rounded-box">
             <li>
-              <a :class="{ active: isAscending }" @click="changeSort(0)">
+              <a :class="{ active: isAscending }" @click="changeDirection(0)">
                 Ascending
               </a>
             </li>
             <li>
-              <a :class="{ active: !isAscending }" @click="changeSort(1)">
+              <a :class="{ active: !isAscending }" @click="changeDirection(1)">
                 Descending
               </a>
             </li>
@@ -295,13 +295,13 @@ const getPaddleStatChart = (index) => {
   };
 };
 
-const changeFilter = async (index) => {
+const changeSort = async (index) => {
   currentMenuIndex.value = index;
   chartOptions.plugins.title.text[0] = paddleMenu[index].key;
   await actionHandler(0);
 };
 
-const changeSort = async (index) => {
+const changeDirection = async (index) => {
   if (isAscending.value && index === 0) {
     return;
   }
