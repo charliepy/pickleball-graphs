@@ -1,6 +1,6 @@
 <template>
   <Radar
-    class="w-96 md:w-[600px]"
+    class="h-[400px] w-[400px] md:h-[80vh] md:w-[80vw]"
     :data="chartData"
     :options="chartOptions"
     :style="{

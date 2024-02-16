@@ -1,7 +1,7 @@
 <template>
   <div>
     <Bar
-      class="w-96 md:w-[500px] lg:w-[800px]"
+      class="h-[50vh] w-[80vw] lg:w-[60vw] lg:h-[70vh]"
       :data="chartData"
       :options="chartOptions"
       :style="{

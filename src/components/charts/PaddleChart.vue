@@ -303,6 +303,20 @@ const getLabel = (paddle) => {
 const changeSort = async (index) => {
   currentMenuIndex.value = index;
   chartOptions.plugins.title.text[0] = props.paddleMenu[index].key;
+
+  if(index === 0) {
+    chartOptions.scales.x.ticks.precision = 1;
+  }
+  else if (index === 1) {
+    chartOptions.scales.x.ticks.precision = 1;
+  }
+  if (index === 2) {
+    chartOptions.scales.x.ticks.precision = 0;
+  }
+  else if (index === 3) {
+    chartOptions.scales.x.ticks.precision = 1;
+  }
+
   await actionHandler(0);
 };
 
