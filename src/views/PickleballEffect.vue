@@ -3,7 +3,7 @@
     <div class="mt-4 flex flex-col items-center">
       <div class="flex gap-4">
         <div>
-          <p class="mx-2 font-medium">Filter By</p>
+          <p class="mx-2 font-medium">Sort By</p>
           <ul class="menu menu-vertical md:menu-horizontal bg-base-200 rounded-box">
             <li v-for="(item, index) in paddleMenu" :key="item">
               <a
@@ -18,7 +18,7 @@
         </div>
 
         <div>
-          <p class="mx-2 font-medium">Sort</p>
+          <p class="mx-2 font-medium">Direction</p>
           <ul class="menu menu-vertical md:menu-horizontal bg-base-200 rounded-box">
             <li>
               <a :class="{ active: isAscending }" @click="changeSort(0)">
