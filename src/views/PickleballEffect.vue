@@ -1,14 +1,37 @@
 <template>
   <BaseSidebar>
     <div class="mt-4 flex flex-col items-center">
-      <div>
-        <p class="mx-2">Sort By</p>
-        <ul class="menu menu-horizontal bg-base-200 rounded-box">
-          <li><a class="active">Power</a></li>
-          <li><a>Pop</a></li>
-          <li><a>Swing Weight</a></li>
-          <li><a>Twist Weight</a></li>
-        </ul>
+      <div class="flex gap-4">
+        <div>
+          <p class="mx-2 font-medium">Filter By</p>
+          <ul class="menu menu-vertical md:menu-horizontal bg-base-200 rounded-box">
+            <li v-for="(item, index) in paddleMenu" :key="item">
+              <a
+                :class="{
+                  active: item.title === paddleMenu[currentMenuIndex].title,
+                }"
+                @click="changeFilter(index)">
+                {{ paddleMenu[index].title }}
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <div>
+          <p class="mx-2 font-medium">Sort</p>
+          <ul class="menu menu-vertical md:menu-horizontal bg-base-200 rounded-box">
+            <li>
+              <a :class="{ active: isAscending }" @click="changeSort(0)">
+                Ascending
+              </a>
+            </li>
+            <li>
+              <a :class="{ active: !isAscending }" @click="changeSort(1)">
+                Descending
+              </a>
+            </li>
+          </ul>
+        </div>
       </div>
 
       <div class="breadcrumbs mt-6 mb-2">
@@ -24,19 +47,46 @@
         </ul>
       </div>
       <div v-if="currentChartLevel === 0">
-        <BarChart
-          v-if="showChart"
-          :chart-data="chartData"
-          :chart-options="chartOptions" />
-        <div class="mt-2">
-          <PaginationButton :data-id="dataId" />
+        <div v-if="showChart">
+          <BarChart :chart-data="chartData" :chart-options="chartOptions" />
+          <div class="mt-2">
+            <PaginationButton :data-id="dataId" />
+          </div>
         </div>
       </div>
       <div v-else>
-        <RadarChart
-          v-if="showChart"
-          :chart-data="radarData"
-          :chart-options="initialRadarChartOptions()" />
+        <div v-if="showChart">
+          <div class="max-w-lg md:max-w-2xl lg:max-w-6xl mb-4 mx-auto">
+            <BaseDataTable>
+              <template #table-header>
+                <tr class="bg-gray-200">
+                  <th
+                    v-for="col in Object.keys(currentPaddle)"
+                    :key="col"
+                    class="px-4 py-2 text-left">
+                    <p class="text-base font-semibold">{{ col }}</p>
+                  </th>
+                </tr>
+              </template>
+              <template #table-body>
+                <tr>
+                  <td
+                    v-for="col in Object.keys(currentPaddle)"
+                    :key="col"
+                    class="px-4 py-2">
+                    {{ currentPaddle[col] }}
+                  </td>
+                </tr>
+              </template>
+            </BaseDataTable>
+          </div>
+        </div>
+
+        <div class="max-w-lg md:max-w-4xl mx-auto">
+          <RadarChart
+            :chart-data="radarData"
+            :chart-options="initialRadarChartOptions()" />
+        </div>
       </div>
     </div>
   </BaseSidebar>
@@ -54,21 +104,31 @@ import {
 import { useStore } from '@/utils/store.js';
 import { computed, nextTick, onMounted, ref } from 'vue';
 import { isNil, orderBy } from 'lodash-es';
-import PaginationButton from '@/components/PaginationButton.vue';
+import PaginationButton from '@/components/pagination/PaginationButton.vue';
 import BarChart from '@/components/charts/BarChart.vue';
 import csv from '@/assets/stats/PickleballEffect.csv';
+import BaseDataTable from '@/components/BaseDataTable.vue';
 
 const paddleData = csv.filter((item) => {
   return item['Power Percentile'] && item['Pop Percentile'];
 });
-const paddleKeys = ['Power (MPH)', 'Pop (MPH)', 'Swingweight', 'Twistweight'];
 
+const paddleMenu = [
+  { title: 'Power', key: 'Power (MPH)' },
+  { title: 'Pop', key: 'Pop (MPH)' },
+  { title: 'Swing Weight', key: 'Swingweight' },
+  { title: 'Twist Weight', key: 'Twistweight' },
+];
+
+const currentMenuIndex = ref(0);
 const currentChartLevel = ref(0);
+const currentPaddle = ref({});
 const currentChartKey = ref('');
 const chartLevelData = ref({});
 const breadcrumbs = ref([]);
 const radarData = ref({});
 const showChart = ref(false);
+const isAscending = ref(false);
 
 const store = useStore();
 const dataId = store.initializeData();
@@ -141,10 +201,12 @@ const processChartData = (data, index = null) => {
   for (const [key, value] of Object.entries(data)) {
     dataList.push({
       label: key,
-      count: value[paddleKeys[0]],
+      count: value[paddleMenu[currentMenuIndex.value].key],
     });
   }
-  const sortedList = orderBy(dataList, ['count'], ['desc']);
+
+  const order = isAscending.value ? ['asc'] : ['desc'];
+  const sortedList = orderBy(dataList, ['count'], order);
 
   store.resetData(dataId);
   window.innerWidth > 1024
@@ -206,7 +268,7 @@ const getAllPaddlesChart = (index) => {
 
 const getPaddleStatChart = (index) => {
   const paddle = getChartData(index);
-  chartLevelData.value[currentChartLevel.value] = paddle;
+  currentPaddle.value = paddle;
 
   processChartData([paddle], index);
 
@@ -233,8 +295,25 @@ const getPaddleStatChart = (index) => {
   };
 };
 
+const changeFilter = async (index) => {
+  currentMenuIndex.value = index;
+  chartOptions.plugins.title.text[0] = paddleMenu[index].key;
+  await actionHandler(0);
+};
+
+const changeSort = async (index) => {
+  if (isAscending.value && index === 0) {
+    return;
+  }
+  if (!isAscending.value && index === 1) {
+    return;
+  }
+  isAscending.value = !isAscending.value;
+  await actionHandler(0);
+};
+
 onMounted(async () => {
-  chartOptions.plugins.title.text[0] = paddleKeys[0];
+  chartOptions.plugins.title.text[0] = paddleMenu[0].key;
   await actionHandler(0);
 });
 </script>
