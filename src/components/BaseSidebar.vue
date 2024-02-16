@@ -1,8 +1,8 @@
 <template>
-  <div class="drawer md:drawer-open">
+  <div class="drawer lg:drawer-open">
     <input id="my-drawer" type="checkbox" class="drawer-toggle" />
     <div class="drawer-content flex flex-col">
-      <nav class="navbar w-full md:hidden">
+      <nav class="navbar w-full lg:hidden">
         <div class="flex flex-1 md:gap-1 lg:gap-2">
           <span
             class="tooltip tooltip-bottom before:text-xs before:content-[attr(data-tip)]"
@@ -10,7 +10,7 @@
             <label
               aria-label="Open menu"
               for="my-drawer"
-              class="btn btn-square btn-ghost drawer-button md:hidden">
+              class="btn btn-square btn-ghost drawer-button lg:hidden">
               <svg
                 width="20"
                 height="20"
@@ -26,12 +26,12 @@
               </svg>
             </label>
           </span>
-          <div class="flex items-center gap-2 md:hidden">Pickleball Graphs</div>
+          <div class="flex items-center gap-2 lg:hidden">Pickleball Graphs</div>
         </div>
       </nav>
 
       <!-- Page content here -->
-      <div class="px-6 pb-16 max-w-7xl mx-auto">
+      <div class="px-6 pb-16 min-h-screen max-w-7xl mx-auto">
         <slot></slot>
       </div>
     </div>
@@ -63,16 +63,16 @@
             </div>
           </router-link>
         </li>
-        <li>
-          <router-link
-            :to="{ name: ROUTES.johnkewpb }"
-            :class="{ active: route.name === ROUTES.johnkewpb }">
-            <div class="flex gap-x-2">
-              <img class="h-8" src="/src/assets/Johnkew-Logo.png" />
-              Johnkew Pickleball
-            </div>
-          </router-link>
-        </li>
+<!--        <li>-->
+<!--          <router-link-->
+<!--            :to="{ name: ROUTES.johnkewpb }"-->
+<!--            :class="{ active: route.name === ROUTES.johnkewpb }">-->
+<!--            <div class="flex gap-x-2">-->
+<!--              <img class="h-8" src="/src/assets/Johnkew-Logo.png" />-->
+<!--              Johnkew Pickleball-->
+<!--            </div>-->
+<!--          </router-link>-->
+<!--        </li>-->
       </ul>
     </div>
   </div>
