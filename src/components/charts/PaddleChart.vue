@@ -2,7 +2,16 @@
   <div class="mt-4 flex flex-col items-center">
     <div class="flex gap-4">
       <div>
-        <p class="mx-2 font-medium">Sort By</p>
+        <p class="pt-0 pb-2 label font-medium">Select Brand</p>
+        <FormKit
+          type="select"
+          name="paddle"
+          :options="selectPaddleOptions"
+          @change="changePaddle($event)" />
+      </div>
+
+      <div>
+        <p class="py-0 label font-medium">Sort By</p>
         <ul
           class="menu menu-vertical md:menu-horizontal bg-base-200 rounded-box">
           <li v-for="(item, index) in paddleMenu" :key="item">
@@ -18,7 +27,7 @@
       </div>
 
       <div>
-        <p class="mx-2 font-medium">Direction</p>
+        <p class="py-0 label font-medium">Direction</p>
         <ul
           class="menu menu-vertical md:menu-horizontal bg-base-200 rounded-box">
           <li>
@@ -36,7 +45,7 @@
     </div>
 
     <div class="breadcrumbs mt-6 mb-2">
-      <ul>
+      <ul v-if="currentChartLevel > 0">
         <li v-for="(item, level) in breadcrumbs" :key="item">
           <a
             class="text-blue-500"
@@ -48,39 +57,36 @@
       </ul>
     </div>
     <div v-if="currentChartLevel === 0">
-      <div v-if="showChart">
-        <BarChart :chart-data="chartData" :chart-options="chartOptions" />
-        <div class="mt-2">
-          <PaginationButton :data-id="dataId" />
-        </div>
+      <BarChart :chart-data="chartData" :chart-options="chartOptions" />
+      <div class="mt-2">
+        <PaginationButton :data-id="dataId" />
       </div>
     </div>
+
     <div v-else>
-      <div v-if="showChart">
-        <div class="max-w-lg md:max-w-2xl lg:max-w-6xl mb-4 mx-auto">
-          <BaseDataTable>
-            <template #table-header>
-              <tr class="bg-gray-200">
-                <th
-                  v-for="col in Object.keys(currentPaddle)"
-                  :key="col"
-                  class="px-4 py-2 text-left">
-                  <p class="text-base font-semibold">{{ col }}</p>
-                </th>
-              </tr>
-            </template>
-            <template #table-body>
-              <tr>
-                <td
-                  v-for="col in Object.keys(currentPaddle)"
-                  :key="col"
-                  class="px-4 py-2">
-                  {{ currentPaddle[col] }}
-                </td>
-              </tr>
-            </template>
-          </BaseDataTable>
-        </div>
+      <div class="max-w-lg md:max-w-2xl lg:max-w-6xl mb-4 mx-auto">
+        <BaseDataTable>
+          <template #table-header>
+            <tr class="bg-gray-200">
+              <th
+                v-for="col in Object.keys(currentPaddle)"
+                :key="col"
+                class="px-4 py-2 text-left">
+                <p class="text-base font-semibold">{{ col }}</p>
+              </th>
+            </tr>
+          </template>
+          <template #table-body>
+            <tr>
+              <td
+                v-for="col in Object.keys(currentPaddle)"
+                :key="col"
+                class="px-4 py-2">
+                {{ currentPaddle[col] }}
+              </td>
+            </tr>
+          </template>
+        </BaseDataTable>
       </div>
 
       <div class="max-w-lg md:max-w-4xl mx-auto">
@@ -101,7 +107,7 @@ import {
   initialRadarChartOptions,
 } from '@/utils/utils.js';
 import { useStore } from '@/utils/store.js';
-import { computed, nextTick, onMounted, ref } from 'vue';
+import { computed, onMounted, ref } from 'vue';
 import { isNil, orderBy } from 'lodash-es';
 import PaginationButton from '@/components/pagination/PaginationButton.vue';
 import BarChart from '@/components/charts/BarChart.vue';
@@ -118,13 +124,21 @@ const currentChartLevel = ref(0);
 const currentPaddle = ref({});
 const currentChartKey = ref('');
 const chartLevelData = ref({});
+const filteredPaddles = ref([...props.paddleData]);
 const breadcrumbs = ref([]);
 const radarData = ref({});
-const showChart = ref(false);
 const isAscending = ref(false);
 
 const store = useStore();
 const dataId = store.initializeData();
+
+const selectPaddleOptions = computed(() => {
+  const menu = props.paddleData.map((item) => {
+    return item[Object.keys(item)[props.paddleOrder[0]]];
+  });
+  const uniqueMenu = new Set(menu.sort());
+  return ['All', ...uniqueMenu];
+});
 
 const chartData = computed(() => {
   const dataList = store.getPaginatedData(dataId);
@@ -132,7 +146,7 @@ const chartData = computed(() => {
 });
 
 const chartOptions = initialBarChartOptions();
-chartOptions.onClick = async (event) => {
+chartOptions.onClick = (event) => {
   const element = event.chart.getElementsAtEventForMode(
     event,
     'nearest',
@@ -146,12 +160,11 @@ chartOptions.onClick = async (event) => {
     const pageSize = store.getPageSize(dataId);
     const offset = element[0].index;
     index = currentPage * pageSize + offset;
-    await actionHandler(currentChartLevel.value + 1, index);
+    actionHandler(currentChartLevel.value + 1, index);
   }
 };
 
-const actionHandler = async (level, index = null) => {
-  showChart.value = false;
+const actionHandler = (level, index = null) => {
   currentChartLevel.value = level;
 
   switch (level) {
@@ -164,9 +177,6 @@ const actionHandler = async (level, index = null) => {
     default:
       currentChartLevel.value = level - 1;
   }
-
-  await nextTick();
-  showChart.value = true;
 };
 
 const getChartData = (index = null) => {
@@ -181,7 +191,7 @@ const getChartData = (index = null) => {
 
   let paddles;
   if (currentChartLevel.value === 0) {
-    paddles = props.paddleData;
+    paddles = filteredPaddles.value;
   } else {
     paddles =
       chartLevelData.value[currentChartLevel.value - 1][currentChartKey.value];
@@ -300,27 +310,38 @@ const getLabel = (paddle) => {
   return `${brand} ${name}`;
 };
 
-const changeSort = async (index) => {
+const changePaddle = (event) => {
+  const value = event.target.value;
+  const fullPaddleList = [...props.paddleData];
+  if (value === 'All') {
+    filteredPaddles.value = fullPaddleList;
+  } else {
+    filteredPaddles.value = fullPaddleList.filter((item) => {
+      return item[Object.keys(item)[props.paddleOrder[0]]] === value;
+    });
+  }
+  actionHandler(0);
+};
+
+const changeSort = (index) => {
   currentMenuIndex.value = index;
   chartOptions.plugins.title.text[0] = props.paddleMenu[index].key;
 
-  if(index === 0) {
+  if (index === 0) {
     chartOptions.scales.x.ticks.precision = 1;
-  }
-  else if (index === 1) {
+  } else if (index === 1) {
     chartOptions.scales.x.ticks.precision = 1;
   }
   if (index === 2) {
     chartOptions.scales.x.ticks.precision = 0;
-  }
-  else if (index === 3) {
+  } else if (index === 3) {
     chartOptions.scales.x.ticks.precision = 1;
   }
 
-  await actionHandler(0);
+  actionHandler(0);
 };
 
-const changeDirection = async (index) => {
+const changeDirection = (index) => {
   if (isAscending.value && index === 0) {
     return;
   }
@@ -328,11 +349,11 @@ const changeDirection = async (index) => {
     return;
   }
   isAscending.value = !isAscending.value;
-  await actionHandler(0);
+  actionHandler(0);
 };
 
-onMounted(async () => {
+onMounted(() => {
   chartOptions.plugins.title.text[0] = props.paddleMenu[0].key;
-  await actionHandler(0);
+  actionHandler(0);
 });
 </script>

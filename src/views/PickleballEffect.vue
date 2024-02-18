@@ -11,8 +11,11 @@
 import BaseSidebar from '@/components/BaseSidebar.vue';
 import csv from '@/assets/stats/PickleballEffect.csv';
 import PaddleChart from '@/components/charts/PaddleChart.vue';
+import { each } from 'lodash-es';
 
-const paddleData = csv.filter((item) => {
+const cleanData = each(csv, (o) => each(o, (v, k) => (o[k] = v.trim())));
+
+const paddleData = cleanData.filter((item) => {
   return item['Power Percentile'] && item['Pop Percentile'];
 });
 

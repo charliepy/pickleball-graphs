@@ -1,7 +1,7 @@
 {
   "name": "pickleball",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,6 +12,7 @@
     "@formkit/icons": "^1.5.9",
     "@formkit/themes": "^1.5.9",
     "@formkit/vue": "^1.5.9",
+    "axios": "^1.6.7",
     "chart.js": "^4.4.1",
     "lodash-es": "^4.17.21",
     "pinia": "^2.1.7",

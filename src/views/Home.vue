@@ -4,8 +4,8 @@
       <div class="flex flex-col items-center">
         <h2>Pickleball Graphs</h2>
         <h3>Powered By:</h3>
-        <img class="h-40 lg:h-48" src="/src/assets/chart-js-logo.png" />
-        <h4>Last updated: February 14, 2024</h4>
+        <img class="h-40 lg:h-48" src="/src/assets/chart-js-logo.png" alt="chart.js logo" />
+        <h4>Last updated: {{ LAST_UPDATE }}</h4>
       </div>
 
       <p>The graphs generated here come from The Big 3 pickleball reviewers</p>
@@ -115,4 +115,5 @@
 
 <script setup>
 import BaseSidebar from '@/components/BaseSidebar.vue';
+import { LAST_UPDATE } from '../utils/utils.js';
 </script>

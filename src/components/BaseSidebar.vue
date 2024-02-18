@@ -48,7 +48,7 @@
             :to="{ name: ROUTES.home }"
             :class="{ active: route.name === ROUTES.home }">
             <div class="flex gap-x-2">
-              <img class="h-8" src="/favicon.ico" />
+              <img class="h-8" src="/favicon.ico" alt="home icon" />
               Home
             </div>
           </router-link>
@@ -58,7 +58,10 @@
             :to="{ name: ROUTES.pbeffect }"
             :class="{ active: route.name === ROUTES.pbeffect }">
             <div class="flex gap-x-2">
-              <img class="h-8" src="/src/assets/PE-Logo.png" />
+              <img
+                class="h-8"
+                src="/src/assets/PE-Logo.png"
+                alt="pickleball effect logo" />
               PickleBall Effect
             </div>
           </router-link>
@@ -68,7 +71,10 @@
             :to="{ name: ROUTES.johnkewpb }"
             :class="{ active: route.name === ROUTES.johnkewpb }">
             <div class="flex gap-x-2">
-              <img class="h-8" src="/src/assets/Johnkew-Logo.png" />
+              <img
+                class="h-8"
+                src="/src/assets/Johnkew-Logo.png"
+                alt="johnkew pickleball logo" />
               Johnkew Pickleball
             </div>
           </router-link>
