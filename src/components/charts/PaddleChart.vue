@@ -1,6 +1,6 @@
 <template>
   <div class="mt-4 flex flex-col items-center">
-    <div class="flex gap-4">
+    <div class="flex gap-4 mb-2">
       <div>
         <p class="pt-0 pb-2 label font-medium">Select Brand</p>
         <FormKit
@@ -44,8 +44,8 @@
       </div>
     </div>
 
-    <div class="breadcrumbs mt-6 mb-2">
-      <ul v-if="currentChartLevel > 0">
+    <div v-if="currentChartLevel > 0" class="breadcrumbs mb-2">
+      <ul>
         <li v-for="(item, level) in breadcrumbs" :key="item">
           <a
             class="text-blue-500"
