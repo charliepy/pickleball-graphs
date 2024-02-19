@@ -79,19 +79,19 @@
             </div>
           </router-link>
         </li>
-        <li>
-          <router-link
-            :to="{ name: ROUTES.pbbrackets }"
-            :class="{ active: route.name === ROUTES.pbbrackets }">
-            <div class="flex gap-x-2">
-              <img
-                class="h-8"
-                src="/src/assets/PB-Logo.png"
-                alt="johnkew pickleball logo" />
-              Tournament Lookup
-            </div>
-          </router-link>
-        </li>
+<!--        <li>-->
+<!--          <router-link-->
+<!--            :to="{ name: ROUTES.pbbrackets }"-->
+<!--            :class="{ active: route.name === ROUTES.pbbrackets }">-->
+<!--            <div class="flex gap-x-2">-->
+<!--              <img-->
+<!--                class="h-8"-->
+<!--                src="/src/assets/PB-Logo.png"-->
+<!--                alt="pickleball brackets logo" />-->
+<!--              Tournament Lookup-->
+<!--            </div>-->
+<!--          </router-link>-->
+<!--        </li>-->
       </ul>
     </div>
   </div>
