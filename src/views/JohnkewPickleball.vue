@@ -1,9 +1,11 @@
 <template>
   <BaseSidebar>
-    <PaddleChart
-      :paddle-order="paddleOrder"
-      :paddle-menu="paddleMenu"
-      :paddle-data="paddleData" />
+    <div class="max-w-7xl mx-auto">
+      <PaddleChart
+        :paddle-order="paddleOrder"
+        :paddle-menu="paddleMenu"
+        :paddle-data="paddleData" />
+    </div>
   </BaseSidebar>
 </template>
 

@@ -11,7 +11,7 @@
         submit-label="Go"
         :submit-attrs="{
           wrapperClass: 'mt-2',
-          inputClass: 'w-full justify-center bg-blue-500',
+          inputClass: 'w-full justify-center',
         }"
         @submit="submitForm">
         <FormKit

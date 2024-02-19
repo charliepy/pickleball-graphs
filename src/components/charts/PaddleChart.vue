@@ -107,7 +107,7 @@ import {
   initialRadarChartOptions,
 } from '@/utils/utils.js';
 import { useStore } from '@/utils/store.js';
-import { computed, onMounted, ref } from 'vue';
+import { computed, onMounted, onUnmounted, ref } from 'vue';
 import { isNil, orderBy } from 'lodash-es';
 import PaginationButton from '@/components/pagination/PaginationButton.vue';
 import BarChart from '@/components/charts/BarChart.vue';
@@ -356,4 +356,8 @@ onMounted(() => {
   chartOptions.plugins.title.text[0] = props.paddleMenu[0].key;
   actionHandler(0);
 });
+
+onUnmounted(() => {
+  store.deleteKey(dataId);
+})
 </script>

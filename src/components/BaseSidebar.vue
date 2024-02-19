@@ -31,7 +31,7 @@
       </nav>
 
       <!-- Page content here -->
-      <div class="px-6 pb-16 min-h-screen max-w-7xl mx-auto">
+      <div class="px-6 pb-16 min-h-screen">
         <slot></slot>
       </div>
     </div>
@@ -76,6 +76,19 @@
                 src="/src/assets/Johnkew-Logo.png"
                 alt="johnkew pickleball logo" />
               Johnkew Pickleball
+            </div>
+          </router-link>
+        </li>
+        <li>
+          <router-link
+            :to="{ name: ROUTES.pbbrackets }"
+            :class="{ active: route.name === ROUTES.pbbrackets }">
+            <div class="flex gap-x-2">
+              <img
+                class="h-8"
+                src="/src/assets/PB-Logo.png"
+                alt="johnkew pickleball logo" />
+              Tournament Lookup
             </div>
           </router-link>
         </li>

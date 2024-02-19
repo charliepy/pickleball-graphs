@@ -21,6 +21,12 @@ const routes = [
     meta: { title: 'Johnkew Pickleball' },
   },
   {
+    path: '/pickleball-graphs/pb-brackets',
+    name: ROUTES.pbbrackets,
+    component: () => import('@/views/PickleballBrackets.vue'),
+    meta: { title: 'Pickleball Brackets' },
+  },
+  {
     path: '/:notFound(.*)',
     name: 'notFound',
     component: () => import('@/views/NotFound.vue'),

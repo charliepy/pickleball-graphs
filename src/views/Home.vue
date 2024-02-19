@@ -1,6 +1,6 @@
 <template>
   <BaseSidebar>
-    <article class="prose lg:prose-xl max-w-full">
+    <article class="prose lg:prose-xl max-w-7xl mx-auto">
       <div class="flex flex-col items-center">
         <h2>Pickleball Graphs</h2>
         <h3>Powered By:</h3>
