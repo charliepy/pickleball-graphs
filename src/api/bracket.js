@@ -108,7 +108,7 @@ export const useBracketStore = defineStore(
 
       try {
         const response = await axios.post(
-          'https://pickleballbrackets.com/Json.asmx/EventsSearch_PublicUI',
+          'https://6lvb2h8axk.execute-api.us-east-2.amazonaws.com/pickleball',
           payload,
         );
 
