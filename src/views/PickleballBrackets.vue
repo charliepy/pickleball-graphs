@@ -56,7 +56,12 @@
                   {{ item['EventActivityFirstDate'] }}
                 </td>
                 <td class="px-4 py-2">
-                  {{ item['Title'] }}
+                  <a
+                    class="text-blue-500 hover:underline"
+                    :href="`https://pickleballbrackets.com/ptplg.aspx?eid=${item['EventID']}`"
+                    target="_blank">
+                    {{ item['Title'] }}
+                  </a>
                 </td>
                 <td class="px-4 py-2">
                   {{ item['RegistrationCount_InAtLeastOneLiveEvent'] }}
