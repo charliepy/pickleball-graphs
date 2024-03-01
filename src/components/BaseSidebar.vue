@@ -81,6 +81,18 @@
         </li>
         <li>
           <router-link
+            :to="{ name: ROUTES.misc }"
+            :class="{ active: route.name === ROUTES.misc }">
+            <div class="flex gap-x-2">
+              <FontAwesome
+                :icon="['fas', 'chart-simple']"
+                class="mr-2 h-6 w-6" />
+              Misc Stats
+            </div>
+          </router-link>
+        </li>
+        <li>
+          <router-link
             :to="{ name: ROUTES.pbbrackets }"
             :class="{ active: route.name === ROUTES.pbbrackets }">
             <div class="flex gap-x-2">

@@ -3,4 +3,5 @@ export const ROUTES = Object.freeze({
   pbeffect: 'pbeffect',
   johnkewpb: 'johnkewpb',
   pbbrackets: 'pbbrackets',
+  misc: 'misc'
 });

@@ -1,12 +1,12 @@
 import { brandIcons, eye, eyeClosed, genesisIcons } from '@formkit/icons';
 import { generateClasses } from '@formkit/themes';
 import genesis from '@formkit/themes/tailwindcss/genesis';
-import { faSpinner } from '@fortawesome/free-solid-svg-icons';
+import { faChartSimple, faSpinner } from '@fortawesome/free-solid-svg-icons';
 
 /***
  * FontAwesome
  ***/
-export const faIcons = [faSpinner];
+export const faIcons = [faSpinner, faChartSimple];
 
 /***
  * Formkit
