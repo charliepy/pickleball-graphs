@@ -1,103 +1,118 @@
 ﻿Paddle Name,Brand,Price,Year Released,Shape,Paddle Type,Core Thickness (mm),Handle Length (in),Weight (oz),Spin Rating,Spin (RPM),Swingweight,Swingweight Percentile,Twistweight,Twistweight Percentile,Balance Point (mm),Power (MPH),Power Percentile,Pop (MPH),Pop Percentile,Link to Paddle,Discount Code
-CRBN 1 Orginal (16 mm),CRBN,$179.99,2021,Elongated,Control,16,5.50,8.25,High,,118,58%,5.77,12%,238,,,,,https://a8qh.short.gy/crbn1,10EFFECT
-CRBN 1X Power Series (14 mm),CRBN,$229.99,2023,Elongated,Power,14,5.50,7.87,High,1917,119,63%,5.88,21%,243,52.0,58%,33.0,58%,https://a8qh.short.gy/crbn1x14,10EFFECT
-CRBN 1X Power Series (16 mm),CRBN,$229.99,2023,Elongated,All-Court,16,5.50,8.11,High,1915,124,88%,6.18,43%,244,52.2,68%,32.8,40%,https://a8qh.short.gy/crbn1x16,10EFFECT
-CRBN 2 Orignal (16 mm),CRBN,$179.99,2021,Standard,Control,16,4.75,7.94,High,,109,11%,7.03,90%,236,,,,,https://a8qh.short.gy/crbn2,10EFFECT
-CRBN 2X Power Series (14 mm),CRBN,$229.99,2023,Standard,Power,14,4.75,7.80,High,,105,2%,6.88,83%,232,,,,,https://a8qh.short.gy/crbn2x14,10EFFECT
-CRBN 2X Power Series (16 mm),CRBN,$229.99,2023,Standard,All-Court,16,4.75,8.20,High,,112,23%,7.75,100%,237,,,,,https://a8qh.short.gy/crbn2x16,10EFFECT
-CRBN 3X Power Series (14 mm),CRBN,$229.99,2023,Elongated,Power,14,5.25,7.87,High,,116,45%,6.39,56%,240,,,,,https://a8qh.short.gy/3x14,10EFFECT
-CRBN 3X Power Series (16 mm),CRBN,$229.99,2023,Elongated,All-Court,16,5.25,8.18,High,1920,119,63%,6.79,80%,241,51.8,50%,33.2,67%,https://a8qh.short.gy/crbn3x16,10EFFECT
-Edge 18k,Diadem,$229.99,2023,Elongated,Control,16,5.00,7.80,Very High,,117,50%,6.21,46%,244,,,,,https://a8qh.short.gy/E18K,10EFFECT
-Icon V2 Standard,Diadem,$199.99,2023,Standard,Power,14,5.25,8.00,High,,106,3%,5.87,19%,230,,,,,https://a8qh.short.gy/V2S,10EFFECT
-Icon V2 XL,Diadem,$199.99,2023,Elongated,Power,14,5.50,8.20,High,,122,76%,5.65,10%,241,,,,,https://a8qh.short.gy/V2XL,10EFFECT
-Model E Elite,Electrum,$199.99,2023,Elongated,All-Court,16,5.25,8.16,High,,121,72%,6.93,86%,243,,,,,https://a8qh.short.gy/Elite,10EFFECT
-Pro 2,Electrum,$149.99,2022,Standard,Power,11,5.25,8.30,Very High,,117,50%,7.15,93%,239,,,,,https://a8qh.short.gy/Pro2,10EFFECT
-Pursuit MAXX EX 6.0,Engage,$199.99,2024,Standard,All-Court,16,5.00,8.10,,,117,50%,7.61,98%,244,,,,,https://a8qh.short.gy/MaxxEX6,20EFFECT
-Pursuit MAXX MX 6.0,Engage,$199.99,2024,Elongated,Power,16,5.75,8.20,,,125,90%,6.44,60%,245,,,,,https://a8qh.short.gy/MX60M,20EFFECT
-Pursuit Pro EX,Engage,$259.99,2023,Standard,Power,13,5.00,8.00,Very High,1952,110,13%,6.77,78%,236,53.3,88%,34.5,98%,https://a8qh.short.gy/EXPRO,20EFFECT
-Pursuit Pro EX 6.0,Engage,$259.99,2023,Standard,All-Court,16,5.00,7.92,Very High,1946,115,35%,7.37,97%,243,53.8,92%,32.2,16%,https://a8qh.short.gy/EXPRO60,20EFFECT
-Pursuit Pro MX,Engage,$259.99,2023,Elongated,Power,13,5.75,8.06,Very High,,119,63%,5.88,21%,239,,,,,https://a8qh.short.gy/MXPRO,20EFFECT
-Pursuit Pro MX 6.0,Engage,$259.99,2023,Elongated,All-Court,16,5.75,7.87,Very High,,125,90%,6.57,67%,254,54.8,98%,32.6,33%,https://a8qh.short.gy/MXPRO60,20EFFECT
-CX14H Ultimate Power,Gearbox,$249.99,2023,Standard,All-Court,14,5.50,8.50,High,,96,0%,5.31,4%,203,,,,,https://a8qh.short.gy/CX14U,N/A
-Pro Control Elongated,Gearbox,$274.99,2023,Elongated,All-Court,14,5.50,8.07,Very High,1914,123,82%,5.01,1%,247,52.0,58%,32.2,16%,https://a8qh.short.gy/PCE,N/A
-Pro Control Integra,Gearbox,$274.99,2023,Standard,All-Court,14,5.50,7.95,Very High,1954,116,45%,5.12,2%,246,51.8,50%,32.8,40%,https://a8qh.short.gy/PCF,N/A
-Pro Power Elongated,Gearbox,$274.99,2023,Elongated,Power,14,5.50,7.88,Very High,1986,121,72%,5.16,3%,248,55.2,100%,33.5,82%,https://a8qh.short.gy/PPE,N/A
-Pro Power Integra,Gearbox,$274.99,2023,Standard,Power,14,5.50,7.98,Very High,1951,114,28%,4.96,0%,241,54.0,94%,33.8,87%,https://a8qh.short.gy/PPF,N/A
-Pro,Legacy,$169.99,2023,Elongated,All-Court,16,5.30,8.10,High,,122,76%,6.69,73%,245,,,,,,
-Aero Infinityshot,Oneshot,$220.00,2023,Elongated,All-Court,15,5.50,8.27,High,,120,68%,5.88,21%,240,,,,,,
-Pro Series 13,PCKL,$160.00,2023,Elongated,All-Court,13,5.50,7.90,High,,108,8%,5.97,27%,231,,,,,https://a8qh.short.gy/PCKL,15EFFECT
-Pro Series 16,PCKL,$160.00,2023,Elongated,Control,16,5.50,8.00,High,,115,35%,6.48,62%,239,,,,,https://a8qh.short.gy/PCKL,15EFFECT
+Hurache-X Control +,11Six24,$139.99,2024,Elongated,All-Court,16,6.00,7.94,High,1940,117,48%,6.32,48%,240,53.2,71%,33.9,87%,https://a8qh.short.gy/HX,10EFFECT
+X2 Lite,Body Helix,$160.00,2023,Elongated,All-Court,16,6.00,8.12,High,1842,123,83%,6.32,48%,245,51.0,12%,31.8,3%,https://a8qh.short.gy/X2Lite,N/A
+X2 Pro,Body Helix,$180.00,2023,Elongated,Power,19,6.00,8.88,High,1981,134,97%,6.74,76%,246,53.0,61%,32.8,29%,https://a8qh.short.gy/X2Pro,N/A
+X3 Lite,Body Helix,$160.00,2023,Elongated,All-Court,16,6.00,8.25,High,1920,125,91%,6.03,30%,245,51.0,12%,32.8,29%,https://a8qh.short.gy/X3Lite,N/A
+X3 Pro,Body Helix,$180.00,2023,Elongated,Power,18,6.00,8.73,High,1949,132,97%,6.65,70%,246,52.8,59%,32.2,10%,https://a8qh.short.gy/X3Pro,N/A
+Filth,Bread & Butter,$165.00,2023,Elongated,All-Court,16,5.50,8.07,High,1915,123,83%,6.24,45%,245,52.8,59%,33.2,53%,https://a8qh.short.gy/Filth,15EFFECT
+Loco,Bread & Butter,$165.00,2023,Hybrid,Control,16,5.30,7.70,High,1949,114,26%,6.20,43%,243,51.4,25%,33.0,43%,https://a8qh.short.gy/LOCO,15EFFECT
+CRBN 1 Orginal (16 mm),CRBN,$179.99,2021,Elongated,Control,16,5.50,8.25,High,,118,58%,5.77,11%,238,,,,,https://a8qh.short.gy/crbn1,10EFFECT
+CRBN 1X Power Series (14 mm),CRBN,$229.99,2023,Elongated,Power,14,5.50,7.87,High,1917,119,63%,5.88,21%,243,51.7,33%,33.0,43%,https://a8qh.short.gy/crbn1x14,10EFFECT
+CRBN 1X Power Series (16 mm),CRBN,$229.99,2023,Elongated,All-Court,16,5.50,8.11,High,1915,124,88%,6.18,41%,244,52.2,45%,32.9,40%,https://a8qh.short.gy/crbn1x16,10EFFECT
+CRBN 2 Orignal (16 mm),CRBN,$179.99,2021,Standard,Control,16,4.75,7.94,High,,109,10%,7.03,90%,236,,,,,https://a8qh.short.gy/crbn2,10EFFECT
+CRBN 2X Power Series (14 mm),CRBN,$229.99,2023,Standard,Power,14,4.75,7.80,High,,105,2%,6.88,84%,232,,,,,https://a8qh.short.gy/crbn2x14,10EFFECT
+CRBN 2X Power Series (16 mm),CRBN,$229.99,2023,Standard,All-Court,16,4.75,8.20,High,,112,21%,7.75,100%,237,,,,,https://a8qh.short.gy/crbn2x16,10EFFECT
+CRBN 3X Power Series (14 mm),CRBN,$229.99,2023,Elongated,Power,14,5.25,7.87,High,,116,41%,6.39,54%,240,,,,,https://a8qh.short.gy/3x14,10EFFECT
+CRBN 3X Power Series (16 mm),CRBN,$229.99,2023,Elongated,All-Court,16,5.25,8.18,High,1920,119,63%,6.79,80%,241,52.7,56%,33.2,53%,https://a8qh.short.gy/crbn3x16,10EFFECT
+Edge 18k,Diadem,$229.99,2023,Elongated,Control,16,5.00,7.80,Very High,,117,48%,6.21,44%,244,,,,,https://a8qh.short.gy/E18K,10EFFECT
+Icon V2 Standard,Diadem,$199.99,2023,Standard,Power,14,5.25,8.00,High,,106,3%,5.87,18%,230,,,,,https://a8qh.short.gy/V2S,10EFFECT
+Icon V2 XL,Diadem,$199.99,2023,Elongated,Power,14,5.50,8.20,High,,122,77%,5.65,9%,241,,,,,https://a8qh.short.gy/V2XL,10EFFECT
+Model E Elite,Electrum,$199.99,2023,Elongated,All-Court,16,5.25,8.16,High,,121,73%,6.93,86%,243,,,,,https://a8qh.short.gy/Elite,10EFFECT
+Pro 2,Electrum,$149.99,2022,Standard,Power,11,5.25,8.30,Very High,,117,48%,7.15,93%,239,,,,,https://a8qh.short.gy/Pro2,10EFFECT
+Pursuit MAXX EX 6.0,Engage,$199.99,2024,Standard,All-Court,16,5.00,8.10,,1815,117,48%,7.61,98%,244,52.7,56%,33.3,60%,https://a8qh.short.gy/MaxxEX6,20EFFECT
+Pursuit MAXX MX 6.0,Engage,$199.99,2024,Elongated,Power,16,5.75,8.20,,1780,125,91%,6.44,58%,245,53.0,61%,33.4,63%,https://a8qh.short.gy/MX60M,20EFFECT
+Pursuit Pro EX,Engage,$259.99,2023,Standard,Power,13,5.00,8.00,Very High,1952,110,12%,6.77,78%,236,53.3,72%,34.5,99%,https://a8qh.short.gy/EXPRO,20EFFECT
+Pursuit Pro EX 6.0,Engage,$259.99,2023,Standard,All-Court,16,5.00,7.92,Very High,1946,115,33%,7.37,97%,243,53.8,84%,33.2,53%,https://a8qh.short.gy/EXPRO60,20EFFECT
+Pursuit Pro MX,Engage,$259.99,2023,Elongated,Power,13,5.75,8.06,Very High,,119,63%,5.88,21%,239,53.9,88%,34.4,97%,https://a8qh.short.gy/MXPRO,20EFFECT
+Pursuit Pro MX 6.0,Engage,$259.99,2023,Elongated,All-Court,16,5.75,7.87,Very High,,125,91%,6.57,66%,254,54.8,99%,33.7,80%,https://a8qh.short.gy/MXPRO60,20EFFECT
+FS Tour Dynasty (14mm),Franklin,$150.00,2023,Elongated,Power,14,5.60,8.28,High,1975,124,88%,6.56,66%,242,53.7,81%,33.4,63%,https://a8qh.short.gy/D14,N/A
+FS Tour Dynasty (16mm),Franklin,$150.00,2023,Elongated,All-Court,16,5.60,8.69,High,1864,134,97%,7.22,94%,246,54.2,95%,32.4,14%,https://a8qh.short.gy/D16,N/A
+FS Tour Tempo (14mm),Franklin,$150.00,2023,Standard,All-Court,14,5.00,8.47,High,1920,117,48%,7.23,95%,235,54.0,89%,33.2,53%,https://a8qh.short.gy/T14,N/A
+FS Tour Tempo (16mm),Franklin,$150.00,2023,Standard,Control,16,5.00,8.90,High,1925,123,83%,7.68,99%,234,53.8,84%,31.8,3%,https://a8qh.short.gy/T16,N/A
+RCF-Airbender 16,Gamma,$199.99,2024,Elongated,,16,5.30,8.45,High,1896,118,58%,5.80,14%,,53.0,61%,32.9,40%,https://a8qh.short.gy/Bender,10EFFECT
+RCF-Obsidian 10,Gamma,$159.99,2024,Elongated,,10,5.75,7.90,High,1813,116,41%,5.87,18%,243,53.1,67%,34.0,91%,https://a8qh.short.gy/O10,10EFFECT
+RCF-Obsidian 13,Gamma,$159.99,2024,Elongated,,13,5.75,8.03,High,1893,116,41%,6.18,41%,240,52.5,52%,32.8,29%,https://a8qh.short.gy/O13,10EFFECT
+RCF-Obsidian 16,Gamma,$159.99,2024,Elongated,,16,5.75,8.13,High,1897,120,69%,6.53,63%,244,53.3,72%,32.6,20%,https://a8qh.short.gy/O16,10EFFECT
+CX14H Ultimate Power,Gearbox,$249.99,2023,Standard,All-Court,14,5.50,8.50,High,,96,0%,5.31,3%,203,,,,,https://a8qh.short.gy/CX14U,N/A
+Pro Control Elongated,Gearbox,$274.99,2023,Elongated,All-Court,14,5.50,8.07,Very High,1914,123,83%,5.01,1%,247,52.0,39%,32.2,10%,https://a8qh.short.gy/PCE,N/A
+Pro Control Integra,Gearbox,$274.99,2023,Standard,All-Court,14,5.50,7.95,Very High,1954,116,41%,5.12,2%,246,51.8,35%,32.8,29%,https://a8qh.short.gy/PCF,N/A
+Pro Power Elongated,Gearbox,$274.99,2023,Elongated,Power,14,5.50,7.88,Very High,1986,121,73%,5.16,3%,248,55.2,100%,33.5,71%,https://a8qh.short.gy/PPE,N/A
+Pro Power Integra,Gearbox,$274.99,2023,Standard,Power,14,5.50,7.98,Very High,1951,114,26%,4.96,0%,241,54.0,89%,33.8,83%,https://a8qh.short.gy/PPF,N/A
+Tour Radical Raw EX,Head,$169.95,2023,Elongated,Control,15,5.50,8.17,High,,115,33%,5.56,5%,236,,,,,https://a8qh.short.gy/EXRaw,N/A
+Mav Pro,Holbrook,$219.99,2023,Elongated,All-Court,13,5.50,8.17,Medium,,123,83%,6.10,34%,245,,,,,https://a8qh.short.gy/MP,N/A
+Power Pro,Holbrook,$219.99,2023,Elongated,All-Court,16,5.50,8.03,High,,121,73%,6.39,54%,241,,,,,https://a8qh.short.gy/HP,N/A
+Pro Power E,Holbrook,$219.99,2023,Elongated,All-Court,16,5.25,8.25,High,,122,77%,6.68,72%,241,,,,,https://a8qh.short.gy/HPE,N/A
+Viva Pro Gen 2,Hudef,$129.99,2023,Elongated,All-Court,16,5.50,8.06,,1854,125,91%,6.43,57%,251,53.6,80%,33.4,63%,https://a8qh.short.gy/VGEN2,10EFFECT
+Perseus (14 mm),Joola,$249.99,2023,Elongated,Power,14,5.50,7.93,High,,120,69%,5.77,11%,247,,,,,https://a8qh.short.gy/P14,10EFFECT
+Perseus (16 mm),Joola,$249.99,2023,Elongated,Control,16,5.50,7.85,High,1818,117,48%,5.87,18%,244,51.0,12%,32.8,29%,https://a8qh.short.gy/P16,10EFFECT
+Scorpeus (14 mm),Joola,$249.99,2023,Standard,All-Court,14,5.25,7.65,High,1856,108,8%,6.45,59%,238,51.0,12%,33.6,76%,https://a8qh.short.gy/S14,10EFFECT
+Scorpeus (16 mm),Joola,$249.99,2023,Standard,Control,16,5.25,8.02,High,1845,114,26%,6.86,83%,238,50.8,9%,32.6,20%,https://a8qh.short.gy/S16,10EFFECT
+Pro,Legacy,$169.99,2023,Elongated,All-Court,16,5.30,8.10,High,,122,77%,6.69,72%,245,,,,,,
+Flow,Neonic,$129.99,2024,Hybrid,Control,16,5.20,8.14,,1914,117,48%,6.58,68%,238,52.3,48%,32.7,26%,https://a8qh.short.gy/Flow,10EFFECT
+Force,Neonic,$99.99,2023,Elongated,All-Court,16,5.30,8.06,High,1814,116,41%,6.35,51%,238,52.4,49%,32.8,29%,https://a8qh.short.gy/force16,10EFFECT
+Aero Infinityshot,Oneshot,$220.00,2023,Elongated,All-Court,15,5.50,8.27,High,,120,69%,5.88,21%,240,,,,,,
+Pro Series 13,PCKL,$160.00,2023,Elongated,All-Court,13,5.50,7.90,High,,108,8%,5.97,26%,231,,,,,https://a8qh.short.gy/PCKL,15EFFECT
+Pro Series 16,PCKL,$160.00,2023,Elongated,Control,16,5.50,8.00,High,,115,33%,6.48,60%,239,,,,,https://a8qh.short.gy/PCKL,15EFFECT
+Pro Line Energy,Pickleball Apes,$149.99,2023,Extra-elongated,Power,17,6.25,8.16,Very High,,127,94%,5.89,23%,248,53.0,61%,,,https://a8qh.short.gy/ApesE,10EFFECT
+Pro Line Energy S,Pickleball Apes,$169.99,2023,Hybrid,All-Court,17,5.50,8.10,Very High,,116,41%,6.26,46%,238,50.2,4%,,,https://a8qh.short.gy/ApesES,10EFFECT
+Vantage Pro (14mm),PIKKL,$139.99,2023,Hybrid,All-Court,14,5.30,8.04,Very High,1998,115,33%,6.28,47%,236,50.4,8%,,,https://a8qh.short.gy/V14,N/A
+Vantage Pro (16mm),PIKKL,$139.99,2023,Hybrid,All-Court,16,5.30,7.94,Very High,1996,115,33%,6.30,47%,237,50.2,4%,,,https://a8qh.short.gy/V16,N/A
 "Zane Navtratil ""The Standard""",ProXR,$209.99,2023,Standard,Control,16,5.00,8.26,High,,106,3%,7.04,91%,222,,,,,,
-Zane Navtratil Signature,ProXR,$209.99,2023,Elongated,Power,14,6.00,8.24,High,,115,35%,5.71,11%,233,,,,,https://a8qh.short.gy/zn14,10EFFECT
-R1 Nova (updated),Ronbus,$180.00,2023,Elongated,Control,16,5.50,8.14,Very High,1883,118,58%,6.00,30%,242,52.5,76%,32.2,16%,https://a8qh.short.gy/R1Nova,10EFFECT
-R1 Pulsar,Ronbus,$170.00,2023,Elongated,All-Court,16,5.50,7.87,Very High,,114,28%,6.12,39%,237,,,,,https://a8qh.short.gy/R1P,10EFFECT
-R1.16,Ronbus,$120.00,2022,Elongated,Control,16,5.50,7.96,Very High,1950,118,58%,6.11,37%,242,51.8,50%,31.8,9%,https://a8qh.short.gy/R1.16,10EFFECT
-R3 Nova,Ronbus,$180.00,2023,Elongated,Control,16,5.50,8.07,High,,120,68%,6.04,33%,245,53.1,86%,32.8,40%,https://a8qh.short.gy/R3N,10EFFECT
-R3 Pulsar,Ronbus,$170.00,2023,Elongated,All-Court,16,5.50,7.98,Very High,1903,122,76%,6.15,40%,245,53.3,88%,33.4,76%,https://a8qh.short.gy/R3P,10EFFECT
-R3.16,Ronbus,$120.00,2022,Elongated,Control,16,5.50,7.73,Very High,,119,63%,5.84,18%,247,,,,,https://a8qh.short.gy/R3.16,10EFFECT
-Luxx Control Air Epic,Selkirk,$250.00,2023,Standard,Control,20,5.25,8.08,High,1873,112,23%,6.35,54%,238,49.4,2%,31.2,2%,https://a8qh.short.gy/LEpic,ADV-BRAYDONU
-Luxx Control Air Invikta,Selkirk,$250.00,2023,Elongated,Control,20,5.25,7.96,High,1858,115,35%,5.78,14%,242,50.2,6%,,,https://a8qh.short.gy/LInvikta,ADV-BRAYDONU
+Zane Navtratil Signature,ProXR,$209.99,2023,Elongated,Power,14,6.00,8.24,High,,115,33%,5.71,10%,233,,,,,https://a8qh.short.gy/zn14,10EFFECT
+Aero Blade 1.19 (w/o Face Weights),Rokne,$299.99,2024,Elongated,,19,5.50,8.40,Low,1657,135,99%,5.97,26%,256,53.4,76%,33.0,43%,,N/A
+Aero Blade 1.19 (with Face Weights),Rokne,$299.99,2024,Elongated,,19,5.50,9.60,,,143,100%,6.33,50%,248,,,,,,N/A
+Pulsar FX.R1,Ronbus,,2024,Elongated,,16,5.50,8.24,Very High,1988,124,88%,6.49,61%,244,54.1,93%,33.9,87%,Coming April,10EFFECT
+Pulsar FX.R2,Ronbus,,2024,Standard,,16,5.50,8.36,Very High,1960,116,41%,7.32,97%,237,53.5,79%,33.5,71%,Coming April,10EFFECT
+Pulsar FX.R3,Ronbus,,2024,Elongated,,16,5.50,8.30,Very High,1965,127,94%,6.46,60%,247,54.5,96%,33.6,76%,Coming April,10EFFECT
+R1 Nova (updated),Ronbus,$180.00,2023,Elongated,Control,16,5.50,8.14,Very High,1883,118,58%,6.00,28%,242,52.5,52%,32.2,10%,https://a8qh.short.gy/R1Nova,10EFFECT
+R1 Pulsar,Ronbus,$170.00,2023,Elongated,All-Court,16,5.50,7.87,Very High,,114,26%,6.12,37%,237,,,,,https://a8qh.short.gy/R1P,10EFFECT
+R1.16,Ronbus,$120.00,2022,Elongated,Control,16,5.50,7.96,Very High,1950,118,58%,6.11,35%,242,51.8,35%,31.8,3%,https://a8qh.short.gy/R1.16,10EFFECT
+R3 Nova,Ronbus,$180.00,2023,Elongated,Control,16,5.50,8.07,High,,120,69%,6.04,31%,245,53.1,67%,32.8,29%,https://a8qh.short.gy/R3N,10EFFECT
+R3 Pulsar,Ronbus,$170.00,2023,Elongated,All-Court,16,5.50,7.98,Very High,1903,122,77%,6.15,38%,245,53.3,72%,33.4,63%,https://a8qh.short.gy/R3P,10EFFECT
+R3.16,Ronbus,$120.00,2022,Elongated,Control,16,5.50,7.73,Very High,,119,63%,5.84,17%,247,,,,,https://a8qh.short.gy/R3.16,10EFFECT
+Luxx Control Air Epic,Selkirk,$250.00,2023,Standard,Control,20,5.25,8.08,High,1873,112,21%,6.35,51%,238,49.4,1%,31.2,1%,https://a8qh.short.gy/LEpic,ADV-BRAYDONU
+Luxx Control Air Invikta,Selkirk,$250.00,2023,Elongated,Control,20,5.25,7.96,High,1858,115,33%,5.78,13%,242,50.2,4%,,,https://a8qh.short.gy/LInvikta,ADV-BRAYDONU
 Luxx Control Air S2,Selkirk,$250.00,2023,Widebody,Control,20,4.50,8.17,High,1870,107,6%,7.13,92%,233,48.6,0%,31.0,0%,https://a8qh.short.gy/LS2,ADV-BRAYDONU
-Power Air Epic,Selkirk,$249.99,2022,Standard,Power,13,5.25,8.04,High,1884,104,1%,6.35,54%,229,50.8,18%,33.0,58%,https://a8qh.short.gy/EAir,ADV-BRAYDONU
-Power Air Invikta,Selkirk,$249.99,2022,Elongated,Power,13,5.25,8.00,High,1894,112,23%,5.62,9%,237,51.6,44%,33.2,67%,https://a8qh.short.gy/IAir,ADV-BRAYDONU
-Project 005 Epic,Selkirk Labs,$222.00,2023,Standard,All-Court,16,5.25,7.97,Medium,,110,13%,6.88,83%,238,,,,,https://a8qh.short.gy/005,ADV-BRAYDONU
-Project 006 Maxima,Selkirk Labs,$333.00,2023,Elongated,Control,16,5.75,8.39,Very High,1848,118,58%,5.97,27%,236,52.2,68%,32.4,24%,https://a8qh.short.gy/006,ADV-BRAYDONU
-Black Diamond,Six Zero,$179.99,2023,Hybrid,Power,16,5.50,8.07,Very High,1981,114,28%,6.67,71%,239,54.0,94%,34.2,96%,https://a8qh.short.gy/BD,10EFFECT
-Black Diamond Amethyst Pro,Six Zero,$199.00,2023,Hybrid,Power,16,5.50,8.23,Very High,,115,35%,6.72,75%,234,,,,,https://a8qh.short.gy/BDPRO,10EFFECT
-Black Diamond Infinity (16mm),Six Zero,$220.00,2023,Hybrid,All-Court,16,5.50,7.97,High,1990,107,6%,5.80,15%,229,51.0,22%,33.4,76%,https://a8qh.short.gy/BDi,10EFFECT
-Double Black Diamond (14 mm),Six Zero,$179.99,2023,Hybrid,All-Court,14,5.50,7.87,Very High,1925,110,13%,6.18,43%,237,51.6,44%,34.8,100%,https://a8qh.short.gy/DBD,10EFFECT
-Double Black Diamond (16 mm),Six Zero,$179.99,2023,Hybrid,All-Court,16,5.50,8.07,Very High,,114,28%,6.55,65%,237,51.8,50%,33.8,87%,https://a8qh.short.gy/DBD,10EFFECT
-Double Black Diamond Infinity 16mm,Six Zero,$220.00,2023,Hybrid,Control,16,5.50,8.10,Very High,,110,13%,5.90,25%,231,,,,,https://a8qh.short.gy/DBDI,10EFFECT
-Ruby,Six Zero,$200.00,2023,Hybrid,All-Court,16,5.50,8.33,Very High,,117,50%,6.81,81%,238,52.0,58%,32.8,40%,https://a8qh.short.gy/ruby,10EFFECT
-Sapphire,Six Zero,$99.99,2023,Elongated,Power,13,5.50,7.90,High,,111,20%,5.40,5%,224,,,,,https://a8qh.short.gy/Sap,10EFFECT
-Mach 1 (14 mm),Volair,$159.99,2022,Elongated,All-Court,14,5.50,7.84,Very High,,115,35%,5.82,16%,240,,,,,https://a8qh.short.gy/Mach14,10EFFECT
-Mach 1 (16 mm),Volair,$159.99,2022,Elongated,Control,16,5.50,8.06,Very High,,118,58%,6.02,31%,242,,,,,https://a8qh.short.gy/Mach16,10EFFECT
-Mach 1 Forza (14 mm),Volair,$179.99,2023,Elongated,Power,14,5.50,7.69,Very High,,109,11%,5.82,16%,237,,,,,https://a8qh.short.gy/MF14,10EFFECT
-Mach 1 Forza (16 mm),Volair,$179.99,2023,Elongated,All-Court,16,5.50,8.19,Very High,,117,50%,6.57,67%,240,,,,,https://a8qh.short.gy/Forza16,10EFFECT
-Mach 2 (14mm),Volair,$139.99,2023,Widebody,Control,14,5.50,7.90,High,,106,3%,6.76,77%,231,,,,,https://a8qh.short.gy/M214,10EFFECT
-Mach 2 (16 mm),Volair,$139.99,2023,Widebody,Control,16,5.50,7.97,High,,108,8%,6.77,78%,231,,,,,https://a8qh.short.gy/M216,10EFFECT
-Mach 2 Forza (14mm),Volair,$179.99,2023,Widebody,All-Court,14,5.50,7.80,Very High,1998,110,13%,6.90,85%,238,50.6,14%,33.0,58%,https://a8qh.short.gy/M2F14,10EFFECT
-Mach 2 Forza (16mm),Volair,$179.99,2023,Widebody,Control,16,5.50,8.02,Very High,1987,112,23%,7.26,96%,238,51.0,22%,31.5,7%,https://a8qh.short.gy/M2F16,10EFFECT
-Filth,Bread & Butter,$165.00,2023,Elongated,All-Court,16,5.50,8.07,High,1915,123,82%,6.24,47%,245,52.8,78%,33.2,67%,https://a8qh.short.gy/Filth,15EFFECT
-Loco,Bread & Butter,$165.00,2023,Hybrid,Control,16,5.30,7.70,High,1908,114,28%,6.20,45%,243,,,,,https://a8qh.short.gy/LOCO,15EFFECT
-Tour Radical Raw EX,Head,$169.95,2023,Elongated,Control,15,5.50,8.17,High,,115,35%,5.56,6%,236,,,,,https://a8qh.short.gy/EXRaw,N/A
-Perseus (14 mm),Joola,$249.99,2023,Elongated,Power,14,5.50,7.93,High,,120,68%,5.77,12%,247,,,,,https://a8qh.short.gy/P14,10EFFECT
-Perseus (16 mm),Joola,$249.99,2023,Elongated,Control,16,5.50,7.85,High,1818,117,50%,5.87,19%,244,51.0,22%,32.8,40%,https://a8qh.short.gy/P16,10EFFECT
-Scorpeus (14 mm),Joola,$249.99,2023,Standard,All-Court,14,5.25,7.65,High,1856,108,8%,6.45,61%,238,51.0,22%,33.6,84%,https://a8qh.short.gy/S14,10EFFECT
-Scorpeus (16 mm),Joola,$249.99,2023,Standard,Control,16,5.25,8.02,High,1845,114,28%,6.86,82%,238,50.8,18%,32.6,33%,https://a8qh.short.gy/S16,10EFFECT
-Flow,Neonic,$129.99,2024,Hybrid,Control,16,5.20,8.14,,,117,50%,6.58,69%,238,,,,,https://a8qh.short.gy/Flow,10EFFECT
-Force,Neonic,$99.99,2023,Elongated,All-Court,16,5.30,8.06,High,1814,116,45%,6.35,54%,238,50.6,14%,32.8,40%,https://a8qh.short.gy/force16,10EFFECT
-Pro Line Energy,Pickleball Apes,$149.99,2023,Extra-elongated,Power,17,6.25,8.16,Very High,,127,94%,5.89,24%,248,53.0,82%,,,https://a8qh.short.gy/ApesE,10EFFECT
-Pro Line Energy S,Pickleball Apes,$169.99,2023,Hybrid,All-Court,17,5.50,8.10,Very High,,116,45%,6.26,48%,238,50.2,6%,,,https://a8qh.short.gy/ApesES,10EFFECT
-Halo Control Max,SLK,$139.99,2022,Standard,Control,16,4.75,7.94,Medium,,111,20%,6.94,88%,237,,,,,https://a8qh.short.gy/halo,ADV-BRAYDONU
-Halo Control XL,SLK,$139.99,2022,Elongated,Control,16,5.60,8.10,Medium,,122,76%,6.07,35%,244,,,,,https://a8qh.short.gy/halo,ADV-BRAYDONU
-Halo Power Max,SLK,$139.99,2022,Standard,All-Court,13,4.75,7.97,Medium,,110,13%,6.54,64%,234,,,,,https://a8qh.short.gy/halo,ADV-BRAYDONU
-Halo Power XL,SLK,$139.99,2022,Elongated,All-Court,13,5.60,7.97,Medium,,120,68%,5.59,7%,245,,,,,https://a8qh.short.gy/halo,ADV-BRAYDONU
-Alchemy (13.5 mm),Vatic Pro,$179.99,2023,Elongated,Power,14,5.50,8.20,Very High,,116,45%,5.93,26%,238,,,,,https://a8qh.short.gy/VPA,10EFFECT
-Alchemy (16 mm),Vatic Pro,$179.99,2023,Elongated,All-Court,16,5.50,8.54,High,,122,76%,6.49,63%,239,,,,,https://a8qh.short.gy/VPA,10EFFECT
-Flash (14 mm),Vatic Pro,$139.99,2023,Hybrid,All-Court,14,5.30,7.94,Very High,,110,13%,6.15,40%,235,52.0,58%,32.4,24%,https://a8qh.short.gy/VPFlash,10EFFECT
-Flash (16 mm),Vatic Pro,$139.99,2023,Hybrid,All-Court,16,5.30,8.25,High,1935,115,35%,6.70,74%,237,,,,,https://a8qh.short.gy/VPFlash,10EFFECT
-Prism Flash (14 mm),Vatic Pro,$99.99,2023,Hybrid,All-Court,14,5.30,7.80,Very High,1950,111,20%,6.11,37%,241,51.2,36%,33.0,58%,https://a8qh.short.gy/PF14,10EFFECT
-Prism Flash (16 mm),Vatic Pro,$99.99,2023,Hybrid,Control,16,5.30,7.91,Very High,1942,114,28%,6.40,58%,237,50.0,4%,31.8,9%,https://a8qh.short.gy/VPFP16,10EFFECT
-Prism V7,Vatic Pro,$99.99,2023,Elongated,Control,16,5.30,8.44,Very High,,128,95%,6.96,89%,244,51.0,22%,32.6,33%,https://a8qh.short.gy/VPV7P,10EFFECT
-Prism V7 LH,Vatic Pro,$99.99,2023,Elongated,Control,16,5.60,7.97,,,119,63%,6.16,42%,243,51.4,38%,32.4,24%,https://a8qh.short.gy/PV7LH,10EFFECT
-V7,Vatic Pro,$139.99,2023,Elongated,All-Court,16,5.30,8.32,Very High,1916,123,82%,6.93,86%,244,52.4,74%,33.8,87%,https://a8qh.short.gy/VPV7,10EFFECT
-Mav Pro,Holbrook,$219.99,2023,Elongated,All-Court,13,5.50,8.17,Medium,,123,82%,6.10,36%,245,,,,,https://a8qh.short.gy/MP,N/A
-Power Pro,Holbrook,$219.99,2023,Elongated,All-Court,16,5.50,8.03,High,,121,72%,6.39,56%,241,,,,,https://a8qh.short.gy/HP,N/A
-Pro Power E,Holbrook,$219.99,2023,Elongated,All-Court,16,5.25,8.25,High,,122,76%,6.68,72%,241,,,,,https://a8qh.short.gy/HPE,N/A
-Ballista,Spartus,$159.99,2023,Elongated,All-Court,16,5.50,7.94,,,113,27%,5.59,7%,239,,,,,https://a8qh.short.gy/B,N/A
-Gladius Centurion,Spartus,$99.99,2023,Elongated,Control,16,5.50,7.98,,,121,72%,6.06,34%,243,,,,,https://a8qh.short.gy/GC,N/A
-X2 Lite,Body Helix,$160.00,2023,Elongated,All-Court,16,6.00,8.12,High,1842,123,82%,6.32,51%,245,51.0,22%,31.8,9%,https://a8qh.short.gy/X2Lite,N/A
-X2 Pro,Body Helix,$180.00,2023,Elongated,Power,19,6.00,8.88,High,1981,134,97%,6.74,76%,246,53.0,82%,32.8,40%,https://a8qh.short.gy/X2Pro,N/A
-X3 Lite,Body Helix,$160.00,2023,Elongated,All-Court,16,6.00,8.25,High,1920,125,90%,6.03,32%,245,51.0,22%,32.8,40%,https://a8qh.short.gy/X3Lite,N/A
-X3 Pro,Body Helix,$180.00,2023,Elongated,Power,18,6.00,8.73,High,1949,132,96%,6.65,70%,246,52.8,78%,32.2,16%,https://a8qh.short.gy/X3Pro,N/A
-FS Tour Dynasty (14mm),Franklin,$150.00,2023,Elongated,Power,14,5.60,8.28,High,1975,124,88%,6.56,66%,242,51.6,44%,33.4,76%,https://a8qh.short.gy/D14,N/A
-FS Tour Dynasty (16mm),Franklin,$150.00,2023,Elongated,All-Court,16,5.60,8.69,High,1864,134,97%,7.22,94%,246,52.2,68%,32.4,24%,https://a8qh.short.gy/D16,N/A
-FS Tour Tempo (14mm),Franklin,$150.00,2023,Standard,All-Court,14,5.00,8.47,High,1920,117,50%,7.23,95%,235,51.4,38%,33.2,67%,https://a8qh.short.gy/T14,N/A
-FS Tour Tempo (16mm),Franklin,$150.00,2023,Standard,Control,16,5.00,8.90,High,1925,123,82%,7.68,99%,234,51.4,38%,31.2,2%,https://a8qh.short.gy/T16,N/A
-Vantage Pro (14mm),PIKKL,$139.99,2023,Hybrid,All-Court,14,5.30,8.04,Very High,1998,115,35%,6.28,49%,236,50.4,12%,,,https://a8qh.short.gy/V14,N/A
-Vantage Pro (16mm),PIKKL,$139.99,2023,Hybrid,All-Court,16,5.30,7.94,Very High,1996,115,35%,6.30,50%,237,50.2,6%,,,https://a8qh.short.gy/V16,N/A
-Hurache-X Control +,11Six24,$139.99,2024,Elongated,All-Court,16,6.00,7.94,High,1940,117,50%,6.32,51%,240,52.0,58%,34.0,93%,https://a8qh.short.gy/HX,10EFFECT
-Viva Pro Gen 2,Hudef,$129.99,2023,Elongated,All-Court,16,5.50,8.06,,,125,90%,6.43,59%,251,,,,,https://a8qh.short.gy/VGEN2,10EFFECT
-Aero Blade 1.19 (w/o Face Weights),Rokne,$299.99,2024,Elongated,,19,5.50,8.40,,,135,99%,5.97,27%,256,,,,,,
-Aero Blade 1.19 (with Face Weights),Rokne,$299.99,2024,Elongated,,19,5.50,9.60,,,143,100%,6.33,53%,248,,,,,,
+Power Air Epic,Selkirk,$249.99,2022,Standard,Power,13,5.25,8.04,High,1884,104,1%,6.35,51%,229,50.8,9%,33.0,43%,https://a8qh.short.gy/EAir,ADV-BRAYDONU
+Power Air Invikta,Selkirk,$249.99,2022,Elongated,Power,13,5.25,8.00,High,1894,112,21%,5.62,8%,237,51.6,29%,33.2,53%,https://a8qh.short.gy/IAir,ADV-BRAYDONU
+Vanguard Control Epic (midweight),Selkirk,$200.00,2024,Standard,Control,16,5.30,8.14,,,113,24%,6.37,53%,236,,,,,https://a8qh.short.gy/VCEpic,ADV-BRAYDONU
+Vanguard Control Invikta (mideweight),Selkirk,$200.00,2024,Elongated,Control,16,5.50,7.97,,,114,26%,5.65,9%,237,,,,,https://a8qh.short.gy/VCInvikta,ADV-BRAYDONU
+Vanguard Control S2 (midweight),Selkirk,$200.00,2024,Standard,Control,16,4.70,8.01,,,105,2%,7.09,91%,230,,,,,https://a8qh.short.gy/VCS2,ADV-BRAYDONU
+Project 005 Epic,Selkirk Labs,$222.00,2023,Standard,All-Court,16,5.25,7.97,Medium,,110,12%,6.88,84%,238,,,,,https://a8qh.short.gy/005,ADV-BRAYDONU
+Project 006 Maxima,Selkirk Labs,$333.00,2023,Elongated,Control,16,5.75,8.39,Very High,1848,118,58%,5.97,26%,236,52.2,45%,32.4,14%,https://a8qh.short.gy/006,ADV-BRAYDONU
+Black Diamond,Six Zero,$179.99,2023,Hybrid,Power,16,5.50,8.07,Very High,1981,114,26%,6.67,71%,239,54.0,89%,34.2,96%,https://a8qh.short.gy/BD,10EFFECT
+Black Diamond Amethyst Pro,Six Zero,$199.00,2023,Hybrid,Power,16,5.50,8.23,Very High,,115,33%,6.72,75%,234,,,,,https://a8qh.short.gy/BDPRO,10EFFECT
+Black Diamond Infinity (16mm),Six Zero,$220.00,2023,Hybrid,All-Court,16,5.50,7.97,High,1990,107,6%,5.80,14%,229,51.0,12%,33.4,63%,https://a8qh.short.gy/BDi,10EFFECT
+Double Black Diamond (14 mm),Six Zero,$179.99,2023,Hybrid,All-Court,14,5.50,7.87,Very High,1925,110,12%,6.18,41%,237,51.6,29%,34.8,100%,https://a8qh.short.gy/DBD,10EFFECT
+Double Black Diamond (16 mm),Six Zero,$179.99,2023,Hybrid,All-Court,16,5.50,8.07,Very High,,114,26%,6.55,65%,237,51.8,35%,33.8,83%,https://a8qh.short.gy/DBD,10EFFECT
+Double Black Diamond Infinity 16mm,Six Zero,$220.00,2023,Hybrid,Control,16,5.50,8.10,Very High,,110,12%,5.90,24%,231,,,,,https://a8qh.short.gy/DBDI,10EFFECT
+Ruby,Six Zero,$200.00,2023,Hybrid,All-Court,16,5.50,8.33,Very High,,117,48%,6.81,82%,238,52.0,39%,32.8,29%,https://a8qh.short.gy/ruby,10EFFECT
+Sapphire,Six Zero,$99.99,2023,Elongated,Power,13,5.50,7.90,High,,111,18%,5.40,4%,224,,,,,https://a8qh.short.gy/Sap,10EFFECT
+Halo Control Max,SLK,$139.99,2022,Standard,Control,16,4.75,7.94,Medium,,111,18%,6.94,88%,237,,,,,https://a8qh.short.gy/halo,ADV-BRAYDONU
+Halo Control XL,SLK,$139.99,2022,Elongated,Control,16,5.60,8.10,Medium,,122,77%,6.07,33%,244,,,,,https://a8qh.short.gy/halo,ADV-BRAYDONU
+Halo Power Max,SLK,$139.99,2022,Standard,All-Court,13,4.75,7.97,Medium,,110,12%,6.54,64%,234,,,,,https://a8qh.short.gy/halo,ADV-BRAYDONU
+Halo Power XL,SLK,$139.99,2022,Elongated,All-Court,13,5.60,7.97,Medium,,120,69%,5.59,6%,245,,,,,https://a8qh.short.gy/halo,ADV-BRAYDONU
+Ballista,Spartus,$159.99,2023,Elongated,All-Court,16,5.50,7.94,,,113,24%,5.59,6%,239,,,,,https://a8qh.short.gy/B,N/A
+Gladius Centurion,Spartus,$99.99,2023,Elongated,Control,16,5.50,7.98,,,121,73%,6.06,32%,243,,,,,https://a8qh.short.gy/GC,N/A
+Azul 16,Thrive,,2024,Hybrid,,16,5.25,8.12,Very High,1948,117,48%,6.60,69%,240,53.7,81%,33.9,87%,Coming April,10EFFECT
+Blackout 16,Thrive,,2024,Hybrid,,16,5.25,8.28,High,1897,119,63%,6.71,74%,242,54.5,96%,34.1,94%,,10EFFECT
+Rush 13mm,Thrive,$179.99,2023,Elongated,Power,13,5.50,7.90,,1931,119,63%,6.10,34%,244,53.8,84%,33.6,76%,https://a8qh.short.gy/Rush,10EFFECT
+Surge 16,Thrive,,2024,Hybrid,,16,5.25,8.03,Very High,1937,117,48%,6.80,81%,243,53.4,76%,33.4,63%,Coming May Maybe,10EFFECT
+Threat 16mm,Thrive,$179.99,2023,Elongated,All-Court,16,5.50,8.00,,1918,122,77%,6.74,76%,245,52.5,52%,32.6,20%,https://a8qh.short.gy/Threat,10EFFECT
+Alchemy (13.5 mm),Vatic Pro,$179.99,2023,Elongated,Power,14,5.50,8.20,Very High,,116,41%,5.93,25%,238,,,,,https://a8qh.short.gy/VPA,10EFFECT
+Alchemy (16 mm),Vatic Pro,$179.99,2023,Elongated,All-Court,16,5.50,8.54,High,,122,77%,6.49,61%,239,,,,,https://a8qh.short.gy/VPA,10EFFECT
+Flash (14 mm),Vatic Pro,$139.99,2023,Hybrid,All-Court,14,5.30,7.94,Very High,,110,12%,6.15,38%,235,52.0,39%,32.4,14%,https://a8qh.short.gy/VPFlash,10EFFECT
+Flash (16 mm),Vatic Pro,$139.99,2023,Hybrid,All-Court,16,5.30,8.25,High,1935,115,33%,6.70,73%,237,,,,,https://a8qh.short.gy/VPFlash,10EFFECT
+Prism Flash (14 mm),Vatic Pro,$99.99,2023,Hybrid,All-Court,14,5.30,7.80,Very High,1950,111,18%,6.11,35%,241,51.2,23%,33.0,43%,https://a8qh.short.gy/PF14,10EFFECT
+Prism Flash (16 mm),Vatic Pro,$99.99,2023,Hybrid,Control,16,5.30,7.91,Very High,1942,114,26%,6.40,56%,237,50.0,3%,31.8,3%,https://a8qh.short.gy/VPFP16,10EFFECT
+Prism V7,Vatic Pro,$99.99,2023,Elongated,Control,16,5.30,8.44,Very High,,128,96%,6.96,89%,244,51.0,12%,32.6,20%,https://a8qh.short.gy/VPV7P,10EFFECT
+Prism V7 LH,Vatic Pro,$99.99,2023,Elongated,Control,16,5.60,7.97,,,119,63%,6.16,40%,243,51.4,25%,32.4,14%,https://a8qh.short.gy/PV7LH,10EFFECT
+V7,Vatic Pro,$139.99,2023,Elongated,All-Court,16,5.30,8.32,Very High,1916,123,83%,6.93,86%,244,52.4,49%,33.8,83%,https://a8qh.short.gy/VPV7,10EFFECT
+Mach 1 (14 mm),Volair,$159.99,2022,Elongated,All-Court,14,5.50,7.84,Very High,1900,115,33%,5.82,16%,240,51.4,25%,34.0,91%,https://a8qh.short.gy/Mach14,10EFFECT
+Mach 1 (16 mm),Volair,$159.99,2022,Elongated,Control,16,5.50,8.06,Very High,2005,118,58%,6.02,29%,242,52.0,39%,32.7,26%,https://a8qh.short.gy/Mach16,10EFFECT
+Mach 1 Forza (14 mm),Volair,$179.99,2023,Elongated,Power,14,5.50,7.69,Very High,1954,109,10%,5.82,16%,237,52.1,44%,33.7,80%,https://a8qh.short.gy/MF14,10EFFECT
+Mach 1 Forza (16 mm),Volair,$179.99,2023,Elongated,All-Court,16,5.50,8.19,Very High,1988,117,48%,6.57,66%,240,53.1,67%,33.5,71%,https://a8qh.short.gy/Forza16,10EFFECT
+Mach 2 (14mm),Volair,$139.99,2023,Widebody,Control,14,5.50,7.90,High,1967,106,3%,6.76,78%,231,51.0,12%,33.0,43%,https://a8qh.short.gy/M214,10EFFECT
+Mach 2 (16 mm),Volair,$139.99,2023,Widebody,Control,16,5.50,7.97,High,2003,108,8%,6.77,78%,231,51.2,23%,33.0,43%,https://a8qh.short.gy/M216,10EFFECT
+Mach 2 Forza (14mm),Volair,$179.99,2023,Widebody,All-Court,14,5.50,7.80,Very High,1998,110,12%,6.90,85%,238,51.1,21%,33.3,60%,https://a8qh.short.gy/M2F14,10EFFECT
+Mach 2 Forza (16mm),Volair,$179.99,2023,Widebody,Control,16,5.50,8.02,Very High,1987,112,21%,7.26,96%,238,51.6,29%,31.8,3%,https://a8qh.short.gy/M2F16,10EFFECT
