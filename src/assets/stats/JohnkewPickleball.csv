@@ -1,166 +1,185 @@
 ﻿Company,Paddle,Core Thickness (mm),Condition,Price,Shape,Manufacturing Process,Surface Texture,Surface Material,Core Material,Spin RPM,Spin Percentile,Length (in),Width (in),Handle Length (in),Static Weight (oz),Swing Weight,Swing Weight Percentile,Twist Weight,Twist Weight Percentile,Balance Point (cm),Balance Point Percentile,Serve Speed-MPH (Power),Power Percentile,Punch Volley Speed-MPH (Pop),Pop Percentile,Surface Hardness (Shore D)
-11Six24,Hurache Control,16,New,$79.99,Elongated,Cold Layered,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,107",65%,16.5,7.5,5.50,7.4,106,12%,5.55,10%,23.7,32%,52.5,11%,33.9,25%,91.0
-11Six24,Hurache-X,16,New,$139.99,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber and Fiberglass,Polypropylene Honeycomb,"1,847",29%,16.5,7.5,6.00,8.2,119,67%,6.40,57%,24.1,59%,55.3,70%,35.0,62%,91.3
-Bird,Ball Hawk Classic,14,New,$199.00,Standard,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,099",64%,16.0,8.0,4.75,7.9,106,12%,7.05,90%,23.5,26%,51.3,2%,32.4,6%,89.0
-Bird,Falcon Elite Ergo,14,New,$229.00,Ergo,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,806",24%,14.5,8.0,N/A,8.7,,,,,18.9,0%,52.8,18%,31.0,1%,89.8
-Bread & Butter,Drip Contender,16,New,$95.00,Elongated,Cold Layered,Grit,T700 Carbon Fiber,Polypropylene Honeycomb,"1,017",0%,16.4,7.5,5.00,8.3,,,,,,,,,,,
-Bread & Butter,Drip Verge,16,New,$95.00,Elongated,Cold Layered,Grit,T700 Carbon Fiber,Polypropylene Honeycomb,"1,046",1%,16.4,7.5,5.00,8.3,,,,,,,,,,,
-Bread & Butter,Filth,16,New,$165.00,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,865",34%,16.5,7.4,5.50,7.9,121,77%,6.20,45%,24.2,64%,55.2,68%,35.6,79%,88.7
-Bread & Butter,Loco,16,New,$165.00,Hybrid,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,091",63%,16.3,7.7,5.30,7.7,114,39%,6.10,38%,24.1,59%,54.6,49%,35.2,70%,91.3
-Bread & Butter,Spear Breakout,13,New,$80.00,Standard,Cold Layered,Grit,T700 Carbon Fiber,Polypropylene Honeycomb,"1,156",4%,15.9,7.9,5.00,7.6,,,,,,,,,,,
-Bread & Butter,Spear Juno,16,New,$80.00,Standard,Cold Layered,Grit,T700 Carbon Fiber,Polypropylene Honeycomb,"1,081",2%,15.9,7.9,5.00,7.6,,,,,,,,,,,
-Cheetah,Predion E16 Edgeless,16,New,$200.00,Elongated,Thermoformed,Grit,3K Woven Carbon Fiber,Aramid Fiber Honeycomb,"1,556",13%,16.5,7.5,5.50,7.7,106,12%,5.37,8%,23.3,20%,52.8,18%,34.3,38%,89.5
-Cheetah,Predion E16-with lead tape,16,New,$200.00,Elongated,Thermoformed,Grit,3K Woven Carbon Fiber,Aramid Fiber Honeycomb,"1,556",13%,16.5,7.5,5.50,8.4,115,46%,7.23,94%,23.5,26%,54.1,39%,34.3,38%,89.5
-Chorus,Shapeshifter,16,New,$189.99,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,139",69%,16.3,7.7,5.30,8.2,118,66%,6.73,76%,24.0,54%,55.1,65%,34.5,45%,92.2
-Core,Reaction Pro Elongated,16,New,$124.99,Elongated,Cold Layered,Peel Ply-Fine,T700 Carbon Fiber,Polypropylene Honeycomb,"1,863",33%,16.5,7.4,5.80,8.2,125,92%,6.03,35%,24.8,93%,54.4,45%,33.9,25%,
-Core,Reaction Pro Standard,16,New,$124.99,Standard,Cold Layered,Peel Ply-Fine,T700 Carbon Fiber,Polypropylene Honeycomb,"1,892",38%,15.8,8.0,5.13,8.2,112,33%,7.25,95%,23.8,41%,53.5,31%,34.0,27%,93.8
-CRBN,CRBN 1X,14,New,$229.99,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,244",86%,16.5,7.3,5.50,8.0,116,52%,5.78,24%,24.2,64%,54.7,53%,34.4,41%,89.5
-CRBN,CRBN 2X,16,New,$229.99,Standard,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,975",46%,15.8,8.0,4.75,8.0,110,26%,7.50,100%,23.5,26%,53.5,31%,34.4,41%,88.3
-CRBN 1,CRBN1 Control,14,New,$179.99,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,171",74%,16.5,7.3,5.50,7.9,,,,,,,,,,,
-CRBN 1,CRBN1 Control (USAP-Banned 2021),14,New,$179.99,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,943",44%,16.5,7.3,5.50,7.9,,,,,,,,,,,
-Diadem,Edge 18K,16,New,$229.95,Elongated,Cold Layered,Peel Ply-Coarse,18k Carbon Fiber,Polypropylene Honeycomb,"2,304",93%,16.4,7.5,5.30,7.9,122,82%,6.25,50%,24.1,59%,53.0,24%,34.1,30%,89.0
-Diadem,Icon V2 XL,13.7,New,$199.95,Standard,Hot Molded,Grit,Carbon Fiber (Japanese-Sourced),Polypropylene Honeycomb (2 sheets),"1,718",18%,16.0,7.6,5.25,8.2,125,90%,5.69,14%,24.5,80%,54.2,42%,35.0,62%,85.8
-Diadem,Vice,16,New,$224.95,Elongated,Unibody Edgeless,Grit,Carbon Fiber,EVA Foam,"1,789",23%,16.4,7.4,5.30,7.9,114,40%,5.73,20%,,,59.0,99%,33.8,22%,78.0
-Diadem,Warrior,19,New,$229.95,Elongated,Cold Layered,Grit,Carbon Fiber,Polypropylene + Aramid,"1,744",21%,16.4,7.4,5.30,8.6,133,100%,7.25,95%,24.7,91%,52.6,13%,31.0,1%,86.5
-Electrum,Model E,16,Used-6 months,$119.99,Elongated,Cold Layered,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,575",14%,16.5,7.4,5.25,8.2,122,82%,6.80,79%,,,,,,,
-Electrum,Model E Elite,16,New,$199.99,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,028",53%,16.5,7.4,5.25,8.4,124,89%,7.14,92%,24.7,91%,55.7,79%,35.7,81%,87.7
-Electrum,Model E Stealth,16,New,$220.00,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,810",25%,16.5,7.3,5.38,7.7,107,18%,5.00,2%,23.30,20%,55.6,74%,35.6,79%,92.7
-Electrum,Model E Stealth-with 0.5 oz. lead tape,16,New,$220.00,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,810",25%,16.5,7.3,5.38,8.2,109,23%,6.10,38%,23.20,17%,55.0,62%,35.0,62%,92.7
-Electrum,Pro II,11,Used-1 month,$149.99,Standard,Hot Molded,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,089",62%,16.0,8.0,5.25,7.6,106,12%,6.75,77%,23.7,32%,51.0,1%,34.3,38%,89.8
-Electrum,Pro II Stealth,12,New,$220.00,Standard,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,204",80%,16.0,7.8,5.25,7.0,93,1%,4.83,1%,23.10,14%,53.1,24%,36.4,91%,93.8
-Electrum,Pro II Stealth-with 0.5 oz. lead tape,12,New,$220.00,Standard,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,204",80%,16.0,7.8,5.25,7.5,97,3%,6.35,54%,22.80,11%,55.0,62%,36.0,87%,93.8
-Electrum,Pro Stealth,12,New,$220.00,Wide Body,Unibody Edgeless,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,927",43%,15.6,8.3,5.00,7.3,92,0%,5.63,13%,22.5,3%,52.6,13%,36.1,88%,93.2
-Electrum,Pro Stealth-with 0.5 oz. lead tape,12,New,$220.00,Wide Body,Unibody Edgeless,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,927",43%,15.6,8.3,5.00,7.3,93,1%,6.90,85%,22.3,2%,55.0,62%,35.7,81%,93.2
-Engage,Evolution Extreme V2.14,14,New,$159.99,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,915",41%,16.5,7.5,5.25,8.0,118,0%,6.38,57%,24.4,75%,53.2,26%,34.7,53%,92.7
-Engage,Evolution Extreme V2.16,16,New,$159.99,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,082",62%,16.4,7.5,5.25,8.2,122,81%,6.66,72%,24.5,80%,54.6,49%,34.4,41%,93.0
-Engage,Pursuit EX 6.0 Maxx,13,New,$259.99,Elongated,Cold Layered with Edge Foam,Frosted RCF,Toray Carbon Fiber,Polypropylene Honeycomb,"1,666",16%,16.0,8.0,5.00,8.0,116,51%,7.43,99%,24.5,80%,54.2,42%,35.3,73%,89.8
-Engage,Pursuit EX 6.0 Pro,13,New,$259.99,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,260",88%,16.0,8.0,5.00,8.1,115,45%,7.32,98%,23.5,26%,55.0,62%,36.3,89%,93.7
-Engage,Pursuit EX Pro,13,New,$259.99,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,366",99%,16.0,8.0,5.00,8.2,116,54%,7.29,97%,23.7,32%,54.9,59%,36.6,93%,92.5
-Engage,Pursuit MX 6.0 Maxx,13,New,$199.99,Elongated,Cold Layered with Edge Foam,Frosted RCF,Toray Carbon Fiber,Polypropylene Honeycomb,"1,716",17%,16.5,7.5,5.75,7.8,116,54%,5.80,26%,24.2,64%,56.1,86%,35.2,70%,93.2
-Engage,Pursuit MX 6.0 Pro,16,New,$259.99,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,258",87%,16.5,7.5,5.75,8.1,129,97%,6.65,70%,25.3,99%,56.3,89%,35.4,76%,92.8
-Engage,Pursuit MX Pro,16,New,$259.99,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,264",89%,16.5,7.5,5.75,8.0,119,71%,5.85,28%,24.1,59%,56.2,88%,36.3,89%,92.5
-Engage,Pursuit Pro 1 6.0-Light,16,New,$259.99,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,207",82%,16.5,7.5,5.88,7.7,115,50%,5.75,21%,23.7,32%,56.4,91%,35.4,76%,90.8
-Engage,Pursuit Pro 1-Light,13,New,$259.99,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,178",77%,16.5,7.5,5.88,7.7,110,25%,5.57,11%,23.3,20%,56.0,85%,35.5,78%,91.3
-Franklin,Ben Johns Signature,13,Used-2 months,$100.00,Elongated,Cold Layered,Grit,Fiberglass,Polypropylene Honeycomb,"1,267",7%,16.5,7.3,5.50,8.1,120,73%,,,,,,,,,86.7
-Franklin ,Carbon STK,14.5,New,$149.99,Elongated,Cold Layered,Unknown,Carbon Fiber,Polypropylene Honeycomb,"1,251",7%,16.5,7.5,4.25,7.6,118,64%,5.76,23%,24.6,89%,51.7,6%,30.9,0%,89.7
-Gamma,Airbender,16,New,$199.99,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,903",39%,16.5,7.4,5.38,8.5,115,51%,5.57,11%,23.3,20%,55.9,83%,34.1,30%,94.0
-Gamma,Obsidian 10,10,New,$159.99,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,992",49%,16.4,7.6,5.75,8.0,118,66%,5.77,24%,24.4,75%,54.7,53%,35.5,78%,94.8
-Gamma,Obsidian 13,13,New,$159.99,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,854",32%,16.4,7.6,5.75,7.9,112,36%,6.00,34%,23.8,41%,55.1,65%,35.2,70%,93.5
-Gamma,Obsidian 16,16,New,$159.99,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,877",35%,16.4,7.6,5.75,8.1,120,72%,6.46,61%,24.5,80%,55.8,81%,34.4,41%,93.5
-Gearbox,CX11E Power,14,Used-3 months,$199.99,Elongated,Unibody Edgeless,Grit,3K Woven Carbon Fiber,Toray T700 Carbon Fiber,"1,480",10%,16.6,8.0,5.38,7.8,98,4%,4.69,1%,,,47.8,0%,31.5,2%,
-Gearbox,CX14E,14,Used-1 month,$199.99,Elongated,Unibody Edgeless,Grit,3K Woven Carbon Fiber,Toray T700 Carbon Fiber,"1,523",12%,16.6,7.4,5.38,8.0,101,6%,4.32,0%,,,,,,,
-Gearbox,CX14H Ultimate Power,14,New,$249.99,Standard,Unibody Edgeless,Grit,3K Woven Carbon Fiber,Toray T700 Carbon Fiber,"1,962",45%,15.6,8.0,5.38,8.5,107,18%,5.78,24%,22.0,1%,51.1,1%,33.1,9%,88.7
-Gearbox,G2 Elongated,14,New,$119.99,Elongated,Unibody Edgeless,Grit,Carbon Fiber; Fiberglass,Polypropylene Honeycomb,"2,030",54%,16.5,7.4,5.50,7.9,123,88%,5.35,8%,25.4,100%,54.4,45%,32.7,7%,89.8
-Gearbox,G2 Integra,14,New,$139.99,Hybrid,Unibody Edgeless,Grit,Carbon Fiber; Fiberglass,Polypropylene Honeycomb,"2,113",66%,16.0,7.4,5.50,7.9,113,38%,5.64,13%,24.5,80%,54.2,42%,32.6,7%,87.7
-Gearbox,G2 Quad,14,New,$99.99,Standard,Unibody Edgeless,Grit,Carbon Fiber; Fiberglass,Polypropylene Honeycomb,"2,139",69%,15.9,8.0,4.75,7.9,108,22%,6.23,50%,23.7,32%,53.3,28%,33.4,12%,90.3
-Gearbox,Pro Control Elongated,14,New,$274.99,Elongated,Gen-3 Foam Enhanced,Peel Ply-Coarse,Toray Carbon Fiber,Toray Carbon Fiber,"2,130",68%,16.5,7.4,5.5,8.1,122,82%,5.07,3%,25.0,97%,56.0,85%,35.1,67%,91.2
-Gearbox,Pro Control Fusion,14,New,$274.99,Hybrid,Gen-3 Foam Enhanced,Peel Ply-Coarse,Toray Carbon Fiber,Toray Carbon Fiber,"2,091",63%,16.0,7.4,5.5,8.0,115,46%,5.14,3%,24.5,80%,55.8,81%,35.4,76%,90.0
-Gearbox,Pro Power Elongated,14,New,$274.99,Elongated,Gen-3 Foam Enhanced,Peel Ply-Coarse,Toray Carbon Fiber,Toray Carbon Fiber,"2,062",57%,16.5,7.4,5.5,8.0,120,73%,5.22,5%,24.9,96%,57.7,96%,36.6,93%,90.5
-Gearbox,Pro Power Fusion,14,New,$274.99,Hybrid,Gen-3 Foam Enhanced,Peel Ply-Coarse,Toray Carbon Fiber,Toray Carbon Fiber,"2,113",66%,16.0,7.4,5.5,8.0,112,34%,5.14,3%,24.2,64%,57.9,97%,36.8,95%,90.3
-Gentle Booms Sports,GBS-001,11,New,$49.99,Standard,Welded,Grit,Aluminum,Aluminum Honeycomb,"1,493",11%,15.7,7.8,5.00,8.5,115,46%,6.65,70%,23.1,14%,51.9,6%,31.7,3%,94.2
-GRÜVN,MÜVN-13S,13,New,$179.00,Wide Body,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,846",29%,15.7,8.1,5.30,7.9,101,6%,6.35,54%,22.5,3%,54.8,58%,36.4,91%,93.8
-GRÜVN,MÜVN-13X,13,New,$179.00,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,975",46%,16.5,7.4,5.50,7.8,114,40%,5.93,31%,23.9,48%,55.4,72%,34.9,59%,92.7
-GRÜVN,MÜVN-16E,16,New,$179.00,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,862",32%,16.5,7.4,4.75,8.3,118,64%,6.35,54%,23.8,41%,55.0,62%,34.9,59%,93.5
-GRÜVN,MÜVN-16H,16,New,$179.00,Elongated,Thermoformed,Peel Ply-Fine,T700 Carbon Fiber,Polypropylene Honeycomb,"1,821",27%,16.5,7.4,5.88,8.2,122,82%,6.15,41%,24.2,64%,55.6,74%,35.7,81%,93.7
-GRÜVN,MÜVN-16S,16,New,$179.00,Wide Body,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,002",49%,15.7,8.1,5.30,8.0,104,9%,6.80,79%,22.7,7%,54.3,44%,35.0,62%,92.8
-GRÜVN,MÜVN-16X,16,New,$179.00,Elongated,Thermoformed,Peel Ply-Fine,T700 Carbon Fiber,Polypropylene Honeycomb,"2,013",51%,16.5,7.4,5.50,8.2,117,57%,6.30,52%,23.7,32%,54.3,44%,34.2,35%,92.5
-GRÜVN,Raw-13R,13,New,$139.00,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,171",74%,15.6,8.2,5.25,7.6,97,2%,6.51,64%,22.7,7%,52.3,9%,34.6,48%,93.2
-GRÜVN,Raw-13S,13,New,$139.00,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,255",87%,15.7,8.1,5.30,7.8,106,17%,6.80,79%,23.5,26%,53.4,29%,34.9,59%,94.0
-GRÜVN,Raw-13V,13,New,$139.00,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,965",45%,15.5,8.1,4.75,7.7,99,5%,6.80,79%,22.8,11%,52.5,11%,34.8,56%,94.3
-GRÜVN,Raw-16H,16,New,$139.00,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,166",73%,16.5,7.4,5.88,7.7,121,77%,5.74,20%,25.0,97%,52.6,13%,33.8,22%,93.3
-GRÜVN,Raw-16R,16,New,$139.00,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,597",15%,15.6,8.2,5.25,7.7,97,3%,6.72,74%,22.6,5%,52.6,13%,33.4,12%,93.3
-GRÜVN,Raw-16RX,16,New,$139.00,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,877",35%,16.5,7.4,6.00,7.8,119,67%,5.70,15%,24.5,80%,52.8,18%,34.2,35%,93.5
-GRÜVN,Raw-16S,16,New,$139.00,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,202",80%,15.7,8.1,5.30,7.8,105,12%,6.83,84%,23.3,20%,54.1,39%,33.6,19%,93.0
-GRÜVN,Raw-16V,16,New,$139.00,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,152",71%,15.5,8.1,4.75,7.8,100,5%,7.32,98%,22.9,12%,52.9,23%,33.4,12%,93.5
-GRÜVN,Raw-16X,16,New,$139.00,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,152",71%,16.5,7.4,5.50,8.0,122,82%,6.07,37%,24.5,80%,53.8,34%,33.8,22%,93.2
-GRYP,Balance 1 - 10g cap,15,New,$200.00,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,107",65%,16.5,7.5,5.50,8.3,113,37%,6.15,41%,22.7,7%,54.6,49%,34.7,53%,93.0
-GRYP,Balance 1 - 30g cap,15,New,$200.00,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,042",55%,16.5,7.5,5.50,8.9,114,40%,6.00,34%,21.0,1%,55.7,79%,35.7,81%,93.0
-Honolulu Pickleball Co.,Sword & Shield-J1,16,New,$166.50,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,880",37%,16.5,7.5,5.75,8.8,128,95%,6.90,85%,24.1,59%,54.9,59%,34.3,38%,91.3
-Honolulu Pickleball Co.,Sword & Shield-J1H,16,New,$166.50,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,032",54%,16.5,7.5,5.75,8.7,130,98%,6.80,79%,24.0,54%,56.9,92%,34.6,48%,92.3
-Honolulu Pickleball Co.,Sword & Shield-J2,16,New,$145.00,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,714",16%,16.2,7.8,5.50,8.0,118,62%,6.55,65%,24.0,54%,55.2,68%,34.4,41%,90.0
-Honolulu Pickleball Co.,Sword & Shield-J3,16,New,$130.50,Standard,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,778",23%,16.0,8.0,6.00,8.0,111,32%,7.00,90%,23.6,30%,55.1,65%,34.5,45%,89.5
-Honolulu Pickleball Co.,Sword & Shield-J5,16,New,$166.50,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,067",58%,17.0,7.0,5.75,8.6,130,99%,6.15,41%,24.3,73%,55.7,79%,34.2,35%,92.2
-Hudef,Mage Pro,16,New,$99.00,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,004",51%,16.5,7.4,5.35,8.1,119,67%,6.40,57%,24.2,64%,54.1,39%,34.1,30%,92.3
-Hudef,Viva Pro Gen1,16,New,$99.00,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,077",59%,16.5,7.4,5.50,8.1,122,82%,6.16,43%,24.4,75%,52.1,8%,33.9,25%,89.3
-Hudef,Viva Pro Gen2,16,New,$129.99,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,060",56%,16.5,7.4,5.50,8.1,128,96%,6.50,62%,25.3,99%,55.5,73%,34.8,56%,90.3
-Joola,Hyperion CAS,16,Used-2 months,$159.95,Elongated,Cold Layered,Grit,Fiberglass,Polypropylene Honeycomb,"1,234",6%,16.5,7.5,5.50,8.3,125,90%,6.37,56%,24.5,80%,,,,,88.7
-Joola,Hyperion CFS,16,New,$219.95,Elongated,Hybrid,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"1,725",18%,16.5,7.5,5.50,8.4,127,94%,6.57,67%,24.8,93%,51.6,4%,,,90.8
-Joola,Hyperion CFS,16,Used-3 months,$219.95,Elongated,Hybrid,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"1,333",9%,16.5,7.5,5.50,8.4,127,94%,6.57,67%,24.8,93%,51.6,4%,,,90.8
-Joola,Hyperion CFS Swift,16,New,$219.95,Elongated,Hybrid,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"1,420",9%,16.5,7.5,5.50,7.9,,,,,,,,,,,
-Joola,Magnus 3 Tyson McGuffin,14,New,$280.00,Elongated,Gen-3 Foam Enhanced,Peel Ply-Coarse,Carbon Fiber,Polypropylene + Foam,"2,425",99%,16.5,7.5,5.00,8.0,115,45%,6.05,36%,24.1,59%,57.3,95%,37.2,96%,92.2
-Joola,Perseus 3 Ben Johns,14,New,$280.00,Elongated,Gen-3 Foam Enhanced,Peel Ply-Coarse,Carbon Fiber,Polypropylene + Foam,"2,193",79%,16.5,7.5,5.50,8.0,117,58%,5.83,27%,24.2,64%,56.9,92%,38.3,99%,90.7
-Joola,Perseus 3 Ben Johns,16,New,$280.00,Elongated,Gen-3 Foam Enhanced,Peel Ply-Coarse,Carbon Fiber,Polypropylene + Foam,"2,487",100%,16.5,7.5,5.50,8.0,119,70%,6.08,38%,24.2,64%,57.6,96%,37.3,96%,90.8
-Joola,Scorpeus 3 Anna Bright,14,New,$280.00,Standard,Gen-3 Foam Enhanced,Peel Ply-Coarse,Carbon Fiber,Polypropylene + Foam,"2,310",94%,16.0,8.0,5.25,7.8,109,25%,6.64,69%,24.0,54%,56.9,92%,38.6,100%,89.7
-Joola,Scorpeus 3 Collin Johns,16,New,$280.00,Standard,Gen-3 Foam Enhanced,Peel Ply-Coarse,Carbon Fiber,Polypropylene + Foam,"2,115",67%,16.0,8.0,5.25,8.0,112,32%,6.94,88%,23.7,32%,57.0,94%,38.0,99%,89.7
-Joola,Scorpeus Collin Johns,16,New,$249.95,Standard,Thermoformed,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"1,889",37%,16.0,8.0,5.25,8.1,114,40%,6.95,89%,23.9,48%,52.2,9%,34.1,30%,92.0
-Joola,Solaire,14,New,$189.95,Standard,Hybrid,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"1,917",42%,16.0,8.0,5.50,8.4,,,,,,,,,,,
-Joola,Solaire,14,Used-1 month,$189.95,Standard,Hybrid,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"1,774",22%,16.0,8.0,5.50,8.4,,,,,,,,,,,
-Komodo,Katana,16,New,$227.97,Elongated,Cold Layered,Peel Ply-Coarse,Kevlar 3K Cloth,Polypropylene Honeycomb,"2,032",54%,16.5,7.5,5.25,7.5,106,18%,5.75,21%,23.8,41%,53.9,36%,33.4,12%,93.2
-Legacy,Legacy Pro,16,New,$150.00,Elongated,Thermoformed,Peel Ply-Fine,Toray Carbon Fiber,Polypropylene Honeycomb,"1,913",40%,16.5,7.5,5.30,8.0,121,77%,6.43,60%,,,,,,,
-Monarch,Mercenary Graphite 2,10.3,Used-3 months,$79.99,Standard,Cold Layered,Grit,Graphite,Polypropylene Honeycomb,"1,099",2%,15.5,8.2,4.50,7.8,108,23%,,,,,,,,,
-Neonic,Flow,16,New,$119.99,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,310",94%,16.3,7.6,5.50,8.1,116,55%,6.53,64%,23.9,48%,54.9,59%,34.6,48%,93.5
-PCKL,Pro 13,13,New,$159.99,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,834",28%,16.3,7.5,5.50,8.1,120,73%,5.91,29%,23.2,17%,51.3,2%,32.3,5%,88.7
-PCKL,Pro 16,16,New,$159.99,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,853",31%,16.3,7.5,5.50,7.8,121,77%,6.56,66%,23.8,41%,52.8,18%,32.1,4%,89.8
-Pickleball Apes,Pro Line Energy,16.5,New,$149.99,Elongated,Thermoformed,Peel Ply-Coarse,Kevlar & Carbon Fiber,Polypropylene Narrow-Cell Honeycomb,"2,081",61%,17.0,7.0,6.25,8.3,122,82%,5.70,15%,24.7,91%,55.3,70%,34.9,59%,88.2
-Pickleball Apes,Pro Line Energy S,16.5,New,$169.99,Elongated,Thermoformed,Peel Ply-Coarse,Kevlar & Carbon Fiber,Polypropylene Narrow-Cell Honeycomb,"2,192",78%,16.4,7.6,5.50,8.1,118,64%,6.34,53%,24.2,64%,55.9,83%,35.6,79%,91.0
-ProDrive,Drive Carbon,19,New,$199.00,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene + Kevlar,"1,870",35%,16.4,7.6,5.30,8.6,130,99%,7.24,94%,24.5,80%,55.6,74%,33.4,12%,89.3
-ProDrive,Encounter,16,New,$219.00,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene + Kevlar,"2,020",52%,16.5,7.3,5.50,8.2,119,71%,5.49,9%,24.1,59%,56.7,91%,34.5,45%,91.7
-ProDrive,Ghost,16,New,$189.00,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Kevlar,"1,817",26%,16.4,7.6,5.30,8.0,117,58%,6.73,76%,23.9,48%,55.6,74%,35.1,67%,90.5
-ProKennex,Black Ace Pro,10,New,$250.00,Standard,Thermoformed,Peel Ply,Toray Carbon Fiber,Polypropylene Honeycomb,"1,848",30%,15.8,7.6,5.30,8.1,105,10%,6.17,44%,22.6,5%,54.5,47%,37.4,97%,88.7
-ProKennex,Black Ace Pro,10,Used-3 months,$250.00,Standard,Hot Molded,Peel Ply,Toray Carbon Fiber,Polypropylene Honeycomb,"1,525",12%,15.8,7.6,5.30,8.1,105,10%,6.17,44%,22.6,5%,54.5,47%,37.4,97%,88.7
-Prokennex,Pro Spin,11,New,$220.00,Standard,Unibody Edgeless,Grit,Composit with Submerged Strings,Polypropylene Honeycomb,"1,477",10%,15.7,7.6,5.12,7.6,,,,,,,,,,,
-PROLITE,K2 Power,14,New,$180.00,Standard,Thermoformed,Grit,Toray Carbon Fiber,Polypropylene Honeycomb,"1,628",15%,15.7,8.1,4.75,7.8,101,6%,6.40,57%,22.7,7%,54.0,37%,33.6,19%,90.2
-Proton,Series One-Type A,15,New,$280.00,Standard,Thermoformed,NanoTac,Carbon Fiber,Polypropylene Honeycomb,"2,276",91%,15.8,8.3,5.25,8.4,119,69%,7.20,93%,23.9,48%,54.8,58%,33.4,12%,92.8
-Proton,Series One-Type B,15,New,$280.00,Elongated,Thermoformed,NanoTac,Carbon Fiber,Nomex Honeycomb,"2,336",98%,16.8,7.3,5.25,8.8,130,97%,6.55,65%,24.3,73%,56.1,86%,34.2,35%,92.0
-Proton,Series Three,15.6,New,$240.00,$192.0,Thermoformed,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"1,755",21%,16.5,7.5,5.38,8.2,123,88%,6.72,74%,24.5,80%,56.1,86%,33.7,21%,92.3
-Proton,Series Two,16.2,New,$220.00,$176.0,Thermoformed,Grit,Carbon Fiber,Polypropylene Honeycomb,"1,818",27%,16.5,7.5,5.38,8.3,121,76%,5.98,33%,24.2,64%,53.1,24%,34.4,41%,93.0
-ProXR,Connor Garnett,14,New,$209.99,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,163",73%,16.5,7.5,6.00,8.2,110,26%,5.52,10%,22.5,3%,54.1,39%,34.1,30%,88.2
-ProXR,"Zane Navratil ""The Standard""",14,New,$209.99,Standard,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,260",88%,16.0,8.0,5.25,8.2,107,18%,6.92,87%,22.7,7%,54.6,49%,34.7,53%,89.0
-Revolin,Revo Reach Control,16,New,$189.00,Elongated,Cold Layered,Grit,Flax & Hemp,Polypropylene Honeycomb,"1,056",1%,16.5,7.5,5.50,7.9,,,,,,,,,,,
-Rokne,Republic 2.16 Standard,16,New,$209.99,Hybrid,Cold Layered,Grit,Mitsubishi T700 Carbon Fiber,Polypropylene Honeycomb,"1,176",5%,16.3,7.5,5.50,8.4,126,93%,6.50,62%,24.6,89%,52.7,17%,32.8,8%,91.2
-Ronbus,EV1.16,16,New,$180.00,Elongated,Unibody Edgeless,Grit,Unknown,EVA Foam,"1,148",3%,16.4,7.4,5.25,8.1,117,58%,5.94,31%,23.8,41%,58.8,98%,34.6,48%,79.0
-Ronbus,NOVA R1,16,New,$180.00,Elongated,Thermoformed,Peel Ply-Fine,Toray Carbon Fiber,Polypropylene Honeycomb,"1,729",19%,16.5,7.5,5.50,7.7,115,46%,5.72,18%,24.5,80%,55.2,68%,34.8,56%,89.2
-Ronbus,NOVA R3,16,New,$180.00,Elongated,Thermoformed,Peel Ply-Fine,Toray Carbon Fiber,Polypropylene Honeycomb,"1,732",20%,16.5,7.5,5.5,8.1,121,77%,6.10,38%,24.4,75%,55.4,72%,34.8,56%,89.8
-Ronbus,Pulsar FX.R1,16,New,$180.00,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,264",89%,16.5,7.5,5.50,8.2,121,80%,6.21,48%,24.4,75%,56.3,89%,36.0,87%,94.7
-Ronbus,Pulsar FX.R2,16,New,$180.00,Standard,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,177",76%,16.0,8.0,5.50,8.2,114,44%,7.09,91%,23.4,24%,54.6,49%,36.3,89%,93.8
-Ronbus,Pulsar FX.R3,16,New,$180.00,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,230",85%,16.5,7.5,5.50,8.1,122,81%,6.21,48%,24.6,89%,55.6,74%,35.9,86%,93.0
-Ronbus,Pulsar R1,16,New,$180.00,Elongated,Thermoformed,Peel Ply-Fine,Toray Carbon Fiber,Polypropylene Honeycomb,"1,915",41%,16.5,7.5,5.50,7.9,116,52%,6.21,48%,23.9,48%,54.7,53%,35.1,67%,89.7
-Ronbus,Pulsar R3,16,New,$180.00,Elongated,Thermoformed,Peel Ply-Fine,Toray Carbon Fiber,Polypropylene Honeycomb,"1,970",46%,16.5,7.5,5.50,8.3,125,90%,6.47,62%,23.8,41%,54.0,37%,33.1,9%,89.2
-Ronbus,R1.16,16,New,$120.00,Elongated,Cold Layered,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,307",93%,16.5,7.5,5.50,8.1,117,58%,6.20,45%,,,,,,,
-Ronbus,XPRO EV1.T700.R2,16,New,$180.00,Elongated,Unibody Edgeless,Peel Ply-Fine,Toray Carbon Fiber,EVA Foam,"2,280",92%,16.5,7.5,5.50,7.9,112,34%,5.70,15%,23.5,26%,59.7,100%,,#N/A,82.8
-Ronbus,XPRO EV1.T700.R3,16,New,$180.00,Elongated,Unibody Edgeless,Peel Ply-Fine,Toray Carbon Fiber,EVA Foam,"2,210",83%,16.5,7.5,5.50,7.9,112,34%,5.70,15%,23.7,32%,59.6,99%,,#N/A,82.8
-Selkirk,Epic Vanguard,16,New,$200.00,Standard,Cold Layered,Grit,Carbon Fiber,Polypropylene Honeycomb,"1,285",8%,15.8,8.0,5.25,7.9,,,,,,,,,,,
-Selkirk,Invikta Amped,16,Used-3 months,$150.00,Elongated,Cold Layered,Grit,Fiberglass,Polypropylene Honeycomb,"1,220",5%,16.5,7.4,5.25,7.3,109,23%,,,,,,,,,
-Selkirk,Luxx Control Air Invikta,20,New,$250.00,Elongated,Unibody Edgeless,Grit,Fiberglass & Carbon Fiber,Polypropylene Honeycomb,"2,229",84%,16.5,7.5,5.35,8.1,120,73%,5.96,32%,24.4,75%,51.6,4%,33.1,9%,87.3
-Selkirk,Project 003,20,New,$333.00,Standard,Unibody Edgeless,Grit,3K Woven Carbon Fiber,Polypropylene Honeycomb,"1,903",39%,15.9,7.9,5.25,7.7,,,,,,,,,,,
-Selkirk,SLK Halo Power XL,13,New,$140.00,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,849",30%,16.4,7.4,5.75,7.5,115,46%,5.27,6%,24.2,64%,51.9,6%,31.7,3%,89.7
-Selkirk,Vanguard Power Air Invikta,12.7,New,$250.00,Elongated,Unibody Edgeless,Grit,Fiberglass & Carbon Fiber,Polypropylene Honeycomb,"2,176",76%,16.5,7.4,5.25,7.8,106,12%,5.31,6%,23.1,14%,52.6,13%,35.8,84%,84.2
-Selkirk,Vanguard Power Air Invikta,12.7,Used-1 month,$250.00,Elongated,Unibody Edgeless,Grit,Fiberglass & Carbon Fiber,Polypropylene Honeycomb,"1,172",4%,16.5,7.4,5.25,7.8,106,12%,5.31,6%,23.1,14%,52.6,13%,35.8,84%,84.2
-Selkirk,Vanguard Power Air S2,12.7,New,$250.00,Standard,Unibody Edgeless,Grit,Fiberglass & Carbon Fiber,Polypropylene Honeycomb,"2,077",59%,15.8,8.0,5.38,7.8,,,,,,,,,,,84.2
-Six Zero,Double Black Diamond,14,New,$180.00,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,077",59%,16.3,7.7,5.50,8.1,112,34%,6.33,52%,23.6,30%,53.7,33%,35.1,67%,88.5
-Six Zero,Double Black Diamond,16,New,$180.00,Hybrid,Thermoformed,Peel Ply-Fine,Toray Carbon Fiber,Polypropylene Honeycomb,"2,062",57%,16.3,7.7,5.50,8.1,114,40%,6.66,72%,23.9,48%,54.7,53%,33.6,19%,90.8
-Six Zero,Double Black Diamond (Early Batch),16,New,$180.00,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,186",77%,16.3,7.7,5.50,8.1,,,,,,,,,,,
-Six Zero,Infinity Black Diamond,16,New,$220.00,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Fiberglass,Polypropylene Honeycomb,"2,273",91%,16.3,7.7,5.50,8.0,106,16%,5.70,15%,23.0,13%,54.5,47%,35.2,70%,92.7
-Six Zero,Infinity Double Black Diamond ,16,New,$220.00,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,077",59%,16.3,7.7,5.50,8.1,110,26%,5.80,26%,23.2,17%,53.6,32%,34.6,48%,94.7
-Six Zero,Ruby,16,New,$199.00,Hybrid,Thermoformed,Peel Ply-Coarse,Dupont Kevlar,Polypropylene Honeycomb,"2,271",90%,16.3,7.7,5.50,8.3,117,58%,6.81,83%,23.7,32%,55.6,74%,34.5,45%,91.0
-Six Zero ,Black Diamond Power,16,New,$180.00,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Fiberglass,Polypropylene Honeycomb,"2,217",84%,16.3,7.7,5.50,8.0,116,52%,6.76,78%,23.7,32%,55.3,70%,34.6,48%,88.2
-Six Zero ,Black Diamond Power (Early Batch),16,New,$180.00,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Fiberglass,Polypropylene Honeycomb,"2,329",95%,16.3,7.7,5.50,8.1,,,,,,,,,,,88.2
-Speedup,Fire 14,14,New,$119.99,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,016",52%,16.5,7.5,6.00,7.8,117,58%,5.85,28%,24.3,73%,54.7,53%,35.1,67%,92.7
-Speedup,Ice 16,16,New,$119.99,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,863",33%,16.5,7.5,6.00,7.8,122,82%,6.05,36%,24.9,96%,54.9,59%,33.4,12%,92.3
-Thrive,Azul (medium-light),16,New,$199.99,Hybrid,Thermoformed,Peel Ply-Coarse,Kevlar & Carbon Fiber,Polypropylene Honeycomb,"2,155",72%,16.3,7.7,5.50,8.2,116,56%,6.62,69%,23.8,40%,55.6,74%,36.4,91%,
-Thrive,Azul (medium),16,New,$199.99,Hybrid,Thermoformed,Peel Ply-Coarse,Kevlar & Carbon Fiber,Polypropylene Honeycomb,"2,144",70%,16.3,7.7,5.50,8.2,117,62%,6.65,70%,23.9,47%,55.9,83%,35.3,73%,
-Vatic Pro,Flash,14,New,$139.99,Hybrid,Thermoformed,Peel Ply-Fine,Toray Carbon Fiber,Polypropylene Honeycomb,"2,174",75%,16.3,7.7,5.30,8.1,,,,,,,,,,,
-Vatic Pro,Prism Flash,16,New,$99.99,Hybrid,Hybrid,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,200",79%,16.3,7.7,5.30,7.8,111,30%,6.25,50%,24.0,54%,52.8,18%,33.4,12%,94.3
-Vatic Pro,V7,16,New,$139.99,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,981",48%,16.5,7.5,5.30,8.2,124,89%,6.68,73%,23.2,17%,53.2,26%,33.4,12%,89.0
-Volair,Alto,14,New,$99.99,Elongated,Cold Layered,Grit,Fiberglass,Polypropylene Honeycomb,"1,798",24%,16.5,7.5,5.50,7.7,110,29%,5.75,21%,24.0,54%,53.4,29%,34.6,48%,90.2
-Volair,Alto,16,New,$99.99,Elongated,Cold Layered,Grit,Fiberglass,Polypropylene Honeycomb,"1,737",20%,16.5,7.5,5.50,8.2,120,73%,6.20,45%,24.4,75%,53.8,34%,34.1,30%,90.2
-Volair,Corto,14,New,$99.99,Wide Body,Cold Layered,Grit,Fiberglass,Polypropylene Honeycomb,"1,892",38%,15.9,8.1,5.50,7.8,103,8%,6.85,85%,23.4,24%,53.2,26%,34.9,59%,90.3
-Volair,Corto,16,New,$99.99,Wide Body,Cold Layered,Grit,Fiberglass,Polypropylene Honeycomb,"1,984",48%,15.9,8.1,5.50,8.1,110,29%,7.10,92%,23.8,41%,53.8,34%,33.6,19%,90.5
-Volair,Mach 1,16,New,$139.99,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,002",49%,16.5,7.5,5.50,7.7,110,26%,5.72,18%,24.0,54%,52.8,18%,33.8,22%,89.2
-Volair,Mach 1,14,New,$139.99,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,123",68%,16.5,7.5,5.50,8.0,114,40%,5.92,30%,24.2,64%,53.3,28%,34.1,30%,89.7
-Volair,Mach 1 Forza,14,New,$179.99,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,332",97%,16.5,7.5,5.50,7.8,111,30%,6.16,43%,23.9,48%,52.8,18%,35.0,62%,88.8
-Volair,Mach 1 Forza,16,New,$179.99,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,205",82%,16.5,7.5,5.50,8.0,115,46%,6.40,57%,24.1,59%,54.6,49%,35.0,62%,88.5
-Volair,Mach 2,14,New,$139.99,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,345",98%,15.9,8.1,5.50,7.8,105,11%,6.75,77%,23.3,20%,52.3,9%,34.0,27%,93.2
-Volair,Mach 2,16,New,$139.99,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,329",95%,15.9,8.1,5.50,8.0,107,21%,6.90,85%,23.4,24%,52.5,11%,33.2,11%,93.5
-Volair ,Mach 2 Forza,14,New,$179.99,Wide Body,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,236",85%,15.9,8.1,5.50,7.8,108,21%,6.80,79%,23.7,32%,54.0,37%,35.3,73%,90.8
-Volair ,Mach 2 Forza,16,New,$179.99,Wide Body,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,330",96%,15.9,8.1,5.50,8.1,113,38%,7.30,97%,23.8,41%,54.7,53%,34.0,27%,91.7
+11Six24,Hurache Control,16,New,$79.99 ,Elongated,Cold Layered,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,107",63%,16.5,7.5,5.5,7.4,106,11%,5.55,10%,23.7,32%,52.5,9%,33.9,22%,91
+11Six24,Hurache-X,16,New,$139.99 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber and Fiberglass,Polypropylene Honeycomb,"1,847",26%,16.5,7.5,6,8.2,119,68%,6.4,54%,24.1,61%,55.3,65%,35,56%,91.3
+11Six24,Hurache-X Control+,16,New,$149.90 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,956",40%,16.5,7.5,6,8,117,62%,6.3,49%,24.2,66%,55.9,81%,36,86%,89
+Bird,Ball Hawk Classic,14,New,$199.00 ,Standard,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,099",61%,16,8,4.75,7.9,106,11%,7.05,88%,23.5,26%,51.3,2%,32.4,5%,89.8
+Bird,Falcon Elite Ergo,14,New,$229.00 ,Ergo,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,806",22%,14.5,8,N/A,8.7,,,,,18.9,0%,52.8,16%,31,1%,
+Bread & Butter,Drip Contender,16,New,$95.00 ,Elongated,Cold Layered,Grit,T700 Carbon Fiber,Polypropylene Honeycomb,"1,017",0%,16.4,7.5,5,8.3,,,,,,,,,,,
+Bread & Butter,Drip Verge,16,New,$95.00 ,Elongated,Cold Layered,Grit,T700 Carbon Fiber,Polypropylene Honeycomb,"1,046",1%,16.4,7.5,5,8.3,,,,,,,,,,,88.7
+Bread & Butter,Filth,16,New,$165.00 ,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,865",31%,16.5,7.4,5.5,7.9,121,76%,6.2,43%,24.2,66%,55.2,63%,35.6,76%,91.3
+Bread & Butter,Loco,16,New,$165.00 ,Hybrid,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,091",60%,16.3,7.7,5.3,7.7,114,39%,6.1,35%,24.1,61%,54.6,43%,35.2,65%,
+Bread & Butter,Shogun,16,New,$189.99 ,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,004",48%,16.5,7.4,5.5,8.2,122,82%,6.13,37%,24.5,80%,55,58%,36,86%,
+Bread & Butter,Spear Breakout,13,New,$80.00 ,Standard,Cold Layered,Grit,T700 Carbon Fiber,Polypropylene Honeycomb,"1,156",3%,15.9,7.9,5,7.6,,,,,,,,,,,89.5
+Bread & Butter,Spear Juno,16,New,$80.00 ,Standard,Cold Layered,Grit,T700 Carbon Fiber,Polypropylene Honeycomb,"1,081",2%,15.9,7.9,5,7.6,,,,,,,,,,,89.5
+Cheetah,Predion E16 Edgeless,16,New,$200.00 ,Elongated,Thermoformed,Grit,3K Woven Carbon Fiber,Aramid Fiber Honeycomb,"1,556",11%,16.5,7.5,5.5,7.7,106,11%,5.37,7%,23.3,18%,52.8,16%,34.3,33%,92.2
+Cheetah,Predion E16-with lead tape,16,New,$200.00 ,Elongated,Thermoformed,Grit,3K Woven Carbon Fiber,Aramid Fiber Honeycomb,"1,556",11%,16.5,7.5,5.5,8.4,115,45%,7.23,92%,23.5,26%,54.1,34%,34.3,33%,
+Chorus,Shapeshifter with 10 grams tungsten tape,16,New,$189.99 ,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,139",67%,16.3,7.7,5.3,8.4,118,64%,7,86%,23.7,32%,55.9,81%,35.2,65%,93.8
+Chorus,Shapeshifter with 10 grams tungsten tape & 28-gram Slyce cap,16,New,$189.99 ,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,139",67%,16.3,7.7,5.3,9.3,121,81%,7.11,90%,21.8,2%,56,84%,35.7,79%,89.5
+Core,Reaction Pro Elongated,16,New,$124.99 ,Elongated,Cold Layered,Peel Ply-Fine,T700 Carbon Fiber,Polypropylene Honeycomb,"1,863",30%,16.5,7.4,5.8,8.2,125,93%,6.03,32%,24.8,92%,54.4,40%,33.9,22%,88.3
+Core,Reaction Pro Standard,16,New,$124.99 ,Standard,Cold Layered,Peel Ply-Fine,T700 Carbon Fiber,Polypropylene Honeycomb,"1,892",34%,15.8,8,5.13,8.2,112,33%,7.25,94%,23.8,41%,53.5,27%,34,24%,
+CRBN,CRBN 1X,14,New,$229.99 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,244",83%,16.5,7.3,5.5,8,116,52%,5.78,22%,24.2,66%,54.7,47%,34.4,36%,
+CRBN,CRBN 2X,16,New,$229.99 ,Standard,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,975",44%,15.8,8,4.75,8,110,25%,7.5,99%,23.5,26%,53.5,27%,34.4,36%,89
+CRBN 1,CRBN1 Control,14,New,$179.99 ,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,171",72%,16.5,7.3,5.5,7.9,,,,,,,,,,,85.8
+CRBN 1,CRBN1 Control (USAP-Banned 2021),14,New,$179.99 ,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,943",39%,16.5,7.3,5.5,7.9,,,,,,,,,,,78
+Diadem,Edge 18K,16,New,$229.95 ,Elongated,Cold Layered,Peel Ply-Coarse,18k Carbon Fiber,Polypropylene Honeycomb,"2,304",92%,16.4,7.5,5.3,7.9,122,84%,6.25,48%,24.1,61%,53,21%,34.1,26%,86.5
+Diadem,Icon V2 XL,13.7,New,$199.95 ,Standard,Hot Molded,Grit,Carbon Fiber (Japanese-Sourced),Polypropylene Honeycomb (2 sheets),"1,718",16%,16,7.6,5.25,8.2,125,91%,5.69,13%,24.5,80%,54.2,37%,35,56%,
+Diadem,Vice,16,New,$224.95 ,Elongated,Unibody Edgeless,Grit,Carbon Fiber,EVA Foam,"1,789",21%,16.4,7.4,5.3,7.9,114,40%,5.73,18%,,,59,99%,33.8,19%,87.7
+Diadem,Warrior,19,New,$229.95 ,Elongated,Cold Layered,Grit,Carbon Fiber,Polypropylene + Aramid,"1,744",19%,16.4,7.4,5.3,8.6,133,100%,7.25,94%,24.7,90%,52.6,11%,31,1%,92.7
+Electrum,Model E,16,Used-6 months,$119.99 ,Elongated,Cold Layered,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,575",13%,16.5,7.4,5.25,8.2,122,84%,6.8,76%,,,,,,,92.7
+Electrum,Model E Elite,16,New,$199.99 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,028",50%,16.5,7.4,5.25,8.4,124,90%,7.14,91%,24.7,90%,55.7,77%,35.7,79%,89.8
+Electrum,Model E Stealth,16,New,$220.00 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,810",22%,16.5,7.3,5.38,7.7,107,16%,5,2%,23.3,18%,55.6,70%,35.6,76%,93.8
+Electrum,Model E Stealth-with 0.5 oz. lead tape,16,New,$220.00 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,810",22%,16.5,7.3,5.38,8.2,109,22%,6.1,35%,23.2,16%,55,58%,35,56%,93.8
+Electrum,Pro II,11,Used-1 month,$149.99 ,Standard,Hot Molded,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,089",60%,16,8,5.25,7.6,106,11%,6.75,73%,23.7,32%,51,1%,34.3,33%,93.2
+Electrum,Pro II Stealth,12,New,$220.00 ,Standard,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,204",78%,16,7.8,5.25,7,93,1%,4.83,1%,23.1,13%,53.1,22%,36.4,92%,93.2
+Electrum,Pro II Stealth-with 0.5 oz. lead tape,12,New,$220.00 ,Standard,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,204",78%,16,7.8,5.25,7.5,97,2%,6.35,51%,22.8,11%,55,58%,36,86%,92.7
+Electrum,Pro Stealth,12,New,$220.00 ,Wide Body,Unibody Edgeless,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,927",38%,15.6,8.3,5,7.3,92,0%,5.63,12%,22.5,4%,52.6,11%,36.1,89%,93
+Electrum,Pro Stealth-with 0.5 oz. lead tape,12,New,$220.00 ,Wide Body,Unibody Edgeless,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,927",38%,15.6,8.3,5,7.3,93,1%,6.9,82%,22.3,3%,55,58%,35.7,79%,89.8
+Engage,Evolution Extreme V2.14,14,New,$159.99 ,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,915",37%,16.5,7.5,5.25,8,118,#REF!,6.38,54%,24.4,76%,53.2,23%,34.7,47%,93.7
+Engage,Evolution Extreme V2.16,16,New,$159.99 ,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,082",59%,16.4,7.5,5.25,8.2,122,82%,6.66,69%,24.5,80%,54.6,43%,34.4,36%,92.5
+Engage,Pursuit EX 6.0 Maxx,16,New,$259.99 ,Elongated,Cold Layered with Edge Foam,Frosted RCF,Toray Carbon Fiber,Polypropylene Honeycomb,"1,666",14%,16,8,5,8,116,51%,7.43,98%,24.5,80%,54.2,37%,35.3,69%,93.2
+Engage,Pursuit EX 6.0 Pro,16,New,$259.99 ,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,260",86%,16,8,5,8.1,115,44%,7.32,96%,23.5,26%,55,58%,36.3,90%,92.8
+Engage,Pursuit EX Pro,13,New,$259.99 ,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,366",97%,16,8,5,8.2,116,54%,7.29,95%,23.7,32%,54.9,54%,36.6,94%,92.5
+Engage,Pursuit MX 6.0 Maxx,16,New,$199.99 ,Elongated,Cold Layered with Edge Foam,Frosted RCF,Toray Carbon Fiber,Polypropylene Honeycomb,"1,716",15%,16.5,7.5,5.75,7.8,116,54%,5.8,23%,24.2,66%,56.1,87%,35.2,65%,90.8
+Engage,Pursuit MX 6.0 Pro,16,New,$259.99 ,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,258",85%,16.5,7.5,5.75,8.1,129,97%,6.65,67%,25.3,98%,56.3,90%,35.4,72%,91.3
+Engage,Pursuit MX Pro,13,New,$259.99 ,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,264",87%,16.5,7.5,5.75,8,119,72%,5.85,25%,24.1,61%,56.2,89%,36.3,90%,86.7
+Engage,Pursuit Pro 1 6.0-Light,16,New,$259.99 ,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,207",80%,16.5,7.5,5.88,7.7,115,49%,5.75,19%,23.7,32%,56.4,92%,35.4,72%,89.7
+Engage,Pursuit Pro 1-Light,13,New,$259.99 ,Elongated,Cold Layered with Edge Foam,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,178",75%,16.5,7.5,5.88,7.7,110,24%,5.57,10%,23.3,18%,56,84%,35.5,75%,94
+Franklin,Ben Johns Signature,13,Used-2 months,$100.00 ,Elongated,Cold Layered,Grit,Fiberglass,Polypropylene Honeycomb,"1,267",7%,16.5,7.3,5.5,8.1,120,73%,,,,,,,,,94.8
+Franklin ,Carbon STK,14.5,New,$149.99 ,Elongated,Cold Layered,Unknown,Carbon Fiber,Polypropylene Honeycomb,"1,251",6%,16.5,7.5,4.25,7.6,118,64%,5.76,21%,24.6,89%,51.7,5%,30.9,0%,93.5
+Gamma,Airbender,16,New,$199.99 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,903",35%,16.5,7.4,5.38,8.5,115,50%,5.57,10%,23.3,18%,55.4,67%,34.1,26%,93.5
+Gamma,Obsidian 10,10,New,$159.99 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,992",46%,16.4,7.6,5.75,8,118,66%,5.77,22%,24.4,76%,54.7,47%,35.5,75%,
+Gamma,Obsidian 13,13,New,$159.99 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,854",28%,16.4,7.6,5.75,7.9,112,36%,6,31%,23.8,41%,55.1,61%,35.2,65%,
+Gamma,Obsidian 16,16,New,$159.99 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,877",32%,16.4,7.6,5.75,8.1,120,72%,6.46,58%,24.5,80%,55.8,79%,34.4,36%,88.7
+Gearbox,CX11E Power,14,Used-3 months,$199.99 ,Elongated,Unibody Edgeless,Grit,3K Woven Carbon Fiber,Toray T700 Carbon Fiber,"1,480",9%,16.6,8,5.38,7.8,98,4%,4.69,1%,,,47.8,0%,31.5,2%,89.8
+Gearbox,CX14E,14,Used-1 month,$199.99 ,Elongated,Unibody Edgeless,Grit,3K Woven Carbon Fiber,Toray T700 Carbon Fiber,"1,523",10%,16.6,7.4,5.38,8,101,5%,4.32,0%,,,,,,,87.7
+Gearbox,CX14H Ultimate Power,14,New,$249.99 ,Standard,Unibody Edgeless,Grit,3K Woven Carbon Fiber,Toray T700 Carbon Fiber,"1,962",42%,15.6,8,5.38,8.5,107,16%,5.78,22%,22,3%,51.1,1%,33.1,8%,90.3
+Gearbox,G2 Elongated,14,New,$119.99 ,Elongated,Unibody Edgeless,Grit,Carbon Fiber; Fiberglass,Polypropylene Honeycomb,"2,030",51%,16.5,7.4,5.5,7.9,123,89%,5.35,7%,25.4,99%,54.4,40%,32.7,6%,91.2
+Gearbox,G2 Integra,14,New,$139.99 ,Hybrid,Unibody Edgeless,Grit,Carbon Fiber; Fiberglass,Polypropylene Honeycomb,"2,113",64%,16,7.4,5.5,7.9,113,38%,5.64,12%,24.5,80%,54.2,37%,32.6,6%,90
+Gearbox,G2 Quad,14,New,$99.99 ,Standard,Unibody Edgeless,Grit,Carbon Fiber; Fiberglass,Polypropylene Honeycomb,"2,139",67%,15.9,8,4.75,7.9,108,21%,6.23,47%,23.7,32%,53.3,25%,33.4,10%,90.5
+Gearbox,Pro Control Elongated,14,New,$274.99 ,Elongated,Gen-3 Foam Enhanced,Peel Ply-Coarse,Toray Carbon Fiber,Toray Carbon Fiber,"2,130",67%,16.5,7.4,5.5,8.1,122,84%,5.07,2%,25,97%,56,84%,35.1,62%,90.3
+Gearbox,Pro Control Fusion,14,New,$274.99 ,Hybrid,Gen-3 Foam Enhanced,Peel Ply-Coarse,Toray Carbon Fiber,Toray Carbon Fiber,"2,091",60%,16,7.4,5.5,8,115,45%,5.14,3%,24.5,80%,55.8,79%,35.4,72%,94.2
+Gearbox,Pro Power Elongated,14,New,$274.99 ,Elongated,Gen-3 Foam Enhanced,Peel Ply-Coarse,Toray Carbon Fiber,Toray Carbon Fiber,"2,062",54%,16.5,7.4,5.5,8,120,73%,5.22,4%,24.9,96%,57.7,97%,36.6,94%,93.8
+Gearbox,Pro Power Fusion,14,New,$274.99 ,Hybrid,Gen-3 Foam Enhanced,Peel Ply-Coarse,Toray Carbon Fiber,Toray Carbon Fiber,"2,113",64%,16,7.4,5.5,8,112,34%,5.14,3%,24.2,66%,57.9,97%,36.8,95%,92.7
+Gentle Booms Sports,GBS-001,11,New,$49.99 ,Standard,Welded,Grit,Aluminum,Aluminum Honeycomb,"1,493",10%,15.7,7.8,5,8.5,115,45%,6.65,67%,23.1,13%,51.9,6%,31.7,3%,93.5
+GRÜVN,MÜVN-13S,13,New,$179.00 ,Wide Body,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,846",26%,15.7,8.1,5.3,7.9,101,5%,6.35,51%,22.5,4%,54.8,52%,36.4,92%,93.7
+GRÜVN,MÜVN-13X,13,New,$179.00 ,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,975",44%,16.5,7.4,5.5,7.8,114,40%,5.93,28%,23.9,48%,55.4,67%,34.9,53%,92.8
+GRÜVN,MÜVN-16E,16,New,$179.00 ,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,862",29%,16.5,7.4,4.75,8.3,118,64%,6.35,51%,23.8,41%,55,58%,34.9,53%,92.5
+GRÜVN,MÜVN-16H,16,New,$179.00 ,Elongated,Thermoformed,Peel Ply-Fine,T700 Carbon Fiber,Polypropylene Honeycomb,"1,821",25%,16.5,7.4,5.88,8.2,122,84%,6.15,38%,24.2,66%,55.6,70%,35.7,79%,93.2
+GRÜVN,MÜVN-16S,16,New,$179.00 ,Wide Body,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,002",46%,15.7,8.1,5.3,8,104,8%,6.8,76%,22.7,8%,54.3,39%,35,56%,94
+GRÜVN,MÜVN-16X,16,New,$179.00 ,Elongated,Thermoformed,Peel Ply-Fine,T700 Carbon Fiber,Polypropylene Honeycomb,"2,013",49%,16.5,7.4,5.5,8.2,117,56%,6.3,49%,23.7,32%,54.3,39%,34.2,31%,94.3
+GRÜVN,Raw-13R,13,New,$139.00 ,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,171",72%,15.6,8.2,5.25,7.6,97,2%,6.51,60%,22.7,8%,52.3,8%,34.6,43%,93.3
+GRÜVN,Raw-13S,13,New,$139.00 ,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,255",84%,15.7,8.1,5.3,7.8,106,15%,6.8,76%,23.5,26%,53.4,26%,34.9,53%,93.3
+GRÜVN,Raw-13V,13,New,$139.00 ,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,965",42%,15.5,8.1,4.75,7.7,99,4%,6.8,76%,22.8,11%,52.5,9%,34.8,49%,93.5
+GRÜVN,Raw-16H,16,New,$139.00 ,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,166",72%,16.5,7.4,5.88,7.7,121,76%,5.74,19%,25,97%,52.6,11%,33.8,19%,93
+GRÜVN,Raw-16R,16,New,$139.00 ,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,597",13%,15.6,8.2,5.25,7.7,97,3%,6.72,72%,22.6,6%,52.6,11%,33.4,10%,93.5
+GRÜVN,Raw-16RX,16,New,$139.00 ,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,877",32%,16.5,7.4,6,7.8,119,68%,5.7,14%,24.5,80%,52.8,16%,34.2,31%,93.2
+GRÜVN,Raw-16S,16,New,$139.00 ,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,202",78%,15.7,8.1,5.3,7.8,105,10%,6.83,80%,23.3,18%,54.1,34%,33.6,16%,93
+GRÜVN,Raw-16V,16,New,$139.00 ,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,152",69%,15.5,8.1,4.75,7.8,100,5%,7.32,96%,22.9,12%,52.9,20%,33.4,10%,93
+GRÜVN,Raw-16X,16,New,$139.00 ,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,152",69%,16.5,7.4,5.5,8,122,84%,6.07,34%,24.5,80%,53.8,30%,33.8,19%,91.3
+GRYP,Balance 1 - 10g cap,15,New,$200.00 ,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,107",63%,16.5,7.5,5.5,8.3,113,37%,6.15,38%,22.7,8%,54.6,43%,34.7,47%,92.3
+GRYP,Balance 1 - 30g cap,15,New,$200.00 ,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,042",52%,16.5,7.5,5.5,8.9,114,40%,6,31%,21,1%,55.7,77%,35.7,79%,90
+Honolulu Pickleball Co.,J2K,16,New,$155.00 ,Hybrid,Thermoformed,Peel Ply-Coarse,Dupont Kevlar,Polypropylene Honeycomb,"2,101",62%,16.2,7.8,5.5,8.2,115,50%,7,86%,23.7,32%,55.5,69%,35.8,82%,89.5
+Honolulu Pickleball Co.,J2K Pro,16,New,$165.00 ,Hybrid,Thermoformed,Peel Ply-Coarse,Dupont Kevlar,Polypropylene Honeycomb,"2,044",53%,16.2,7.8,5.5,7.9,110,25%,6.84,81%,23.4,24%,55.6,70%,35.9,84%,92.2
+Honolulu Pickleball Co.,J2K with 6 grams tungsten tape,16,New,$155.00 ,Hybrid,Thermoformed,Peel Ply-Coarse,Dupont Kevlar,Polypropylene Honeycomb,"2,101",62%,16.2,7.8,5.5,8.4,113,38%,7.35,98%,23.3,18%,54.9,54%,35.2,65%,92.3
+Honolulu Pickleball Co.,J2K with 6 grams tungsten tape & 28-gram Slyce cap,16,New,$155.00 ,Hybrid,Thermoformed,Peel Ply-Coarse,Dupont Kevlar,Polypropylene Honeycomb,"2,101",62%,16.2,7.8,5.5,9.4,119,67%,7.67,100%,21.7,1%,55.6,70%,36,86%,89.3
+Honolulu Pickleball Co.,J3K,16,New,$165.00 ,Standard,Thermoformed,Peel Ply-Coarse,Dupont Kevlar,Polypropylene Honeycomb,"1,959",40%,16,8,6,8.2,116,52%,7.23,92%,23.9,48%,55.2,63%,36.2,90%,90.3
+Honolulu Pickleball Co.,J3K Pro,16,New,$165.00 ,Standard,Thermoformed,Peel Ply-Coarse,Dupont Kevlar,Polypropylene Honeycomb,"1,973",43%,16,8,6,8.1,112,32%,7.05,88%,23.5,26%,54.8,52%,35.9,84%,88.7
+Honolulu Pickleball Co.,J7K Pro,16,New,$165.00 ,Standard,Thermoformed,Peel Ply-Coarse,Dupont Kevlar,Polypropylene Honeycomb,"2,285",91%,16.6,7.3,5.5,8,117,58%,6.14,38%,23.9,48%,56,84%,35,56%,90.8
+Honolulu Pickleball Co.,Sword & Shield-J1,16,New,$166.50 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,880",33%,16.5,7.5,5.75,8.8,128,96%,6.9,82%,24.1,61%,54.9,54%,34.3,33%,90.8
+Honolulu Pickleball Co.,Sword & Shield-J1H,16,New,$166.50 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,032",51%,16.5,7.5,5.75,8.7,130,98%,6.8,76%,24,56%,56.9,93%,34.6,43%,
+Honolulu Pickleball Co.,Sword & Shield-J2,16,New,$145.00 ,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,714",15%,16.2,7.8,5.5,8,118,62%,6.55,62%,24,56%,55.2,63%,34.4,36%,92.2
+Honolulu Pickleball Co.,Sword & Shield-J3,16,New,$130.50 ,Standard,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,778",20%,16,8,6,8,111,31%,7,86%,23.6,31%,55.1,61%,34.5,40%,90.7
+Honolulu Pickleball Co.,Sword & Shield-J5,16,New,$166.50 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,067",55%,17,7,5.75,8.6,130,99%,6.15,38%,24.3,74%,55.7,77%,34.2,31%,90.8
+Hudef,Mage Pro,16,New,$99.00 ,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,004",48%,16.5,7.4,5.35,8.1,119,68%,6.4,54%,24.2,66%,54.1,34%,34.1,26%,89.7
+Hudef,Viva Pro Gen1,16,New,$99.00 ,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,077",56%,16.5,7.4,5.5,8.1,122,84%,6.16,40%,24.4,76%,52.1,7%,33.9,22%,89.7
+Hudef,Viva Pro Gen2,16,New,$129.99 ,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,060",54%,16.5,7.4,5.5,8.1,128,96%,6.5,59%,25.3,98%,55.5,69%,34.8,49%,92
+Joola,Hyperion CAS,16,Used-2 months,$159.95 ,Elongated,Cold Layered,Grit,Fiberglass,Polypropylene Honeycomb,"1,234",5%,16.5,7.5,5.5,8.3,125,91%,6.37,53%,24.5,80%,,,,,
+Joola,Hyperion CFS,16,New,$219.95 ,Elongated,Hybrid,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"1,725",16%,16.5,7.5,5.5,8.4,127,95%,6.57,64%,24.8,92%,51.6,3%,,,
+Joola,Hyperion CFS,16,Used-3 months,$219.95 ,Elongated,Hybrid,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"1,333",8%,16.5,7.5,5.5,8.4,127,95%,6.57,64%,24.8,92%,51.6,3%,,,93.2
+Joola,Hyperion CFS Swift,16,New,$219.95 ,Elongated,Hybrid,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"1,420",8%,16.5,7.5,5.5,7.9,,,,,,,,,,,
+Joola,Magnus 3 Tyson McGuffin,14,New,$280.00 ,Elongated,Gen-3 Foam Enhanced,Peel Ply-Coarse,Carbon Fiber,Polypropylene + Foam,"2,425",99%,16.5,7.5,5,8,115,44%,6.05,33%,24.1,61%,57.3,96%,37.2,96%,
+Joola,Perseus 3 Ben Johns,16,New,$280.00 ,Elongated,Gen-3 Foam Enhanced,Peel Ply-Coarse,Carbon Fiber,Polypropylene + Foam,"2,487",100%,16.5,7.5,5.5,8,119,70%,6.08,35%,24.2,66%,57.6,96%,37.3,97%,93.5
+Joola,Perseus 3 Ben Johns,14,New,$280.00 ,Elongated,Gen-3 Foam Enhanced,Peel Ply-Coarse,Carbon Fiber,Polypropylene + Foam,"2,193",77%,16.5,7.5,5.5,8,117,57%,5.83,25%,24.2,66%,56.9,93%,38.3,99%,88.7
+Joola,Scorpeus 3 Anna Bright,14,New,$280.00 ,Standard,Gen-3 Foam Enhanced,Peel Ply-Coarse,Carbon Fiber,Polypropylene + Foam,"2,310",93%,16,8,5.25,7.8,109,24%,6.64,66%,24,56%,56.9,93%,38.6,100%,89.8
+Joola,Scorpeus 3 Collin Johns,16,New,$280.00 ,Standard,Gen-3 Foam Enhanced,Peel Ply-Coarse,Carbon Fiber,Polypropylene + Foam,"2,115",66%,16,8,5.25,8,112,33%,6.94,85%,23.7,32%,57,95%,38,99%,88.2
+Joola,Scorpeus Collin Johns,16,New,$249.95 ,Standard,Thermoformed,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"1,889",33%,16,8,5.25,8.1,114,40%,6.95,85%,23.9,48%,52.2,8%,34.1,26%,91
+Joola,Solaire,14,New,$189.95 ,Standard,Hybrid,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"1,917",38%,16,8,5.5,8.4,,,,,,,,,,,89.3
+Joola,Solaire,14,Used-1 month,$189.95 ,Standard,Hybrid,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"1,774",20%,16,8,5.5,8.4,,,,,,,,,,,91.7
+Komodo,Katana,16,New,$227.97 ,Elongated,Cold Layered,Peel Ply-Coarse,Kevlar 3K Cloth,Polypropylene Honeycomb,"2,032",51%,16.5,7.5,5.25,7.5,106,16%,5.75,19%,23.8,41%,53.9,32%,33.4,10%,90.5
+Legacy,Legacy Pro,16,New,$150.00 ,Elongated,Thermoformed,Peel Ply-Fine,Toray Carbon Fiber,Polypropylene Honeycomb,"1,913",36%,16.5,7.5,5.3,8,121,76%,6.43,57%,,,,,,,88.7
+Monarch,Mercenary Graphite 2,10.3,Used-3 months,$79.99 ,Standard,Cold Layered,Grit,Graphite,Polypropylene Honeycomb,"1,099",2%,15.5,8.2,4.5,7.8,108,21%,,,,,,,,,88.7
+Neonic,Flow,16,New,$119.99 ,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,310",93%,16.3,7.6,5.5,8.1,116,55%,6.53,61%,23.9,48%,54.9,54%,34.6,43%,
+Owl,Owl CXE,16,New,$169.00 ,16.5,Cold Layered,Acoustene™ Composite,Acoustene™ Composite,Polypropylene Honeycomb,"2,380",98%,16.5,7.5,5.3,7.9,119,67%,5.51,9%,25.6,100%,54.7,47%,34.5,40%,90.2
+PCKL,Pro 13,13,New,$159.99 ,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,834",25%,16.3,7.5,5.5,8.1,120,73%,5.91,27%,23.2,16%,51.3,2%,32.3,5%,92.8
+PCKL,Pro 16,16,New,$159.99 ,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,853",28%,16.3,7.5,5.5,7.8,121,76%,6.56,63%,23.8,41%,52.8,16%,32.1,4%,92
+Pickleball Apes,Pro Line Energy,16.5,New,$149.99 ,Elongated,Thermoformed,Peel Ply-Coarse,Kevlar & Carbon Fiber,Polypropylene Narrow-Cell Honeycomb,"2,081",58%,17,7,6.25,8.3,122,84%,5.7,14%,24.7,90%,55.3,65%,34.9,53%,92.3
+Pickleball Apes,Pro Line Energy S,16.5,New,$169.99 ,Elongated,Thermoformed,Peel Ply-Coarse,Kevlar & Carbon Fiber,Polypropylene Narrow-Cell Honeycomb,"2,192",76%,16.4,7.6,5.5,8.1,118,64%,6.34,51%,24.2,66%,55.9,81%,35.6,76%,93
+PIKKL,Hurricane Pro,16,New,$159.99 ,Standard,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,404",99%,16,8,5.5,7.8,109,22%,6.79,75%,23.9,48%,55.9,81%,35.2,65%,88.2
+PIKKL,Hurricane Pro,14,New,$159.99 ,Standard,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,280",90%,16,8,5.5,7.8,108,19%,6.6,65%,23.6,31%,55.7,77%,35.4,72%,89
+PIKKL,Vantage Pro,16,New,$139.99 ,Elongated,Thermoformed,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"2,260",86%,16.3,7.5,5.35,8.4,121,80%,6.64,66%,23.9,48%,56,84%,34.8,49%,
+PIKKL,Vantage Pro,14,New,$139.99 ,Elongated,Thermoformed,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"2,367",98%,16.3,7.5,5.35,7.9,112,32%,6.19,43%,23.8,41%,55.8,79%,35,56%,91.2
+ProDrive,Drive Carbon,19,New,$199.00 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene + Kevlar,"1,870",31%,16.4,7.6,5.3,8.6,130,99%,7.24,93%,24.5,80%,55.6,70%,33.4,10%,79
+ProDrive,Encounter,16,New,$219.00 ,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene + Kevlar,"2,020",50%,16.5,7.3,5.5,8.2,119,71%,5.49,8%,24.1,61%,56.7,92%,34.5,40%,89.2
+ProDrive,Ghost,16,New,$189.00 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Kevlar,"1,817",23%,16.4,7.6,5.3,8,117,58%,6.73,73%,23.9,48%,55.6,70%,35.1,62%,89.8
+ProKennex,Black Ace Pro,10,New,$250.00 ,Standard,Thermoformed,Peel Ply,Toray Carbon Fiber,Polypropylene Honeycomb,"1,848",27%,15.8,7.6,5.3,8.1,105,8%,6.17,41%,22.6,6%,54.5,41%,37.4,97%,94.7
+ProKennex,Black Ace Pro,10,Used-3 months,$250.00 ,Standard,Hot Molded,Peel Ply,Toray Carbon Fiber,Polypropylene Honeycomb,"1,525",11%,15.8,7.6,5.3,8.1,105,8%,6.17,41%,22.6,6%,54.5,41%,37.4,97%,93.8
+Prokennex,Pro Spin,11,New,$220.00 ,Standard,Unibody Edgeless,Grit,Composit with Submerged Strings,Polypropylene Honeycomb,"1,477",9%,15.7,7.6,5.12,7.6,,,,,,,,,,,93
+PROLITE,K2 Power,14,New,$180.00 ,Standard,Thermoformed,Grit,Toray Carbon Fiber,Polypropylene Honeycomb,"1,628",14%,15.7,8.1,4.75,7.8,101,5%,6.4,54%,22.7,8%,54,32%,33.6,16%,89.7
+Proton,Series One-Type A,15,New,$280.00 ,Standard,Thermoformed,NanoTac,Carbon Fiber,Polypropylene Honeycomb,"2,276",90%,15.8,8.3,5.25,8.4,119,70%,7.2,91%,23.9,48%,54.8,52%,33.4,10%,89.2
+Proton,Series One-Type B,15,New,$280.00 ,Elongated,Thermoformed,NanoTac,Carbon Fiber,Nomex Honeycomb,"2,336",96%,16.8,7.3,5.25,8.8,130,98%,6.55,62%,24.3,74%,56.1,87%,34.2,31%,
+Proton,Series Three,15.6,New,$240.00 ,$192.00 ,Thermoformed,Peel Ply-Coarse,Carbon Fiber,Polypropylene Honeycomb,"1,755",19%,16.5,7.5,5.38,8.2,123,88%,6.72,72%,24.5,80%,56.1,87%,33.7,19%,82.8
+Proton,Series Two,16.2,New,$220.00 ,$176.00 ,Thermoformed,Grit,Carbon Fiber,Polypropylene Honeycomb,"1,818",24%,16.5,7.5,5.38,8.3,121,76%,5.98,30%,24.2,66%,53.1,22%,34.4,36%,82.8
+ProXR,Connor Garnett,14,New,$209.99 ,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,163",71%,16.5,7.5,6,8.2,110,25%,5.52,9%,22.5,4%,54.1,34%,34.1,26%,
+ProXR,"Zane Navratil ""The Standard""",14,New,$209.99 ,Standard,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,260",86%,16,8,5.25,8.2,107,16%,6.92,84%,22.7,8%,54.6,43%,34.7,47%,
+Revolin,Revo Reach Control,16,New,$189.00 ,Elongated,Cold Layered,Grit,Flax & Hemp,Polypropylene Honeycomb,"1,056",1%,16.5,7.5,5.5,7.9,,,,,,,,,,,87.3
+Rokne,Republic 2.16 Standard,16,New,$209.99 ,Hybrid,Cold Layered,Grit,Mitsubishi T700 Carbon Fiber,Polypropylene Honeycomb,"1,176",4%,16.3,7.5,5.5,8.4,126,94%,6.5,59%,24.6,89%,52.7,15%,32.8,7%,
+Ronbus,EV1.16,16,New,$180.00 ,Elongated,Unibody Edgeless,Grit,Unknown,EVA Foam,"1,148",3%,16.4,7.4,5.25,8.1,117,58%,5.94,29%,23.8,41%,58.8,98%,34.6,43%,89.7
+Ronbus,NOVA R1,16,New,$180.00 ,Elongated,Thermoformed,Peel Ply-Fine,Toray Carbon Fiber,Polypropylene Honeycomb,"1,729",17%,16.5,7.5,5.5,7.7,115,45%,5.72,17%,24.5,80%,55.2,63%,34.8,49%,84.2
+Ronbus,NOVA R3,16,New,$180.00 ,Elongated,Thermoformed,Peel Ply-Fine,Toray Carbon Fiber,Polypropylene Honeycomb,"1,732",17%,16.5,7.5,5.5,8.1,121,76%,6.1,35%,24.4,76%,55.4,67%,34.8,49%,84.2
+Ronbus,Pulsar FX.R1,16,New,$180.00 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,264",87%,16.5,7.5,5.5,8.2,121,79%,6.21,45%,24.4,76%,56.3,90%,36,86%,84.2
+Ronbus,Pulsar FX.R2,16,New,$180.00 ,Standard,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,177",74%,16,8,5.5,8.2,114,44%,7.09,89%,23.4,24%,54.6,43%,36.3,90%,88.5
+Ronbus,Pulsar FX.R3,16,New,$180.00 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,230",82%,16.5,7.5,5.5,8.1,122,82%,6.21,45%,24.6,89%,55.6,70%,35.9,84%,90.8
+Ronbus,Pulsar R1,16,New,$180.00 ,Elongated,Thermoformed,Peel Ply-Fine,Toray Carbon Fiber,Polypropylene Honeycomb,"1,915",37%,16.5,7.5,5.5,7.9,116,52%,6.21,45%,23.9,48%,54.7,47%,35.1,62%,
+Ronbus,Pulsar R3,16,New,$180.00 ,Elongated,Thermoformed,Peel Ply-Fine,Toray Carbon Fiber,Polypropylene Honeycomb,"1,970",43%,16.5,7.5,5.5,8.3,125,91%,6.47,59%,23.8,41%,54,32%,33.1,8%,92.7
+Ronbus,R1.16,16,New,$120.00 ,Elongated,Cold Layered,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,307",92%,16.5,7.5,5.5,8.1,117,58%,6.2,43%,,,,,,,94.7
+Ronbus,XPRO EV1.T700.R2,16,New,$180.00 ,Elongated,Unibody Edgeless,Peel Ply-Fine,Toray Carbon Fiber,EVA Foam,"2,280",90%,16.5,7.5,5.5,7.9,112,34%,5.7,14%,23.5,26%,59.7,100%,,#N/A,91
+Ronbus,XPRO EV1.T700.R3,16,New,$180.00 ,Elongated,Unibody Edgeless,Peel Ply-Fine,Toray Carbon Fiber,EVA Foam,"2,210",80%,16.5,7.5,5.5,7.9,112,34%,5.7,14%,23.7,32%,59.6,99%,,#N/A,88.2
+Selkirk,Amped Pro Air Epic,16,New,$180.00 ,Standard,Unibody Edgeless,Grit,Fiberglass,Polypropylene Honeycomb,"2,252",84%,15.8,8,5.25,8,111,30%,6.67,70%,24,56%,55.6,70%,35.3,69%,88.2
+Selkirk,Amped Pro Air Invikta,16,New,$180.00 ,Elongated,Unibody Edgeless,Grit,Fiberglass,Polypropylene Honeycomb,"2,080",58%,16.5,7.5,5.25,8,121,80%,5.93,28%,24.8,92%,56.3,90%,35.6,76%,92.7
+Selkirk,Epic Vanguard,16,New,$200.00 ,Standard,Cold Layered,Grit,Carbon Fiber,Polypropylene Honeycomb,"1,285",7%,15.8,8,5.25,7.9,,,,,,,,,,,92.3
+Selkirk,Invikta Amped,16,Used-3 months,$150.00 ,Elongated,Cold Layered,Grit,Fiberglass,Polypropylene Honeycomb,"1,220",5%,16.5,7.4,5.25,7.3,109,22%,,,,,,,,,
+Selkirk,Luxx Control Air Invikta,20,New,$250.00 ,Elongated,Unibody Edgeless,Grit,Fiberglass & Carbon Fiber,Polypropylene Honeycomb,"2,229",81%,16.5,7.5,5.35,8.1,120,73%,5.96,30%,24.4,76%,51.6,3%,33.1,8%,
+Selkirk,Project 003,20,New,$333.00 ,Standard,Unibody Edgeless,Grit,3K Woven Carbon Fiber,Polypropylene Honeycomb,"1,903",35%,15.9,7.9,5.25,7.7,,,,,,,,,,,
+Selkirk,SLK Halo Power XL,13,New,$140.00 ,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"1,849",27%,16.4,7.4,5.75,7.5,115,45%,5.27,5%,24.2,66%,51.9,6%,31.7,3%,94.3
+Selkirk,Vanguard Power Air Invikta,12.7,New,$250.00 ,Elongated,Unibody Edgeless,Grit,Fiberglass & Carbon Fiber,Polypropylene Honeycomb,"2,176",74%,16.5,7.4,5.25,7.8,106,11%,5.31,6%,23.1,13%,52.6,11%,35.8,82%,89
+Selkirk,Vanguard Power Air Invikta,12.7,Used-1 month,$250.00 ,Elongated,Unibody Edgeless,Grit,Fiberglass & Carbon Fiber,Polypropylene Honeycomb,"1,172",4%,16.5,7.4,5.25,7.8,106,11%,5.31,6%,23.1,13%,52.6,11%,35.8,82%,90.2
+Selkirk,Vanguard Power Air S2,12.7,New,$250.00 ,Standard,Unibody Edgeless,Grit,Fiberglass & Carbon Fiber,Polypropylene Honeycomb,"2,077",56%,15.8,8,5.38,7.8,,,,,,,,,,,90.2
+Six Zero,Double Black Diamond,16,New,$180.00 ,Hybrid,Thermoformed,Peel Ply-Fine,Toray Carbon Fiber,Polypropylene Honeycomb,"2,062",54%,16.3,7.7,5.5,8.1,114,40%,6.66,69%,23.9,48%,54.7,47%,33.6,16%,90.3
+Six Zero,Double Black Diamond,14,New,$180.00 ,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,077",56%,16.3,7.7,5.5,8.1,112,34%,6.33,50%,23.6,31%,53.7,29%,35.1,62%,90.5
+Six Zero,Double Black Diamond (Early Batch),16,New,$180.00 ,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,186",75%,16.3,7.7,5.5,8.1,,,,,,,,,,,89.2
+Six Zero,Infinity Black Diamond,16,New,$220.00 ,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Fiberglass,Polypropylene Honeycomb,"2,273",89%,16.3,7.7,5.5,8,106,15%,5.7,14%,23,13%,54.5,41%,35.2,65%,89.7
+Six Zero,Infinity Double Black Diamond ,16,New,$220.00 ,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,077",56%,16.3,7.7,5.5,8.1,110,25%,5.8,23%,23.2,16%,53.6,28%,34.6,43%,88.8
+Six Zero,Ruby,16,New,$199.00 ,Hybrid,Thermoformed,Peel Ply-Coarse,Dupont Kevlar,Polypropylene Honeycomb,"2,271",89%,16.3,7.7,5.5,8.3,117,58%,6.81,80%,23.7,32%,55.6,70%,34.5,40%,88.5
+Six Zero,Triple Black Diamond (Willinator),15,New,$220.00 ,Elongated,Thermoformed,Peel Ply-Coarse,18K Toray Carbon Fiber,Polypropylene Honeycomb,"1,959",40%,16.6,7.6,6,8.2,126,93%,6.45,57%,24.8,92%,54.7,47%,34.9,53%,93.2
+Six Zero ,Black Diamond Power,16,New,$180.00 ,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Fiberglass,Polypropylene Honeycomb,"2,217",81%,16.3,7.7,5.5,8,116,52%,6.76,75%,23.7,32%,55.3,65%,34.6,43%,93.5
+Six Zero ,Black Diamond Power (Early Batch),16,New,$180.00 ,Hybrid,Thermoformed,Peel Ply-Coarse,Toray Fiberglass,Polypropylene Honeycomb,"2,329",94%,16.3,7.7,5.5,8.1,,,,,,,,,,,90.8
+Spartus,Apollo,16,,$129.99 ,Wide Body,Thermoformed,Peel Ply-Coarse,Kevlar 3K Cloth,Polypropylene Honeycomb,"2,259",85%,16.1,8.1,5.5,8.1,108,20%,7.56,99%,23.3,18%,54.9,54%,34.4,36%,91.7
+Speedup,Fire 14,14,New,$119.99 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,016",49%,16.5,7.5,6,7.8,117,58%,5.85,25%,24.3,74%,54.7,47%,35.1,62%,
+Speedup,Ice 16,16,New,$119.99 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,863",30%,16.5,7.5,6,7.8,122,84%,6.05,33%,24.9,96%,54.9,54%,33.4,10%,
+Thrive,Azul (medium-light),16,New,$199.99 ,Hybrid,Thermoformed,Peel Ply-Coarse,Kevlar & Carbon Fiber,Polypropylene Honeycomb,"2,155",70%,16.3,7.7,5.5,8.2,116,56%,6.62,65%,23.8,41%,55.6,70%,36.4,92%,
+Thrive,Azul (medium),16,New,$199.99 ,Hybrid,Thermoformed,Peel Ply-Coarse,Kevlar & Carbon Fiber,Polypropylene Honeycomb,"2,144",69%,16.3,7.7,5.5,8.2,117,61%,6.65,67%,23.9,48%,55.9,81%,35.3,69%,
+Vatic Pro,Flash,14,New,$139.99 ,Hybrid,Thermoformed,Peel Ply-Fine,Toray Carbon Fiber,Polypropylene Honeycomb,"2,174",73%,16.3,7.7,5.3,8.1,,,,,,,,,,,
+Vatic Pro,Prism Flash,16,New,$99.99 ,Hybrid,Hybrid,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"2,200",77%,16.3,7.7,5.3,7.8,111,29%,6.25,48%,24,56%,52.8,16%,33.4,10%,
+Vatic Pro,V7,16,New,$139.99 ,Elongated,Thermoformed,Peel Ply-Coarse,Toray Carbon Fiber,Polypropylene Honeycomb,"1,981",45%,16.5,7.5,5.3,8.2,124,90%,6.68,71%,23.2,16%,53.2,23%,33.4,10%,
+Volair,Alto,16,New,$99.99 ,Elongated,Cold Layered,Grit,Fiberglass,Polypropylene Honeycomb,"1,737",18%,16.5,7.5,5.5,8.2,120,73%,6.2,43%,24.4,76%,53.8,30%,34.1,26%,
+Volair,Alto,14,New,$99.99 ,Elongated,Cold Layered,Grit,Fiberglass,Polypropylene Honeycomb,"1,798",21%,16.5,7.5,5.5,7.7,110,28%,5.75,19%,24,56%,53.4,26%,34.6,43%,
+Volair,Corto,16,New,$99.99 ,Wide Body,Cold Layered,Grit,Fiberglass,Polypropylene Honeycomb,"1,984",45%,15.9,8.1,5.5,8.1,110,28%,7.1,90%,23.8,41%,53.8,30%,33.6,16%,
+Volair,Corto,14,New,$99.99 ,Wide Body,Cold Layered,Grit,Fiberglass,Polypropylene Honeycomb,"1,892",34%,15.9,8.1,5.5,7.8,103,7%,6.85,81%,23.4,24%,53.2,23%,34.9,53%,
+Volair,Mach 1,16,New,$139.99 ,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,002",46%,16.5,7.5,5.5,7.7,110,25%,5.72,17%,24,56%,52.8,16%,33.8,19%,
+Volair,Mach 1,14,New,$139.99 ,Elongated,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,123",66%,16.5,7.5,5.5,8,114,40%,5.92,27%,24.2,66%,53.3,25%,34.1,26%,
+Volair,Mach 1 Forza,14,New,$179.99 ,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,332",96%,16.5,7.5,5.5,7.8,111,29%,6.16,40%,23.9,48%,52.8,16%,35,56%,
+Volair,Mach 1 Forza,16,New,$179.99 ,Elongated,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,205",79%,16.5,7.5,5.5,8,115,45%,6.4,54%,24.1,61%,54.6,43%,35,56%,
+Volair,Mach 2,16,New,$139.99 ,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,329",94%,15.9,8.1,5.5,8,107,18%,6.9,82%,23.4,24%,52.5,9%,33.2,10%,
+Volair,Mach 2,14,New,$139.99 ,Wide Body,Cold Layered,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,345",97%,15.9,8.1,5.5,7.8,105,10%,6.75,73%,23.3,18%,52.3,8%,34,24%,
+Volair ,Mach 2 Forza,16,New,$179.99 ,Wide Body,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,330",95%,15.9,8.1,5.5,8.1,113,38%,7.3,96%,23.8,41%,54.7,47%,34,24%,
+Volair ,Mach 2 Forza,14,New,$179.99 ,Wide Body,Thermoformed,Peel Ply-Coarse,T700 Carbon Fiber,Polypropylene Honeycomb,"2,236",83%,15.9,8.1,5.5,7.8,108,19%,6.8,76%,23.7,32%,54,32%,35.3,69%,
