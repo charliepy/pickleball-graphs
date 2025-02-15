@@ -1,6 +1,6 @@
 import { Chart as ChartJS } from 'chart.js';
 
-export const LAST_UPDATE = 'June 17, 2024';
+export const LAST_UPDATE = 'February 14, 2025';
 
 export const CHART_COLORS = {
   red: 'rgb(255, 99, 132)',
