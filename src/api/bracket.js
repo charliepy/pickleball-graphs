@@ -60,6 +60,9 @@ export const useBracketStore = defineStore(
 
     const savedStates = ref([]);
     const savedResult = ref([]);
+    const savedActivities = ref([]);
+
+    const eventTitle = ref('');
 
     const getStateNames = () => {
       return Object.keys(stateIds);
@@ -71,6 +74,18 @@ export const useBracketStore = defineStore(
 
     const getSavedResult = () => {
       return savedResult.value;
+    };
+
+    const getSavedActivities = () => {
+      return savedActivities.value;
+    };
+
+    const getEventTitle = () => {
+      return eventTitle.value;
+    };
+
+    const setEventTitle = (title) => {
+      eventTitle.value = title;
     };
 
     const postEventSearch = async (states) => {
@@ -121,13 +136,67 @@ export const useBracketStore = defineStore(
       }
     };
 
+    const getAllActivities = async (eventId) => {
+      savedActivities.value = [];
+      let eventList = [];
+
+      try {
+        const response = await axios.get(
+          `https://pickleballtournaments.com/tournaments/api/tourneyEvents?slug=${eventId}`,
+        );
+
+        eventList = response.data.events;
+      } catch (e) {
+        console.error(e);
+      }
+
+      createActivitiesMenu(eventList);
+    };
+
+    const getEventPlayers = async (activityId) => {
+      try {
+        const response = await axios.get(
+          `https://pickleballtournaments.com/tournaments/api/eventPlayers?activityId=${activityId}`
+        );
+
+        return response.data;
+      } catch (e) {
+        console.error(e);
+        return [];
+      }
+    };
+
+    const createActivitiesMenu = (eventList) => {
+      const activitiesMenu = []
+
+      eventList.forEach((item) => {
+        if (item.events) {
+          item.events.forEach((event) => {
+            activitiesMenu.push({
+              label: `${event.title}: ${event.numOfRegistered + event.numOfWaitlist} Teams`,
+              value: event.activityId,
+            });
+          });
+        }
+      });
+
+      savedActivities.value = activitiesMenu;
+    };
+
     return {
       savedStates,
       savedResult,
+      savedActivities,
+      eventTitle,
       getStateNames,
       getSavedStates,
       getSavedResult,
+      getSavedActivities,
+      getEventTitle,
+      setEventTitle,
       postEventSearch,
+      getAllActivities,
+      getEventPlayers,
     };
   },
   {

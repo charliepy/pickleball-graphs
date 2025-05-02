@@ -33,6 +33,12 @@ const routes = [
     meta: { title: 'Pickleball Brackets' },
   },
   {
+    path: '/pb-brackets/:id',
+    name: ROUTES.details,
+    component: () => import('@/views/EventDetails.vue'),
+    meta: { title: 'Event Details' },
+  },
+  {
     path: '/:notFound(.*)',
     name: 'notFound',
     component: () => import('@/views/NotFound.vue'),

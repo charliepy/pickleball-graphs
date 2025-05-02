@@ -1,293 +1,303 @@
-﻿Paddle Name,Brand,Price,Discount Code,Link to Paddle,Year Released,Shape,Face Material,Grit Type,Build Type,Paddle Type,Core Thickness (mm),Grip Length (in),Grip Size (in),Weight (oz),Spin Rating,Spin (RPM),Swingweight,Swingweight Percentile,Twistweight,Twistweight Percentile,Balance Point (mm),Power (MPH),Power Percentile,Pop (MPH),Pop Percentile
-Hurache-X All Court,11SIX24,$149.99,PBEFFECT,https://a8qh.short.gy/HXAC,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,16,6.00,4.13,8.18,Very High,2027,121,80%,6.33,48%,245,55.7,61%,36.0,55%
-Hurache-X Control +,11SIX24,$139.99,PBEFFECT,https://a8qh.short.gy/HX,2024,Elongated,Carbon/Fiberglass,Raw Texture/Peel Ply,Gen 2,All-Court,16,6.00,4.13,7.94,High,1940,117,60%,6.32,47%,240,55.5,54%,36.0,55%
-Hurache-X Jelly Bean 16mm,11SIX24,$104.99,PBEFFECT,https://a8qh.short.gy/HJB16,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5,Control,16,6.00,4.13,8.14,,,122,84%,6.36,50%,242,,,,
-Hurache-X Power,11SIX24,$169.99,PBEFFECT,https://a8qh.short.gy/HXP,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,6.00,4.13,8.15,Very High,2033,117,60%,6.40,53%,240,56.3,87%,36.0,55%
-Jelly Bean Vapor,11SIX24,$99.00,PBEFFECT,https://a8qh.short.gy/JBV,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1.5,Control,16,5.75,,8.00,,,115,44%,6.67,71%,240,,,,
-Monarch All Court,11SIX24,$139.99,PBEFFECT,https://a8qh.short.gy/MAC,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.75,4.13,8.10,High,1976,110,18%,7.40,97%,235,55.4,50%,36.1,59%
-Pegasus All Court,11SIX24,$129.99,PBEFFECT,https://a8qh.short.gy/PAC,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,16,5.50,4.13,8.20,Very High,2032,113,34%,7.26,95%,237,55.2,43%,35.5,35%
-Pegasus Power,11SIX24,$169.99,PBEFFECT,https://a8qh.short.gy/PP,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.75,4.13,8.33,Very High,2085,111,23%,7.60,98%,233,55.8,69%,36.2,67%
-Vapor All Court,11SIX24,$129.99,PBEFFECT,https://a8qh.short.gy/VAC,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,16,5.75,4.13,8.16,Very High,2059,117,60%,6.80,78%,241,55.3,48%,35.4,30%
-Vapor Power,11SIX24,$169.99,PBEFFECT,https://a8qh.short.gy/VP,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.75,4.13,8.30,Very High,2065,116,53%,7.10,90%,237,56.0,78%,36.1,59%
-Rhapsody 13,Avoura,$225.00,,,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,13,,4.25,7.97,Very High,2038,105,4%,7.34,96%,234,54.0,18%,35.4,30%
-Baller + (updated),Babolat,,PBEFFECT,Unreleased,2025,Hybrid,Carbon,Paint Grit,Gen 2,All-Court,16,,4.13,8.33,High,1932,113,34%,6.08,31%,234,56.0,78%,35.8,48%
-Ballr+,Babolat,$219.99,10EFFECT,https://a8qh.short.gy/BALLR,2024,Hybrid,Carbon,Paint Grit,Gen 2/Edgeless,All-Court,16,5.50,4.00,8.18,Medium,1881,112,27%,5.65,9%,234,55.4,50%,36.1,59%
-Strkr+,Babolat,$219.99,10EFFECT,https://a8qh.short.gy/STRKR,2024,Extra-elongated,Carbon,Paint Grit,Gen 2/Edgeless,Power,13,5.50,4.00,8.05,Low,1815,120,76%,5.43,4%,240,55.7,61%,36.0,55%
-Wizard (updated),Babolat,,PBEFFECT,Unreleased,2025,Widebody,Carbon,Paint Grit,Gen 2,Control,20,,4.13,8.57,High,1952,109,14%,6.40,53%,226,55.8,69%,35.6,40%
-WZRD,Babolat,$219.99,10EFFECT,https://a8qh.short.gy/WRZD,2024,Widebody,Carbon,Paint Grit,Gen 2/Edgeless,Control,20,5.00,4.00,8.40,Low,1837,105,4%,5.93,24%,223,55.1,41%,35.1,23%
-X2 Lite,Body Helix,$160.00,PBEFFECT,https://a8qh.short.gy/X2Lite,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,6.00,4.25,8.12,Low,1842,123,88%,6.32,47%,245,52.8,3%,33.7,3%
-X2 Pro,Body Helix,$180.00,PBEFFECT,https://a8qh.short.gy/X2Pro,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,19,6.00,4.25,8.88,High,1981,134,99%,6.74,75%,246,54.9,32%,34.8,13%
-X3 Lite,Body Helix,$160.00,PBEFFECT,https://a8qh.short.gy/X3Lite,2023,Elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,6.00,4.25,8.25,Medium,1920,125,95%,6.03,29%,245,52.8,3%,34.8,13%
-X3 Pro,Body Helix,$180.00,PBEFFECT,https://a8qh.short.gy/X3Pro,2023,Elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,Power,18,6.00,4.25,8.73,High,1949,132,98%,6.65,70%,246,54.7,28%,34.2,6%
-X4 Gold Kevlar,Body Helix,$140.00,PBEFFECT,https://a8qh.short.gy/X4Gold,2024,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2,Power,16,5.25,4.25,8.10,High,1972,116,53%,6.63,69%,239,56.0,78%,36.5,78%
-Fat Boy,Bread & Butter,$189.99,PBEFFECT,https://a8qh.short.gy/fatboy,2024,Widebody,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.30,4.25,8.17,High,1935,112,27%,7.29,95%,236,54.9,32%,36.6,81%
-Filth,Bread & Butter,$165.00,PBEFFECT,https://a8qh.short.gy/Filth,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,8.07,Medium,1915,123,88%,6.24,42%,245,54.7,28%,35.2,24%
-Invader,Bread & Butter,$189.99,PBEFFECT,https://a8qh.short.gy/INV,2024,Hybrid,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.30,4.25,8.18,High,1985,118,66%,6.85,81%,239,55.8,69%,36.2,67%
-Shogun,Bread & Butter,$189.99,PBEFFECT,https://a8qh.short.gy/Shogun,2024,Elongated,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,8.18,Medium,1928,122,84%,6.20,40%,244,54.4,23%,35.4,30%
-FIRE EX,Chorus,$169.99,PBEFFECT,https://a8qh.short.gy/FEX,2024,Elongated,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.60,4.25,7.80,Very High,2027,114,39%,6.21,40%,241,56.3,87%,36.1,59%
-FIRE HX,Chorus,$169.99,PBEFFECT,https://a8qh.short.gy/FHX,2024,Hybrid,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.60,4.25,7.70,High,2000,110,18%,6.43,55%,237,56.3,87%,36.2,67%
-FIRE SX,Chorus,$169.99,PBEFFECT,https://a8qh.short.gy/FSX,2024,Widebody,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.60,4.25,7.85,Very High,2005,108,11%,7.04,88%,235,55.7,61%,36.2,67%
-Shapeshifter EX,Chorus,$174.99,PBEFFECT,https://a8qh.short.gy/SEX,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.60,4.25,7.80,Very High,2104,115,44%,6.18,38%,242,56.0,78%,35.9,49%
-Shapeshifter HX,Chorus,$174.99,PBEFFECT,https://a8qh.short.gy/SHX,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.60,4.25,7.80,Very High,2071,114,39%,6.46,58%,240,55.8,69%,35.6,40%
-Shapeshifter SX,Chorus,$174.99,PBEFFECT,https://a8qh.short.gy/SSX,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.60,4.25,7.70,Very High,2063,107,8%,6.83,81%,235,54.5,26%,35.1,23%
-Supercourt EX,Chorus,$119.00,PBEFFECT,https://a8qh.short.gy/SCEX,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.60,4.25,7.80,Very High,2020,116,53%,6.45,57%,243,56.2,86%,36.0,55%
-Supercourt HX,Chorus,$119.00,PBEFFECT,https://a8qh.short.gy/SCHX,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.60,4.25,7.80,High,1969,115,44%,6.80,78%,242,56.0,78%,35.8,48%
-Supercourt SX,Chorus,$119.00,PBEFFECT,https://a8qh.short.gy/SCSX,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.60,4.25,7.70,High,1986,107,8%,7.16,92%,237,56.0,78%,35.7,45%
-CRBN 1 Orginal (16 mm),CRBN,$179.99,PBEFFECT,https://a8qh.short.gy/crbn1,2021,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.50,4.25,8.25,,,118,66%,5.77,13%,238,,,,
-CRBN 1X Power Series (14 mm),CRBN,$229.99,PBEFFECT,https://a8qh.short.gy/crbn1x14,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.50,4.25,7.87,Medium,1917,118,66%,5.88,20%,243,54.3,22%,35.4,30%
-CRBN 1X Power Series (16 mm),CRBN,$229.99,PBEFFECT,https://a8qh.short.gy/crbn1x16,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,8.11,Medium,1915,124,92%,6.18,38%,244,55.0,37%,34.9,18%
-CRBN 2 Orignal (16 mm),CRBN,$179.99,PBEFFECT,https://a8qh.short.gy/crbn2,2021,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,4.75,4.25,7.94,,,109,14%,7.03,88%,236,,,,
-CRBN 2X Power Series (14 mm),CRBN,$229.99,PBEFFECT,https://a8qh.short.gy/crbn2x14,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,4.75,4.25,7.80,,,105,4%,6.88,83%,232,,,,
-CRBN 2X Power Series (16 mm),CRBN,$229.99,PBEFFECT,https://a8qh.short.gy/crbn2x16,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,4.75,4.25,8.20,,,112,27%,7.75,99%,237,,,,
-CRBN 3X Power Series (14 mm),CRBN,$229.99,PBEFFECT,https://a8qh.short.gy/3x14,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.25,4.25,7.87,,,116,53%,6.39,52%,240,,,,
-CRBN 3X Power Series (16 mm),CRBN,$229.99,PBEFFECT,https://a8qh.short.gy/crbn3x16,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.25,4.25,8.18,Medium,1920,119,73%,6.79,78%,241,54.9,32%,35.6,40%
-TruFoam Genesis 1,CRBN,$279.99,PBEFFECT,https://a8qh.short.gy/TFG1,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 4,All-Court,14,5.50,4.13,7.90,Very High,2036,118,66%,5.51,6%,244,55.8,69%,36.6,81%
-TruFoam Genesis 2,CRBN,$279.99,PBEFFECT,https://a8qh.short.gy/TFG2,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 4,All-Cout,14,5.25,4.13,8.20,High,1992,113,34%,6.70,73%,238,55.5,54%,36.8,87%
-TruFoam Genesis 3,CRBN,$279.99,PBEFFECT,https://a8qh.short.gy/TFG3,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 4,All-Court,14,5.25,4.13,8.30,Very High,2030,122,84%,6.30,45%,243,55.9,72%,36.4,76%
-Edge 18k,Diadem,$229.95,PBEFFECT,https://a8qh.short.gy/18k,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.00,4.13,7.80,,,117,60%,6.21,40%,244,,,,
-Edge 18k Power Max,Diadem,$239.95,PBEFFECT,https://a8qh.short.gy/18PM,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.00,4.13,8.16,,,109,14%,7.87,100%,232,,,,
-Edge 18k Speed Pro,Diadem,$239.95,PBEFFECT,https://a8qh.short.gy/18SP,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.70,4.13,8.03,,,124,92%,6.31,46%,249,,,,
-Icon Infinity Max,Diadem,$219.95,PBEFFECT,https://a8qh.short.gy/IPM,2024,Widebody,Carbon,Paint Grit,Gen 2,All-Court,14,5.00,4.13,8.25,,,113,34%,7.35,96%,236,,,,
-Icon V2 Widebody,Diadem,$199.99,PBEFFECT,,2023,Widebody,Carbon,Paint Grit,Gen 1.5/Edgeless,Power,14,5.25,4.13,8.00,,,106,7%,5.87,19%,230,,,,
-Icon V2 XL,Diadem,$199.99,PBEFFECT,,2023,Elongated,Carbon,Paint Grit,Gen 1.5/Edgeless,Power,14,5.50,4.13,8.20,,,122,84%,5.65,9%,241,,,,
-Fuego,Element6,$199.99,,,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,4.20,8.00,Very High,2016,121,80%,6.61,69%,246,55.7,61%,35.4,30%
-Pursuit MAXX EX 6.0,Engage,$199.99,PBEFFECT,https://a8qh.short.gy/MEX6.0,2024,Widebody,Carbon,Paint Grit,Gen 1,All-Court,16,5.00,4.25,8.10,Low,1815,117,60%,7.61,99%,244,54.6,27%,35.3,27%
-Pursuit MAXX MX 6.0,Engage,$199.99,PBEFFECT,https://a8qh.short.gy/MMX6.0,2024,Elongated,Carbon,Paint Grit,Gen 1,Power,16,5.75,4.25,8.20,Low,1780,125,95%,6.44,57%,245,54.9,32%,35.4,30%
-Pursuit Pro EX,Engage,$259.99,PBEFFECT,https://a8qh.short.gy/PEX,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.00,4.25,8.00,High,1952,110,18%,6.77,76%,236,55.2,43%,36.6,81%
-Pursuit Pro EX 6.0,Engage,$259.99,PBEFFECT,https://a8qh.short.gy/PEX6.0,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,16,5.00,4.25,7.92,High,1946,115,44%,7.37,97%,243,55.7,61%,36.1,59%
-Pursuit Pro MX,Engage,$259.99,PBEFFECT,https://a8qh.short.gy/PMX,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.75,4.25,8.06,,,119,73%,5.88,20%,239,56.1,83%,36.5,78%
-Pursuit Pro MX 6.0,Engage,$259.99,PBEFFECT,https://a8qh.short.gy/PMX6.0,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,16,5.75,4.25,7.87,,,125,95%,6.57,65%,254,56.8,96%,35.7,45%
-Pursuit Pro1 (Lite),Engage,$259.99,PBEFFECT,https://a8qh.short.gy/Pro1,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.88,4.25,7.85,High,1964,112,27%,5.83,17%,234,55.4,50%,36.6,81%
-Pursuit Pro1 (Standard),Engage,$259.99,PBEFFECT,https://a8qh.short.gy/Pro1,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.88,4.25,8.04,High,1956,114,39%,5.94,25%,232,55.9,72%,36.4,76%
-Pursuit Pro1 6.0 (Lite),Engage,$259.99,PBEFFECT,https://a8qh.short.gy/Pro16.0,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,16,5.88,4.25,7.66,High,1948,115,44%,5.81,15%,241,55.8,69%,37.1,93%
-Pursuit Pro1 6.0 (Standard),Engage,$259.99,PBEFFECT,https://a8qh.short.gy/Pro16.0,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,16,5.88,4.25,8.01,High,1959,115,44%,5.83,17%,235,55.6,58%,36.6,81%
-Pursuit Pro1 6.0 Hybrid,Engage,$259.99,PBEFFECT,Unreleased,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1,,15,5.50,4.25,7.96,High,1961,111,23%,6.22,41%,237,54.1,19%,35.0,19%
-Pursuit Pro1 6.0 Widebody,Engage,$259.99,PBEFFECT,Unreleased,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,,15,5.00,4.25,8.06,High,1980,113,34%,7.60,98%,240,54.8,30%,35.0,19%
-Pursuit Pro1 Hybrid,Engage,$259.99,PBEFFECT,Unreleased,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1,,13,5.50,4.25,7.96,Very High,2026,101,1%,5.50,5%,220,53.4,12%,36.0,55%
-Pursuit Pro1 Widebody,Engage,$259.99,PBEFFECT,Unreleased,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,,13,5.00,4.25,8.10,Very High,2019,105,4%,6.64,70%,224,53.2,9%,35.5,35%
-Pursuit V2,Engage,$179.99,PBEFFECT,https://a8qh.short.gy/PV2,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,15,5.30,4.25,7.85,Very High,2119,111,23%,5.94,25%,235,55.2,43%,36.3,73%
-C45,Franklin,$229.00,PBEFFECT,Unreleased,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 3,All-Court,14,5.50,4.13,7.55,High,1982,106,7%,5.60,8%,237,54.8,30%,35.3,27%
-Dynasty 12 Feather Weight,Franklin,$149.99,PBEFFECT,https://a8qh.short.gy/F12,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,12,5.75,4.30,7.25,High,1936,109,14%,5.70,11%,242,55.7,61%,35.2,24%
-FS Tour Dynasty (14mm),Franklin,$150.00,PBEFFECT,https://a8qh.short.gy/D14,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.60,4.30,8.28,High,1975,124,92%,6.56,65%,242,55.6,58%,35.4,30%
-FS Tour Dynasty (16mm),Franklin,$150.00,PBEFFECT,https://a8qh.short.gy/D16,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.60,4.30,8.69,Medium,1864,134,99%,7.22,93%,246,56.1,83%,34.4,8%
-FS Tour Tempo (14mm),Franklin,$150.00,PBEFFECT,https://a8qh.short.gy/T14,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.00,4.30,8.47,Medium,1920,117,60%,7.23,94%,235,55.9,72%,35.2,24%
-FS Tour Tempo (16mm),Franklin,$150.00,PBEFFECT,https://a8qh.short.gy/T16,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.00,4.30,8.90,Medium,1925,123,88%,7.68,99%,234,55.7,61%,33.7,3%
-Challenger,Friday,$89.00,10EFFECT,https://a8qh.short.gy/Friday,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,7.70,Medium,1889,112,27%,5.80,14%,238,55.7,61%,36.2,67%
-Original,Friday,$69.00,10EFFECT,https://a8qh.short.gy/Friday,2024,Hybrid,Carbon,Paint Grit,Gen 2,All-Court,16,5.50,4.25,8.20,Medium,1926,118,66%,6.29,44%,239,56.3,87%,35.3,27%
-RCF-Airbender 16,Gamma,$199.99,PBEFFECT,https://a8qh.short.gy/Bender,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.30,4.13,8.45,Medium,1896,118,66%,5.80,14%,,54.9,32%,34.9,18%
-RCF-Obsidian 10,Gamma,$159.99,PBEFFECT,https://a8qh.short.gy/O10,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,10,5.75,4.13,7.90,Low,1813,116,53%,5.87,19%,243,55.0,37%,36.1,59%
-RCF-Obsidian 13,Gamma,$159.99,PBEFFECT,https://a8qh.short.gy/O13,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,13,5.75,4.13,8.03,Medium,1893,116,53%,6.18,38%,240,54.4,23%,34.8,13%
-RCF-Obsidian 16,Gamma,$159.99,PBEFFECT,https://a8qh.short.gy/O16,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.75,4.13,8.13,Medium,1897,120,76%,6.53,62%,244,55.2,43%,34.6,10%
-CX14H Ultimate Power,Gearbox,$249.99,N/A,https://a8qh.short.gy/CX14U,2023,Widebody,Carbon,Paint Grit,Gen 1/Edgeless,All-Court,14,5.50,4.00,8.50,,,96,0%,5.31,2%,203,,,,
-GX2 Elongated,Gearbox,,PBEFFECT,Unreleased,2025,Elongated,Carbon,Raw Texture/Peel Ply,,All-Court,16,5.50,4.13,7.94,Very High,2047,120,76%,5.65,9%,250,56.0,78%,36.1,59%
-GX2 Hyper,Gearbox,,PBEFFECT,Unreleased,2025,Widebody,Carbon,Raw Texture/Peel Ply,,All-Court,16,5.50,4.13,8.00,Very High,2009,109,14%,6.51,62%,240,55.4,50%,36.1,59%
-GX2 Integra XL,Gearbox,,PBEFFECT,Unreleased,2025,Hybrid,Carbon,Raw Texture/Peel Ply,,All-Court,16,5.50,4.13,7.91,Very High,2025,118,66%,5.69,10%,248,55.9,72%,35.9,49%
-Pro Control Elongated,Gearbox,$274.99,N/A,https://a8qh.short.gy/PCE,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3/Edgeless,All-Court,14,5.50,4.00,8.07,Medium,1914,123,88%,5.01,0%,247,54.1,19%,34.2,6%
-Pro Control Integra,Gearbox,$274.99,N/A,https://a8qh.short.gy/PCF,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 3/Edgeless,All-Court,14,5.50,4.00,7.95,High,1954,116,53%,5.12,1%,246,53.9,16%,34.8,13%
-Pro Power Elongated,Gearbox,$274.99,N/A,https://a8qh.short.gy/PPE,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3/Edgeless,Power,14,5.50,4.00,7.88,High,1986,121,80%,5.16,1%,248,57.4,99%,36.9,90%
-Pro Power Integra,Gearbox,$274.99,N/A,https://a8qh.short.gy/PPF,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 3/Edgeless,Power,14,5.50,4.00,7.98,High,1951,114,39%,4.96,0%,241,56.1,83%,36.1,59%
-Pro Ultimate Elongated 16,Gearbox,$274.99,N/A,https://a8qh.short.gy/GPU,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3/Edgeless,Power,16,5.50,4.00,8.00,High,1987,124,92%,5.38,3%,256,56.8,96%,35.9,49%
-Pro Ultimate Hyper,Gearbox,$274.99,N/A,https://a8qh.short.gy/PUH,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 3/Edgeless,Power,16,5.25,4.00,8.00,High,1986,115,44%,6.36,50%,248,56.1,83%,36.6,81%
-Pro Ultimate Elongated 14,Gearbox,$274.99,N/A,Coming March 2025,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3/Edgeless,Power,14,5.50,4.00,8.05,High,1993,125,95%,5.34,2%,255,56.8,96%,36.0,55%
-Aegis,Gherkin,$99.99,,,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,,16,5.30,4.25,8.00,,,112,27%,6.93,84%,237,,,,
-Aspire,Gherkin,$99.99,,,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,,16,5.30,4.25,8.00,,,118,66%,6.28,44%,241,,,,
-Solace,Gherkin,$99.99,,,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,,16,5.30,4.25,7.90,,,112,27%,6.30,45%,238,,,,
-LAZR-16S,Gruvn,$169.99,PBEFFECT,,2024,Widebody,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,,16,5.40,4.13,8.00,,,108,11%,7.13,91%,234,,,,
-LAZR-16X,Gruvn,$169.99,PBEFFECT,,2024,Widebody,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,,16,5.50,4.13,8.00,,,118,66%,6.41,55%,241,,,,
-MUVN-13S,Gruvn,$159.00,PBEFFECT,,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,,13,5.50,4.13,7.90,,,100,0%,6.40,53%,224,,,,
-Boom Tour EX,Head,$200.00,N/A,https://a8qh.short.gy/BoomT,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,11,5.50,4.13,7.84,Very High,2074,116,53%,5.46,5%,244,56.5,92%,38.2,100%
-Radical Nite,Head,$219.00,N/A,https://a8qh.short.gy/Nite,2024,Elongated,Carbon,Paint Grit,Gen 2,,15,5.50,4.13,8.11,,,115,44%,5.91,23%,236,,,,
-Tour Radical Raw EX,Head,$169.95,N/A,https://a8qh.short.gy/EXRaw,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,15,5.50,4.13,8.17,,,115,44%,5.56,7%,236,,,,
-Aero Metallic TI (16mm),Holbrook,$219.99,PBEFFECT,https://a8qh.short.gy/PAM ,2024,Elongated,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,7.95,High,1982,117,60%,5.85,19%,240,55.3,48%,35.5,35%
-Aero S (16mm),Holbrook,$199.99,PBEFFECT,https://a8qh.short.gy/AS16 ,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.00,4.25,7.80,,,105,4%,6.63,69%,232,,,,
-Aero T (14mm),Holbrook,$199.99,PBEFFECT,https://a8qh.short.gy/AT14 ,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.50,4.25,7.80,High,1968,115,44%,5.70,11%,241,55.7,61%,36.3,73%
-Aero T (16mm),Holbrook,$199.99,PBEFFECT,https://a8qh.short.gy/AT16 ,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,7.81,Very High,2016,113,34%,5.69,10%,238,55.9,72%,36.2,67%
-Aero X (14mm),Holbrook,$199.99,PBEFFECT,https://a8qh.short.gy/AX14 ,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.25,4.25,7.80,High,1974,112,27%,5.83,17%,239,55.2,43%,36.2,67%
-Aero X (16mm),Holbrook,$199.99,PBEFFECT,https://a8qh.short.gy/AX16 ,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.25,4.25,7.82,High,1974,113,34%,5.82,16%,238,55.8,69%,36.1,59%
-Mav Pro,Holbrook,$219.99,PBEFFECT,https://a8qh.short.gy/MP,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,13,5.50,4.25,8.17,,,123,88%,6.10,32%,245,,,,
-Power Pro,Holbrook,$219.99,PBEFFECT,https://a8qh.short.gy/HP,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,8.03,,,121,80%,6.39,52%,241,,,,
-Pro Power E,Holbrook,$219.99,PBEFFECT,https://a8qh.short.gy/HPE,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.25,4.25,8.25,,,122,84%,6.68,72%,241,,,,
-J2,Honolulu Pickleball,$145.00,PBEFFECT,https://a8qh.short.gy/J2,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,7.95,,,110,18%,6.81,79%,236,,,,
-J2K,Honolulu Pickleball,$155.00,PBEFFECT,https://a8qh.short.gy/J2K,2024,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,8.22,High,1948,115,44%,7.10,90%,237,55.1,41%,36.4,76%
-J2K+,Honolulu Pickleball,$165.00,PBEFFECT,https://a8qh.short.gy/J2K+,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.13,8.26,High,1983,115,44%,7.10,90%,238,55.0,37%,36.0,55%
-J2Ti,Honolulu Pickleball,$155.00,PBEFFECT,https://a8qh.short.gy/J2Ti,2024,Hybrid,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,8.05,,,111,23%,6.60,68%,235,,,,
-J2Ti+,Honolulu Pickleball,$165.00,PBEFFECT,https://a8qh.short.gy/J2Ti+,2025,Hybrid,Titanium/Carbon,Raw Texture/Peel Ply,Gen 3,All-Court,16,5.50,4.13,8.30,,,116,53%,7.16,92%,239,,,,
-J3k,Honolulu Pickleball,$155.00,PBEFFECT,https://a8qh.short.gy/J3K,2024,Widebody,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,6.00,4.13,8.28,,,117,60%,7.22,93%,239,,,,
-J4KC,Honolulu Pickleball,,PBEFFECT,Unreleased,2025,Widebody,Kevlar,Raw Texture/Peel Ply,Gen 2,,16,5.50,4.13,8.07,,,110,18%,8.20,100%,236,,,,
-J7K,Honolulu Pickleball,$155.00,PBEFFECT,https://a8qh.short.gy/J7K,2024,Extra-elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,Power,16,6.00,4.13,8.25,,,123,88%,6.36,50%,242,,,,
-Mage Pro,Hudef,$99.00,10EFFECT,https://a8qh.short.gy/Mage,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.35,4.00,7.77,,,113,34%,6.13,35%,241,,,,
-Viva Pro Gen 2,Hudef,$129.99,10EFFECT,https://a8qh.short.gy/VGEN2,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,8.06,Medium,1854,125,95%,6.43,55%,251,55.5,54%,35.4,30%
-Viva Pro Gen 3,Hudef,$169.99,10EFFECT,https://a8qh.short.gy/G3,2024,Elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,7.76,,,119,73%,6.16,37%,250,,,,
-Agassi Edge (16mm),JOOLA,$99.95,PBEFFECT,https://a8qh.short.gy/AE16,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.50,,7.80,,,109,14%,5.47,5%,236,,,,
-Agassi Pro (14mm),JOOLA,$279.95,,https://a8qh.short.gy/AP14,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,,8.10,Very High,2026,116,53%,6.02,28%,240,56.4,90%,36.8,87%
-Hyperion 3S (14mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/3SH14,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,4.13,7.85,High,1967,115,44%,6.01,28%,245,55.9,72%,36.2,67%
-Hyperion 3S (16mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/3SH16,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.25,7.90,High,1989,115,44%,6.12,34%,244,57.2,98%,36.9,90%
-Magnus 3S (14mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/3SM14,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.00,4.13,7.90,,,113,34%,6.13,35%,240,,,,
-Magnus 3S (16mm),JOOLA,$275.00,PBEFFECT,https://a8qh.short.gy/Mag14,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.25,8.14,High,1949,118,66%,6.45,57%,242,,,,
-Mod TA-15 (16mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/Mod16,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.25,7.84,Very High,2014,116,53%,6.10,32%,244,57.8,99%,37.2,96%
-Mod-TA-15 (14mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/mod14,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,4.13,7.56,Very High,2044,112,27%,5.77,13%,243,58.4,100%,37.9,100%
-Perseus (14 mm),JOOLA,$249.99,PBEFFECT,https://a8qh.short.gy/P14,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.50,4.13,7.93,,,121,80%,5.77,13%,247,,,,
-Perseus (16 mm),JOOLA,$249.99,PBEFFECT,https://a8qh.short.gy/P16,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.25,7.85,Low,1818,117,60%,5.87,19%,244,52.8,3%,34.8,13%
-Perseus 3S (14mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/3SP14,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,4.13,7.90,,,117,60%,6.00,27%,244,56.4,90%,37.0,93%
-Perseus Pro IV (14mm),JOOLA,$279.95,,https://a8qh.short.gy/PP14,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,4.13,7.95,High,1964,116,53%,6.08,31%,241,56.1,83%,37.1,93%
-Perseus Pro IV (16mm),JOOLA,$279.95,,https://a8qh.short.gy/PP416,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.25,8.20,High,1971,118,66%,6.29,44%,242,56.5,92%,36.9,90%
-Scorpeus (14 mm),JOOLA,$249.99,PBEFFECT,https://a8qh.short.gy/S14,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.25,4.13,7.65,Medium,1856,108,11%,6.45,57%,238,52.8,3%,35.6,40%
-Scorpeus (16 mm),JOOLA,$249.99,PBEFFECT,https://a8qh.short.gy/S16,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.25,4.25,8.02,Low,1845,113,34%,6.86,82%,238,52.6,3%,34.6,10%
-Scorpeus 3S (14mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/3SS14,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,4.13,7.85,Very High,2068,111,23%,6.78,77%,240,56.0,78%,36.5,78%
-Scorpeus 3S (16mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/S3S16,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.25,8.12,Very High,2011,116,53%,7.23,94%,241,56.2,86%,37.2,96%
-Hyperion 3S (16mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/H3S16,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.25,7.89,Very High,2010,115,44%,6.10,32%,243,56.6,95%,36.6,81%
-Perseus 3S (16mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/P3S16,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.25,8.00,High,1983,121,80%,6.27,43%,245,56.4,90%,36.7,87%
-One,Mark,$159.99,PBEFFECT,https://a8qh.short.gy/One,2024,Hybrid,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.30,4.13,8.18,,,119,73%,6.57,65%,242,,,,
-OneX,Mark,$159.99,PBEFFECT,https://a8qh.short.gy/OneX,2024,Hybrid,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.75,4.13,7.94,,,117,60%,6.46,58%,244,,,,
-Two,Mark,$159.99,PBEFFECT,https://a8qh.short.gy/M2,2024,Elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.30,4.13,8.24,,,123,88%,6.66,71%,245,,,,
-Havik-15 All-Court,Maverix,$180.00,PBEFFECT,https://a8qh.short.gy/15AC,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,15,5.30,4.13,8.18,Medium,1893,118,66%,6.57,65%,239,55.2,43%,36.1,59%
-Havik-15 Pro,Maverix,$200.00,PBEFFECT,https://a8qh.short.gy/15Pro,2024,Elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,15,5.30,4.13,8.23,Medium,1889,118,66%,6.46,58%,240,55.5,54%,36.6,81%
-Stinger,Mozi,,,,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,,16,,,8.00,,,112,27%,6.04,30%,237,,,,
-Gold Rush,Mozi,,,,2025,Elongated,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,,16,,,8.50,,,123,88%,6.39,52%,239,,,,
-Flare Prime X,Neonic,$139.99,PBEFFECT,https://a8qh.short.gy/FPX14,2024,Widebody,Carbon,Raw Texture/Peel Ply,,,14,5.50,4.13,7.77,Very High,2003,107,8%,6.75,75%,237,55.6,58%,35.6,40%
-Flare Titanium 16mm,Neonic,$149.99,PBEFFECT,https://a8qh.short.gy/FT16,2024,Widebody,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,8.15,Very High,2015,114,39%,7.06,89%,239,55.2,43%,35.5,35%
-Flow,Neonic,$129.99,PBEFFECT,https://a8qh.short.gy/Flow,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.20,4.13,8.14,Medium,1914,117,60%,6.58,67%,238,54.2,21%,34.7,12%
-Flow Prime X,Neonic,$139.99,PBEFFECT,https://a8qh.short.gy/NFX,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,,7.80,,,111,23%,6.11,33%,240,,,,
-Flow Swift,Neonic,,PBEFFECT,Unreleased,2025,Hybrid,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,,16,5.50,,8.10,,,115,44%,6.33,48%,239,,,,
-Force,Neonic,$99.99,PBEFFECT,https://a8qh.short.gy/force16,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.30,4.13,8.06,Low,1814,116,53%,6.35,49%,238,54.3,22%,34.8,13%
-Bantam ALW-C 12.7 New Version,Paddletek,$250.00,N/A,https://a8qh.short.gy/alw12,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.25,4.25,7.55,Very High,2083,102,1%,6.54,63%,234,55.7,61%,37.1,93%
-Bantam ALW-C 14.3 New Version,Paddletek,$250.00,N/A,https://a8qh.short.gy/alw14,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,14,5.25,4.25,7.70,Very High,2056,105,4%,6.50,61%,237,55.4,50%,36.3,73%
-Bantam ESQ-C 12.7,Paddletek,$250.00,N/A,https://a8qh.short.gy/esq12,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.50,4.25,7.82,Very High,2071,103,2%,6.78,77%,236,55.9,72%,37.2,96%
-Bantam ESQ-C 14.3,Paddletek,$250.00,N/A,https://a8qh.short.gy/esq14,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,14,5.50,4.25,7.85,Very High,2059,106,7%,6.69,73%,232,55.6,58%,36.6,81%
-Bantam TKO-C 12.7mm,Paddletek,$229.99,N/A,https://a8qh.short.gy/C12.7,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.25,4.25,7.78,Medium,1903,114,39%,6.60,68%,243,56.6,95%,37.7,99%
-Bantam TKO-C 14.3mm,Paddletek,$229.99,N/A,https://a8qh.short.gy/C14.3,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,14,5.25,4.25,7.75,Medium,1910,115,44%,6.48,60%,245,56.8,96%,37.4,98%
-Bantam TKO-CX 12.7,Paddletek,$229.99,N/A,https://a8qh.short.gy/CX12.7,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.75,4.25,7.82,,,117,60%,6.97,86%,247,,,,
-Bantam TKO-CX 14.3,Paddletek,$229.99,N/A,https://a8qh.short.gy/CX14.3,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,14,5.75,4.25,8.06,,,123,88%,7.35,96%,250,,,,
-Tempest TKO-C 14.3,Paddletek,$229.99,N/A,https://a8qh.short.gy/T14.3,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,14,5.25,4.25,8.13,Low,1848,120,76%,6.43,55%,245,55.9,72%,35.9,49%
-Tempest Wave Pro-C,Paddletek,$209.99,N/A,https://a8qh.short.gy/WPro,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,14,5.25,4.25,7.92,Low,1835,108,11%,6.98,86%,236,54.5,26%,35.7,45%
-Pro Line Energy,Pickleball Apes,$149.99,PBEFFECT,https://a8qh.short.gy/ApesE,2023,Extra-elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,Power,17,6.25,4.25,8.16,,,127,97%,5.89,21%,248,54.9,32%,0.0,
-Pro Line Energy S,Pickleball Apes,$169.99,PBEFFECT,https://a8qh.short.gy/ApesES,2023,Hybrid,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,17,5.50,4.25,8.10,,,116,53%,6.26,42%,238,52.0,2%,0.0,
-Pulse E,Pickleball Apes,$199.99,PBEFFECT,https://a8qh.short.gy/PulseE ,2024,Extra-elongated,Kevlar/Nylon,Raw Texture/Peel Ply,Gen 3,All-Court,17,6.25,4.25,8.26,High,1986,127,97%,5.89,21%,247,55.7,61%,35.9,49%
-Pulse S,Pickleball Apes,$199.99,PBEFFECT,https://a8qh.short.gy/PulseS ,2024,Hybrid,Kevlar/Nylon,Raw Texture/Peel Ply,Gen 3,All-Court,17,5.50,4.25,7.98,High,1971,114,39%,6.24,42%,240,54.9,32%,36.2,67%
-Pulse V,Pickleball Apes,$199.99,PBEFFECT,https://a8qh.short.gy/PulseV ,2024,Widebody,Kevlar/Nylon,Raw Texture/Peel Ply,Gen 3,All-Court,17,5.50,4.25,8.13,High,1978,112,27%,7.37,97%,237,54.7,28%,36.1,59%
-Pulse X,Pickleball Apes,$199.99,PBEFFECT,https://a8qh.short.gy/PulseX,2025,Elongated,Kevlar,Raw Texture/Peel Ply,Gen 3,All-Court,16,5.50,,8.10,,,121,80%,6.14,36%,245,,,,
-Hurricane Pro 14mm,PIKKL,$159.99,PBEFFECT,https://a8qh.short.gy/HP14,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,14,5.50,4.25,7.83,High,1979,108,11%,6.67,71%,237,53.1,9%,35.5,35%
-Hurricane Pro 16mm,PIKKL,$159.99,PBEFFECT,https://a8qh.short.gy/H16,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.25,7.90,High,1991,111,23%,6.95,85%,238,52.8,3%,35.3,27%
-Vantage Pro 14mm,PIKKL,$139.99,PBEFFECT,https://a8qh.short.gy/VP14,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,Control,14,5.30,4.25,8.04,High,1998,115,44%,6.28,44%,236,53.2,9%,,
-Vantage Pro 16mm,PIKKL,$139.99,PBEFFECT,https://a8qh.short.gy/VP16,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.30,4.25,8.40,High,1996,121,80%,6.69,73%,237,53.7,14%,,
-Black Ace 14,Prokennex,$279.00,PBEFFECT,https://a8qh.short.gy/BA14,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1.5/Edgeless,All-Court,14,5.30,4.00,7.80,Very High,2042,102,1%,6.57,65%,224,54.9,32%,37.1,93%
-Black Ace 16,Prokennex,$279.00,PBEFFECT,https://a8qh.short.gy/BA16,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1.5/Edgeless,Control,16,5.30,4.00,8.00,Very High,2056,109,14%,6.92,84%,234,55.4,50%,36.3,73%
-Black Ace LG 14,Prokennex,$279.00,PBEFFECT,https://a8qh.short.gy/LG14,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5/Edgeless,Power,14,5.90,4.00,7.80,Very High,2056,107,8%,5.60,8%,229,55.7,61%,37.1,93%
-Black Ace XF 14,Prokennex,$279.00,PBEFFECT,https://a8qh.short.gy/XF14,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5/Edgeless,All-Court,14,5.10,4.00,7.80,High,1993,101,1%,5.40,3%,221,54.7,28%,36.4,76%
-Project Flamingo,Proton,$280.00,PBEFFECT,https://a8qh.short.gy/PF,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,15,5.25,4.25,8.16,High,1982,121,80%,6.78,77%,242,55.9,72%,37.4,98%
-Series 1 Type A Elongated 11mm,Proton,$280.00,PBEFFECT,https://a8qh.short.gy/S1AE11,2024,Elongated,Carbon,Nanotak,Gen 1,,11,5.50,4.25,8.14,,,124,92%,5.91,23%,247,,,,
-Series 1 Type A Elongated 15mm,Proton,$280.00,PBEFFECT,https://a8qh.short.gy/1AE15,2024,Elongated,Carbon,Nanotak,Gen 1,,15,5.50,4.25,8.60,High,1938,135,99%,6.52,62%,251,55.9,72%,35.9,49%
-Series 1 Type A Square Shape 11mm,Proton,$280.00,PBEFFECT,https://a8qh.short.gy/1AS11,2024,Widebody,Carbon,Nanotak,Gen 1,,11,5.25,4.25,7.96,High,2000,114,39%,6.59,67%,242,54.4,23%,36.1,59%
-Series 2,Proton,$220.00,PBEFFECT,https://a8qh.short.gy/S2,2024,Hybrid,Carbon,Paint Grit,Gen 1/Edgeless,,15,5.38,4.25,8.38,,,121,80%,5.92,24%,240,,,,
-Series 3,Proton,$250.00,PBEFFECT,https://a8qh.short.gy/S3,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,,16,5.30,4.25,8.20,,,124,92%,6.88,83%,245,,,,
-Series 4,Proton,$300.00,PBEFFECT,https://a8qh.short.gy/S4,2024,Elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2/Edgeless,,16,5.30,4.25,7.80,High,1944,111,23%,5.51,6%,237,54.9,32%,34.6,10%
-Sweet Spot 13,ProXR,$210.00,PBEFFECT,https://a8qh.short.gy/SP13,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,,13,5.25,4.00,8.10,,,115,44%,6.99,87%,238,,,,
-"Zane Navtratil ""The Standard""",ProXR,$209.99,PBEFFECT,,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1.5,Control,16,5.00,4.00,8.26,,,106,7%,7.04,88%,222,,,,
-Zane Navtratil Signature,ProXR,$209.99,PBEFFECT,https://a8qh.short.gy/zn14,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,14,6.00,4.00,8.24,,,115,44%,5.71,12%,233,,,,
-RLD-1,Reload,$200.00,PBEFFECT,https://a8qh.short.gy/Reload,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,8.17,High,1973,122,84%,6.37,51%,245,55.5,54%,35.1,23%
-Zeus,Rev,$149.00,PBEFFECT,https://a8qh.short.gy/ZEUS,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,Power,16,5.25,4.20,8.00,,,113,34%,6.35,49%,239,,,,
-Revo Pro Pure Hybrid,Revolin,$219.99,PBEFFECT,https://a8qh.short.gy/Pure,2024,Widebody,Lava Rock,Raw Texture/Peel Ply,Gen 1,Power,16,5.25,4.25,8.00,High,1958,103,2%,6.53,62%,226,56.0,78%,37.1,93%
-Revo Pro Reach Hybrid,Revolin,$219.99,PBEFFECT,https://a8qh.short.gy/Reach,2024,Elongated,Lava Rock,Raw Texture/Peel Ply,Gen 1,Power,16,5.50,4.25,7.91,Medium,1851,109,14%,5.59,7%,233,56.3,87%,36.9,90%
-Red,Robust,,,,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,,14,,,8.00,,,120,76%,6.41,55%,243,,,,
-Aero Blade 1.19 (w/o Face Weights),Rokne,$299.99,N/A,,2024,Elongated,Carbon,Paint Grit,Gen 2/Edgeless,All-Court,19,5.50,4.25,8.40,Low,1657,135,99%,5.97,26%,256,55.3,48%,35.0,19%
-Aero Blade 1.19 (with Face Weights),Rokne,$299.99,N/A,,2024,Elongated,Carbon,Paint Grit,Gen 2/Edgeless,All-Court,19,5.50,4.25,9.60,,,143,100%,6.33,48%,248,,,,
-Pulsar FX.R1,Ronbus,$180.00,PBEFFECT,https://a8qh.short.gy/R1FX,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,8.21,Medium,1907,120,76%,6.23,41%,243,55.0,37%,35.9,49%
-Pulsar FX.R2,Ronbus,$180.00,PBEFFECT,https://a8qh.short.gy/R2FX,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,8.18,Medium,1900,113,34%,7.05,89%,237,54.9,32%,35.5,35%
-Pulsar FX.R3,Ronbus,$180.00,PBEFFECT,https://a8qh.short.gy/R3FX,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,8.22,High,1946,123,88%,6.27,43%,245,55.4,50%,35.6,40%
-R1 Nova,Ronbus,$180.00,PBEFFECT,https://a8qh.short.gy/R1Nova,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,8.14,Medium,1883,118,66%,6.00,27%,242,54.4,23%,34.2,6%
-R1 Pulsar,Ronbus,$170.00,PBEFFECT,https://a8qh.short.gy/R1P,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,7.87,,,114,39%,6.12,34%,237,,,,
-R1.16,Ronbus,$120.00,PBEFFECT,https://a8qh.short.gy/R1.16,2022,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.50,4.13,7.96,High,1950,118,66%,6.11,33%,242,53.7,14%,33.7,3%
-R3 Nova,Ronbus,$180.00,PBEFFECT,https://a8qh.short.gy/R3N,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,8.07,,,120,76%,6.04,30%,245,55.0,37%,34.8,13%
-R3 Pulsar,Ronbus,$170.00,PBEFFECT,https://a8qh.short.gy/R3P,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,7.98,Medium,1903,122,84%,6.15,36%,245,55.2,43%,35.4,30%
-R3.16,Ronbus,$120.00,PBEFFECT,https://a8qh.short.gy/R3.16,2022,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.50,4.13,7.73,,,119,73%,5.84,18%,247,,,,
-Ripple R1.14,Ronbus,$250.00,PBEFFECT,Unreleased,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,4.13,7.96,Very High,2038,118,66%,5.69,10%,243,57.8,99%,37.5,99%
-Amped Epic Control,Selkirk,$160.00,INF-BRAYDONU,https://a8qh.short.gy/AmpE,2024,Widebody,Carbon,Paint Grit,Gen 1,Control,16,5.25,4.25,8.00,,,105,4%,6.54,63%,230,,,,
-Amped Epic Pro Air,Selkirk,$180.00,INF-BRAYDONU,https://a8qh.short.gy/APE,2024,Widebody,Fiberglass,Paint Grit,Gen 1.5/Edgeless,Power,16,5.25,4.25,7.97,Medium,1909,112,27%,6.87,82%,240,55.1,41%,36.1,59%
-Amped Invikta Pro Air,Selkirk,$180.00,INF-BRAYDONU,https://a8qh.short.gy/API,2024,Elongated,Fiberglass,Paint Grit,Gen 1.5/Edgeless,Power,16,5.25,4.25,7.86,Medium,1895,118,66%,5.90,22%,246,55.5,54%,36.3,73%
-Luxx Control Air Epic,Selkirk,$250.00,INF-BRAYDONU,https://a8qh.short.gy/LEpic,2023,Widebody,Carbon,Paint Grit,Gen 1.5/Edgeless,Control,20,5.25,4.25,8.08,Medium,1873,112,27%,6.35,49%,238,51.2,1%,33.1,3%
-Luxx Control Air Invikta,Selkirk,$250.00,INF-BRAYDONU,https://a8qh.short.gy/LInvikta,2023,Elongated,Carbon,Paint Grit,Gen 1.5/Edgeless,Control,20,5.25,4.25,7.96,Medium,1858,115,44%,5.78,14%,242,52.0,2%,0.0,
-Luxx Control Air S2,Selkirk,$250.00,INF-BRAYDONU,https://a8qh.short.gy/LS2,2023,Widebody,Carbon,Paint Grit,Gen 1.5/Edgeless,Control,20,4.50,4.25,8.17,Medium,1870,107,8%,7.13,91%,233,50.3,0%,32.9,2%
-Power Air Epic,Selkirk,$249.99,INF-BRAYDONU,https://a8qh.short.gy/EAir,2022,Widebody,Fiberglass,Paint Grit,Gen 1.5/Edgeless,Power,13,5.25,4.25,8.04,Medium,1884,104,3%,6.35,49%,229,53.2,9%,36.6,81%
-Power Air Invikta,Selkirk,$249.99,INF-BRAYDONU,https://a8qh.short.gy/IAir,2022,Elongated,Fiberglass,Paint Grit,Gen 1.5/Edgeless,Power,13,5.25,4.25,8.00,Medium,1894,112,27%,5.62,9%,237,53.5,12%,36.5,78%
-Vanguard Control Epic (midweight),Selkirk,$200.00,INF-BRAYDONU,https://a8qh.short.gy/VCEpic,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.30,4.25,8.14,,,112,27%,6.37,51%,236,,,,
-Vanguard Control Invikta (mideweight),Selkirk,$200.00,INF-BRAYDONU,https://a8qh.short.gy/VCInvikta,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.50,4.25,7.97,,,113,34%,5.65,9%,237,,,,
-Vanguard Control S2 (midweight),Selkirk,$200.00,INF-BRAYDONU,https://a8qh.short.gy/VCS2,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,4.70,4.25,8.01,,,105,4%,7.09,90%,230,,,,
-Vanguard Pro Power Invikta,Selkirk,$220.00,INF-BRAYDONU,https://a8qh.short.gy/ProPI,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,8.03,High,1937,114,39%,5.89,21%,237,55.7,61%,35.2,24%
-008 Epic 13mm,Selkirk Labs,$288.00,INF-BRAYDONU,https://a8qh.short.gy/813e,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 4,Control,13,5.30,4.25,7.75,High,1954,102,1%,5.81,15%,229,54.8,30%,35.4,30%
-008 Invikta 10mm,Selkirk Labs,$288.00,INF-BRAYDONU,,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 4,All-Court,10,5.50,4.25,7.90,High,1995,110,18%,5.20,1%,234,55.0,37%,35.6,40%
-008 Invikta 13mm,Selkirk Labs,$288.00,INF-BRAYDONU,https://a8qh.short.gy/813I,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 4,Control,13,5.50,4.25,7.70,High,1965,109,14%,5.40,3%,236,55.1,41%,35.3,27%
-008 Tour 13mm,Selkirk Labs,$288.00,INF-BRAYDONU,https://a8qh.short.gy/813T,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 4,Control,13,6.00,4.25,7.90,High,1991,112,27%,5.36,2%,237,54.7,28%,35.0,19%
-008 Tour 16mm,Selkirk Labs,$288.00,INF-BRAYDONU,https://a8qh.short.gy/816,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 4,Control,16,6.00,4.25,8.10,High,1969,116,53%,5.52,6%,239,55.2,43%,34.8,13%
-Project 005 Epic,Selkirk Labs,$222.00,INF-BRAYDONU,https://a8qh.short.gy/005,2023,Widebody,Fiberglass,Paint Grit,Gen 2/Edgeless,All-Court,16,5.25,4.25,7.97,,,110,18%,6.88,83%,238,,,,
-Project 006 Maxima,Selkirk Labs,$333.00,INF-BRAYDONU,https://a8qh.short.gy/006,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.75,4.25,8.39,Low,1848,118,66%,5.97,26%,236,54.1,19%,34.4,8%
-Project 007 Epic 14mm,Selkirk Labs,$333.00,INF-BRAYDONU,https://a8qh.short.gy/007E14,2024,Widebody,Carbon,Paint Grit,Gen 2/Edgeless,Power,14,5.25,4.25,8.13,High,1981,113,34%,6.50,61%,239,55.5,54%,36.8,87%
-Project 007 Invikta 14mm,Selkirk Labs,$333.00,INF-BRAYDONU,https://a8qh.short.gy/00714,2024,Elongated,Carbon,Paint Grit,Gen 2,Power,14,,4.25,8.13,Very High,2005,118,66%,5.94,25%,243,56.5,92%,36.3,73%
-Black Diamond 14mm,Six Zero,$180.00,PBEFFECT,https://a8qh.short.gy/BD14,2024,Hybrid,Fiberglass,Raw Texture/Peel Ply,Gen 2,Power,14,5.50,4.25,8.00,High,1988,112,27%,6.46,58%,237,55.6,58%,36.8,87%
-Black Diamond 16mm,Six Zero,$179.99,PBEFFECT,https://a8qh.short.gy/BD,2023,Hybrid,Fiberglass,Raw Texture/Peel Ply,Gen 2,Power,16,5.50,4.25,8.07,High,1981,114,39%,6.67,71%,239,55.9,72%,36.3,73%
-Black Diamond Amethyst Pro,Six Zero,$199.00,PBEFFECT,https://a8qh.short.gy/BDPRO,2023,Hybrid,Fiberglass,Raw Texture/Peel Ply,Gen 2,Power,16,5.50,4.25,8.23,,,115,44%,6.72,74%,234,,,,
-Black Diamond Infinity 16mm,Six Zero,$220.00,PBEFFECT,https://a8qh.short.gy/BDi,2023,Hybrid,Fiberglass,Raw Texture/Peel Ply,Gen 2/Edgeless,All-Court,16,5.50,4.25,7.97,High,1990,107,8%,5.80,14%,229,52.8,3%,35.4,30%
-Double Black Diamond (Elongated),Six Zero,$189.99,PBEFFECT,https://a8qh.short.gy/DBDe,2024,Extra-elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,15,6.00,4.25,8.18,High,1931,122,84%,5.74,12%,242,56.0,78%,36.2,67%
-Double Black Diamond 14 mm,Six Zero,$179.99,PBEFFECT,https://a8qh.short.gy/DBD,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.50,4.25,7.87,Medium,1925,110,18%,6.18,38%,237,53.5,12%,36.9,90%
-Double Black Diamond 16 mm,Six Zero,$179.99,PBEFFECT,https://a8qh.short.gy/DBD,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,8.07,,,114,39%,6.55,64%,237,53.7,14%,35.9,49%
-Double Black Diamond Infinity 16mm,Six Zero,$220.00,PBEFFECT,https://a8qh.short.gy/DBDI,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2/Edgeless,Control,16,5.50,4.25,8.10,,,110,18%,5.90,22%,231,,,,
-Infinity Ruby,Six Zero,$220.00,PBEFFECT,https://a8qh.short.gy/IR,2024,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2/Edgeless,Control,16,5.50,4.25,8.50,,,116,53%,6.00,27%,234,,,,
-Quartz,Six Zero,$89.99,PBEFFECT,https://a8qh.short.gy/Q,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,15,5.00,4.25,7.97,High,1949,108,11%,6.43,55%,234,52.8,3%,34.8,13%
-Ruby,Six Zero,$200.00,PBEFFECT,https://a8qh.short.gy/ruby,2023,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,8.33,Low,,117,60%,6.81,79%,238,53.9,16%,35.3,27%
-Ruby (14mm),Six Zero,$199.99,PBEFFECT,https://a8qh.short.gy/R14,2024,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2,Power,14,5.50,4.25,8.10,High,1965,114,39%,6.53,62%,238,55.4,50%,36.9,90%
-Sapphire,Six Zero,$99.99,PBEFFECT,https://a8qh.short.gy/Sap,2023,Elongated,Carbon,Paint Grit,Gen 1.5,Power,13,5.50,4.25,7.90,,,111,23%,5.40,3%,224,,,,
-Sapphire V2,Six Zero,$139.99,PBEFFECT,https://a8qh.short.gy/SV2,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,13,5.60,4.25,7.85,,,116,53%,6.19,40%,241,,,,
-Halo Control Max,SLK,$139.99,INF-BRAYDONU,https://a8qh.short.gy/halo,2022,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,4.75,4.50,7.94,,,111,23%,6.94,85%,237,,,,
-Halo Control Max (2024 version),SLK,$130.00,INF-BRAYDONU,https://a8qh.short.gy/HCM,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,4.85,4.25,7.90,High,1983,110,18%,6.77,76%,237,54.1,19%,34.2,6%
-Halo Control XL,SLK,$139.99,INF-BRAYDONU,https://a8qh.short.gy/halo,2022,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.60,4.50,8.10,,,122,84%,6.07,31%,244,,,,
-Halo Power Max,SLK,$139.99,INF-BRAYDONU,https://a8qh.short.gy/halo,2022,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,13,4.75,4.00,7.97,,,110,18%,6.54,63%,234,,,,
-Halo Power Max (2024 version),SLK,$130.00,INF-BRAYDONU,https://a8qh.short.gy/HPM,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,13,4.85,4.25,7.70,High,2000,103,2%,6.81,79%,231,55.5,54%,35.7,45%
-Halo Power XL,SLK,$139.99,INF-BRAYDONU,https://a8qh.short.gy/halo,2022,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,13,5.60,4.00,7.97,,,120,76%,5.59,7%,245,,,,
-Halo Pro Max,SLK,$150.00,INF-BRAYDONU,https://a8qh.short.gy/Mpro,2024,Widebody,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,4.85,4.25,7.92,High,1953,108,11%,7.00,87%,234,55.1,41%,35.5,35%
-Halo Pro XL,SLK,$150.00,INF-BRAYDONU,https://a8qh.short.gy/SLKPXL ,2024,Elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.75,4.25,7.98,High,1939,120,76%,5.90,22%,245,55.6,58%,36.6,81%
-Apollo,Spartus,$129.99,PBEFFECT,https://a8qh.short.gy/Apollo,2024,Widebody,Kevlar,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,8.07,Medium,1927,108,11%,7.54,98%,232,53.5,12%,35.0,19%
-Ballista,Spartus,$159.99,PBEFFECT,https://a8qh.short.gy/B,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2/Edgeless,All-Court,16,5.50,4.13,7.94,,,113,34%,5.59,7%,239,,,,
-Gladius Centurion,Spartus,$99.99,PBEFFECT,https://a8qh.short.gy/GC,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,7.98,,,121,80%,6.06,31%,243,,,,
-Odyssey,Spartus,$89.99,PBEFFECT,Unreleased,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.35,4.25,7.90,Very High,2019,110,18%,6.56,65%,236,54.5,26%,35.2,24%
-Olympus,Spartus,$199.99,PBEFFECT,https://a8qh.short.gy/SO,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 3,All-Court,14,5.50,4.13,8.00,Very High,2043,113,34%,6.32,47%,238,55.7,61%,36.5,78%
-Orion,Spartus,$89.99,PBEFFECT,Unreleased,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.85,4.25,7.93,Very High,2027,116,53%,6.00,27%,241,55.4,50%,35.5,35%
-Cryo 16,Speed Up,,,,2024,Elongated,,Raw Texture/Peel Ply,,,16,6.25,,8.33,,,125,95%,6.30,45%,243,,,,
-Pyro 16,Speed Up,,,,2024,Elongated,,Raw Texture/Peel Ply,,,16,6.25,,8.30,,,123,88%,5.97,26%,243,,,,
-MC-3 Strike,Stinger,$199.99,PBEFFECT,https://a8qh.short.gy/MC3,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,,8.03,,,122,84%,7.05,89%,249,,,,
-TF-Blitz,Technifibre,$209.00,,,2024,Extra-elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,15,6.00,4.25,8.24,Very High,2092,124,92%,5.81,15%,244,56.5,92%,36.8,87%
-TF-Command,Technifibre,$209.00,,,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,15,5.00,4.25,8.16,Very High,2044,110,18%,6.81,79%,233,55.0,37%,35.7,45%
-TF-Select,Technifibre,$209.00,,,2024,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2,All-Court,15,5.50,4.25,8.10,Very High,2093,112,27%,6.43,55%,234,55.9,72%,36.6,81%
-Azul 16,Thrive,$199.99,PBEFFECT,https://a8qh.short.gy/azul16,2024,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2,Power,16,5.25,,8.12,High,1948,117,60%,6.60,68%,240,55.7,61%,36.0,55%
-Blackout 16,Thrive,$199.99,PBEFFECT,https://a8qh.short.gy/BO16,2024,Hybrid,Fiberglass,Raw Texture/Peel Ply,Gen 2,Power,16,5.25,,8.28,Medium,1897,119,73%,6.71,74%,242,56.5,92%,36.2,67%
-Rush 13mm,Thrive,$179.99,PBEFFECT,https://a8qh.short.gy/Rush,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,13,5.50,,7.90,High,1931,119,73%,6.10,32%,244,55.7,61%,35.6,40%
-Smoke,Thrive,$219.99,PBEFFECT,https://a8qh.short.gy/smoke,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,15,,4.25,7.96,Very High,2003,119,73%,6.14,36%,242,56.4,90%,36.2,67%
-Surge 16,Thrive,$199.99,PBEFFECT,https://a8qh.short.gy/Surge,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.25,,8.03,High,1937,117,60%,6.80,78%,243,55.3,48%,35.6,40%
-Threat 16mm,Thrive,$179.99,PBEFFECT,https://a8qh.short.gy/Threat,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,,8.00,Medium,1918,122,84%,6.74,75%,245,54.4,23%,34.6,10%
-Alchemy 13.5 mm,Vatic Pro,$179.99,PBEFFECT,https://a8qh.short.gy/VPA,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.50,4.13,8.20,,,116,53%,5.93,24%,238,,,,
-Alchemy 16 mm,Vatic Pro,$179.99,PBEFFECT,https://a8qh.short.gy/VPA,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,8.54,,,122,84%,6.49,60%,239,,,,
-Flash 14 mm,Vatic Pro,$139.99,PBEFFECT,https://a8qh.short.gy/VPFlash,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.30,4.13,7.94,,,110,18%,6.15,36%,235,53.9,16%,34.4,8%
-Flash 16 mm,Vatic Pro,$139.99,PBEFFECT,https://a8qh.short.gy/VPFlash,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.30,4.13,8.25,High,1935,115,44%,6.70,73%,237,,,,
-Prism Bloom 14mm,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/PB14,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1.5,Control,14,,,7.70,,,107,8%,6.05,30%,238,,,,
-Prism Bloom 16mm,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/PB16,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1.5,Control,16,,,7.92,,,112,27%,7.07,90%,238,,,,
-Prism Flash 14 mm,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/PF14,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,14,5.30,4.13,7.80,High,1950,111,23%,6.11,33%,241,53.0,8%,35.0,19%
-Prism Flash 16 mm,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/VPFP16,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1.5,Control,16,5.30,4.13,7.91,High,1942,114,39%,6.40,53%,237,51.8,1%,33.7,3%
-Prism Flash LH 14,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/LH14,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,14,5.75,4.13,7.94,,,116,53%,5.89,21%,241,,,,
-Prism Flash LH 16,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/LH16,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1.5,Control,16,5.75,4.13,8.05,,,117,60%,6.18,38%,241,,,,
-Prism V7,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/VPV7P,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.30,4.13,8.44,,,128,98%,6.96,86%,244,52.8,3%,34.6,10%
-Prism V7 LH,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/PV7LH,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.60,4.13,7.97,,,119,73%,6.16,37%,243,53.2,9%,34.4,8%
-Saga Bloom 16mm,Vatic Pro,$149.99,PBEFFECT,https://a8qh.short.gy/SB,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,,,8.00,Very High,2028,111,23%,7.02,87%,237,53.9,16%,34.8,13%
-Saga Flash LH,Vatic Pro,$149.99,PBEFFECT,https://a8qh.short.gy/SFLH,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,16,5.75,4.13,8.17,,,120,76%,6.30,45%,244,,,,
-Saga Flash SH,Vatic Pro,$149.99,PBEFFECT,https://a8qh.short.gy/SFSH,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,16,5.30,4.13,7.93,High,1961,114,39%,6.39,52%,240,56.5,92%,35.5,35%
-Saga V7 LH,Vatic Pro,$149.99,PBEFFECT,https://a8qh.short.gy/SVLH,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,16,5.75,4.13,8.28,,,125,95%,6.50,61%,246,,,0.0,
-Saga V7 SH,Vatic Pro,$149.99,PBEFFECT,https://a8qh.short.gy/SVSH,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,16,5.30,4.13,8.13,High,1954,120,76%,6.62,69%,243,56.8,96%,35.6,40%
-V7,Vatic Pro,$139.99,PBEFFECT,https://a8qh.short.gy/VPV7,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.30,4.13,8.32,Medium,1916,123,88%,6.93,84%,244,54.3,22%,35.9,49%
-Vector XL,Versix,$129.99,PBEFFECT,https://a8qh.short.gy/Vect,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,15,5.75,4.25,8.30,Medium,1916,121,80%,6.85,81%,240,56.1,83%,35.9,49%
-CTRL 1 Forza,Volair,$199.99,PBEFFECT,https://a8qh.short.gy/C1F ,2024,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.15,8.00,,,115,44%,6.26,42%,240,,,,
-CTRL 2 Forza,Volair,$199.99,PBEFFECT,https://a8qh.short.gy/C2F,2024,Widebody,Kevlar,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.15,7.96,,,108,11%,7.16,92%,235,,,,
-Mach 1 14mm,Volair,$159.99,PBEFFECT,https://a8qh.short.gy/Mach14,2022,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.50,4.15,7.84,Medium,1900,115,44%,5.82,16%,240,53.2,9%,36.1,59%
-Mach 1 16mm,Volair,$159.99,PBEFFECT,https://a8qh.short.gy/Mach16,2022,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.15,8.06,Very High,2005,118,66%,6.02,28%,242,53.9,16%,34.7,12%
-Mach 1 Forza 14mm,Volair,$179.99,PBEFFECT,https://a8qh.short.gy/MF14,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.50,4.15,7.69,High,1954,109,14%,5.82,16%,237,54.0,18%,35.7,45%
-Mach 1 Forza 16mm,Volair,$179.99,PBEFFECT,https://a8qh.short.gy/Forza16,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.15,8.19,High,1988,117,60%,6.57,65%,240,55.0,37%,35.5,35%
-Mach 2 14mm,Volair,$139.99,PBEFFECT,https://a8qh.short.gy/M214,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,14,5.50,4.15,7.90,High,1967,106,7%,6.76,76%,231,52.8,3%,35.0,19%
-Mach 2 16 mm,Volair,$139.99,PBEFFECT,https://a8qh.short.gy/M216,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.15,7.97,Very High,2003,108,11%,6.77,76%,231,53.0,8%,35.0,19%
-Mach 2 Forza 14mm,Volair,$179.99,PBEFFECT,https://a8qh.short.gy/M2F14,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.50,4.15,7.80,High,1998,109,14%,6.90,84%,238,52.9,7%,35.9,49%
-Mach 2 Forza 16mm,Volair,$179.99,PBEFFECT,https://a8qh.short.gy/M2F16,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.15,8.02,High,1987,111,23%,7.26,95%,238,53.5,12%,33.7,3%
+﻿Paddle Name,Brand,Price,Discount Code,Link to Paddle,Year Released,Shape,Face Material,Grit Type,Build Type,Paddle Type,Core Thickness (mm),Grip Length (in),Grip Size (in),Weight (oz),Swingweight,Swingweight Percentile,Twistweight,Twistweight Percentile,Balance Point (mm),Spin Rating,Spin (RPM),Power (MPH),Power Percentile,Pop (MPH),Pop Percentile
+Hurache-X All Court,11SIX24,$149.99,PBEFFECT,https://a8qh.short.gy/HXAC,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,16,6.00,4.13,8.18,121,80%,6.33,49%,245,Very High,2027,55.7,60%,36.0,54%
+Hurache-X Control +,11SIX24,$139.99,PBEFFECT,https://a8qh.short.gy/HX,2024,Elongated,Carbon/Fiberglass,Raw Texture/Peel Ply,Gen 2,All-Court,16,6.00,4.13,7.94,117,60%,6.32,48%,240,High,1940,55.5,53%,36.0,54%
+Hurache-X Jelly Bean 16mm,11SIX24,$104.99,PBEFFECT,https://a8qh.short.gy/HJB16,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5,Control,16,6.00,4.13,8.14,122,84%,6.36,51%,242,,,,,,
+Hurache-X Power,11SIX24,$169.99,PBEFFECT,https://a8qh.short.gy/HXP,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,6.00,4.13,8.15,117,60%,6.40,54%,240,Very High,2033,56.3,87%,36.0,54%
+Jelly Bean Vapor,11SIX24,$99.00,PBEFFECT,https://a8qh.short.gy/JBV,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1.5,Control,16,5.75,,8.00,115,44%,6.67,71%,240,,,,,,
+Monarch All Court,11SIX24,$139.99,PBEFFECT,https://a8qh.short.gy/MAC,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.75,4.13,8.10,110,18%,7.40,97%,235,High,1976,55.4,49%,36.1,59%
+Pegasus All Court,11SIX24,$129.99,PBEFFECT,https://a8qh.short.gy/PAC,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,16,5.50,4.13,8.20,113,33%,7.26,94%,237,Very High,2032,55.2,43%,35.5,35%
+Pegasus Power,11SIX24,$169.99,PBEFFECT,https://a8qh.short.gy/PP,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.75,4.13,8.33,111,22%,7.60,98%,233,Very High,2085,55.8,69%,36.2,67%
+Vapor All Court,11SIX24,$129.99,PBEFFECT,https://a8qh.short.gy/VAC,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,16,5.75,4.13,8.16,117,60%,6.80,79%,241,Very High,2059,55.3,47%,35.4,29%
+Vapor Power,11SIX24,$169.99,PBEFFECT,https://a8qh.short.gy/VP,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.75,4.13,8.30,116,53%,7.10,90%,237,Very High,2065,56.0,78%,36.1,59%
+Rhapsody 13,Avoura,$225.00,,,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,13,,4.25,7.97,105,4%,7.34,95%,234,Very High,2038,54.0,18%,35.4,29%
+Baller + (updated),Babolat,,PBEFFECT,Unreleased,2025,Hybrid,Carbon,Paint Grit,Gen 2,All-Court,16,,4.13,8.33,113,33%,6.08,32%,234,High,1932,56.0,78%,35.8,47%
+Ballr+,Babolat,$219.99,10EFFECT,https://a8qh.short.gy/BALLR,2024,Hybrid,Carbon,Paint Grit,Gen 2/Edgeless,All-Court,16,5.50,4.00,8.18,112,27%,5.65,9%,234,Medium,1881,55.4,49%,36.1,59%
+Strkr+,Babolat,$219.99,10EFFECT,https://a8qh.short.gy/STRKR,2024,Extra-elongated,Carbon,Paint Grit,Gen 2/Edgeless,Power,13,5.50,4.00,8.05,120,76%,5.43,4%,240,Low,1815,55.7,60%,36.0,54%
+Wizard (updated),Babolat,,PBEFFECT,Unreleased,2025,Widebody,Carbon,Paint Grit,Gen 2,Control,20,,4.13,8.57,109,14%,6.40,54%,226,High,1952,55.8,69%,35.6,39%
+WZRD,Babolat,$219.99,10EFFECT,https://a8qh.short.gy/WRZD,2024,Widebody,Carbon,Paint Grit,Gen 2/Edgeless,Control,20,5.00,4.00,8.40,105,4%,5.93,24%,223,Low,1837,55.1,40%,35.1,22%
+X2 Lite,Body Helix,$160.00,PBEFFECT,https://a8qh.short.gy/X2Lite,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,6.00,4.25,8.12,123,88%,6.32,48%,245,Low,1842,52.8,3%,33.7,3%
+X2 Pro,Body Helix,$180.00,PBEFFECT,https://a8qh.short.gy/X2Pro,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,19,6.00,4.25,8.88,134,99%,6.74,75%,246,High,1981,54.9,31%,34.8,13%
+X3 Lite,Body Helix,$160.00,PBEFFECT,https://a8qh.short.gy/X3Lite,2023,Elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,6.00,4.25,8.25,125,95%,6.03,30%,245,Medium,1920,52.8,3%,34.8,13%
+X3 Pro,Body Helix,$180.00,PBEFFECT,https://a8qh.short.gy/X3Pro,2023,Elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,Power,18,6.00,4.25,8.73,132,98%,6.65,71%,246,High,1949,54.7,28%,34.2,5%
+X4 Gold Kevlar,Body Helix,$140.00,PBEFFECT,https://a8qh.short.gy/X4Gold,2024,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2,Power,16,5.25,4.25,8.10,116,53%,6.63,70%,239,High,1972,56.0,78%,36.5,78%
+Fat Boy,Bread & Butter,$189.99,PBEFFECT,https://a8qh.short.gy/fatboy,2024,Widebody,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.30,4.25,8.17,112,27%,7.29,95%,236,High,1935,54.9,31%,36.6,81%
+Filth,Bread & Butter,$165.00,PBEFFECT,https://a8qh.short.gy/Filth,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,8.07,123,88%,6.24,42%,245,Medium,1915,54.7,28%,35.2,24%
+Filth Elongated,Bread & Butter,,PBEFFECT,Available Late April,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.60,4.13,8.18,123,88%,6.24,42%,243,,,,,,
+Filth Hybrid,Bread & Butter,,PBEFFECT,Available Late April,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,8.07,113,33%,6.77,76%,238,,,,,,
+Filth Standard,Bread & Butter,,PBEFFECT,Available Late April,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.30,4.13,8.26,111,22%,7.47,97%,234,,,,,,
+Invader,Bread & Butter,$189.99,PBEFFECT,https://a8qh.short.gy/INV,2024,Hybrid,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.30,4.25,8.18,118,66%,6.85,81%,239,High,1985,55.8,69%,36.2,67%
+Shogun,Bread & Butter,$189.99,PBEFFECT,https://a8qh.short.gy/Shogun,2024,Elongated,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,8.18,122,84%,6.20,40%,244,Medium,1928,54.4,23%,35.4,29%
+FIRE EX,Chorus,$169.99,PBEFFECT,https://a8qh.short.gy/FEX,2024,Elongated,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.60,4.25,7.80,114,39%,6.21,41%,241,Very High,2027,56.3,87%,36.1,59%
+FIRE HX,Chorus,$169.99,PBEFFECT,https://a8qh.short.gy/FHX,2024,Hybrid,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.60,4.25,7.70,110,18%,6.43,56%,237,High,2000,56.3,87%,36.2,67%
+FIRE SX,Chorus,$169.99,PBEFFECT,https://a8qh.short.gy/FSX,2024,Widebody,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.60,4.25,7.85,108,10%,7.04,88%,235,Very High,2005,55.7,60%,36.2,67%
+Shapeshifter EX,Chorus,$174.99,PBEFFECT,https://a8qh.short.gy/SEX,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.60,4.25,7.80,115,44%,6.18,38%,242,Very High,2104,56.0,78%,35.9,48%
+Shapeshifter HX,Chorus,$174.99,PBEFFECT,https://a8qh.short.gy/SHX,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.60,4.25,7.80,114,39%,6.46,59%,240,Very High,2071,55.8,69%,35.6,39%
+Shapeshifter SX,Chorus,$174.99,PBEFFECT,https://a8qh.short.gy/SSX,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.60,4.25,7.70,107,8%,6.83,81%,235,Very High,2063,54.5,25%,35.1,22%
+Supercourt EX,Chorus,$119.00,PBEFFECT,https://a8qh.short.gy/SCEX,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.60,4.25,7.80,116,53%,6.45,58%,243,Very High,2020,56.2,87%,36.0,54%
+Supercourt HX,Chorus,$119.00,PBEFFECT,https://a8qh.short.gy/SCHX,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.60,4.25,7.80,115,44%,6.80,79%,242,High,1969,56.0,78%,35.8,47%
+Supercourt SX,Chorus,$119.00,PBEFFECT,https://a8qh.short.gy/SCSX,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.60,4.25,7.70,107,8%,7.16,92%,237,High,1986,56.0,78%,35.7,44%
+CRBN 1 Orginal (16 mm),CRBN,$179.99,PBEFFECT,https://a8qh.short.gy/crbn1,2021,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.50,4.25,8.25,118,66%,5.77,13%,238,,,,,,
+CRBN 1X Power Series (14 mm),CRBN,$229.99,PBEFFECT,https://a8qh.short.gy/crbn1x14,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.50,4.25,7.87,118,66%,5.88,20%,243,Medium,1917,54.3,21%,35.4,29%
+CRBN 1X Power Series (16 mm),CRBN,$229.99,PBEFFECT,https://a8qh.short.gy/crbn1x16,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,8.11,124,92%,6.18,38%,244,Medium,1915,55.0,36%,34.9,18%
+CRBN 2 Orignal (16 mm),CRBN,$179.99,PBEFFECT,https://a8qh.short.gy/crbn2,2021,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,4.75,4.25,7.94,109,14%,7.03,88%,236,,,,,,
+CRBN 2X Power Series (14 mm),CRBN,$229.99,PBEFFECT,https://a8qh.short.gy/crbn2x14,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,4.75,4.25,7.80,105,4%,6.88,83%,232,,,,,,
+CRBN 2X Power Series (16 mm),CRBN,$229.99,PBEFFECT,https://a8qh.short.gy/crbn2x16,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,4.75,4.25,8.20,112,27%,7.75,99%,237,,,,,,
+CRBN 3X Power Series (14 mm),CRBN,$229.99,PBEFFECT,https://a8qh.short.gy/3x14,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.25,4.25,7.87,116,53%,6.39,53%,240,,,,,,
+CRBN 3X Power Series (16 mm),CRBN,$229.99,PBEFFECT,https://a8qh.short.gy/crbn3x16,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.25,4.25,8.18,119,73%,6.79,78%,241,Medium,1920,54.9,31%,35.6,39%
+TruFoam Genesis 1,CRBN,$279.99,PBEFFECT,https://a8qh.short.gy/TFG1,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 4,All-Court,14,5.50,4.13,7.90,118,66%,5.51,5%,244,Very High,2036,55.8,69%,36.6,81%
+TruFoam Genesis 2,CRBN,$279.99,PBEFFECT,https://a8qh.short.gy/TFG2,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 4,All-Court,14,5.25,4.13,8.20,113,33%,6.70,73%,238,High,1992,55.5,53%,36.8,87%
+TruFoam Genesis 3,CRBN,$279.99,PBEFFECT,https://a8qh.short.gy/TFG3,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 4,All-Court,14,5.25,4.13,8.30,122,84%,6.30,46%,243,Very High,2030,55.9,73%,36.4,76%
+Edge 18k,Diadem,$229.95,PBEFFECT,https://a8qh.short.gy/18k,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.00,4.13,7.80,117,60%,6.21,41%,244,,,,,,
+Edge 18k Power Max,Diadem,$239.95,PBEFFECT,https://a8qh.short.gy/18PM,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.00,4.13,8.16,109,14%,7.87,100%,232,,,,,,
+Edge 18k Speed Pro,Diadem,$239.95,PBEFFECT,https://a8qh.short.gy/18SP,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.70,4.13,8.03,124,92%,6.31,47%,249,,,,,,
+Icon Infinity Max,Diadem,$219.95,PBEFFECT,https://a8qh.short.gy/IPM,2024,Widebody,Carbon,Paint Grit,Gen 2,All-Court,14,5.00,4.13,8.25,113,33%,7.35,96%,236,,,,,,
+Icon V2 Widebody,Diadem,$199.99,PBEFFECT,,2023,Widebody,Carbon,Paint Grit,Gen 1.5/Edgeless,Power,14,5.25,4.13,8.00,106,6%,5.87,19%,230,,,,,,
+Icon V2 XL,Diadem,$199.99,PBEFFECT,,2023,Elongated,Carbon,Paint Grit,Gen 1.5/Edgeless,Power,14,5.50,4.13,8.20,122,84%,5.65,9%,241,,,,,,
+Fuego,Element6,$199.99,,,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,4.20,8.00,121,80%,6.61,69%,246,Very High,2016,55.7,60%,35.4,29%
+Pursuit MAXX EX 6.0,Engage,$199.99,PBEFFECT,https://a8qh.short.gy/MEX6.0,2024,Widebody,Carbon,Paint Grit,Gen 1,All-Court,16,5.00,4.25,8.10,117,60%,7.61,99%,244,Low,1815,54.6,27%,35.3,26%
+Pursuit MAXX MX 6.0,Engage,$199.99,PBEFFECT,https://a8qh.short.gy/MMX6.0,2024,Elongated,Carbon,Paint Grit,Gen 1,Power,16,5.75,4.25,8.20,125,95%,6.44,57%,245,Low,1780,54.9,31%,35.4,29%
+Pursuit Pro EX,Engage,$259.99,PBEFFECT,https://a8qh.short.gy/PEX,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.00,4.25,8.00,110,18%,6.77,76%,236,High,1952,55.2,43%,36.6,81%
+Pursuit Pro EX 6.0,Engage,$259.99,PBEFFECT,https://a8qh.short.gy/PEX6.0,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,16,5.00,4.25,7.92,115,44%,7.37,96%,243,High,1946,55.7,60%,36.1,59%
+Pursuit Pro MX,Engage,$259.99,PBEFFECT,https://a8qh.short.gy/PMX,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.75,4.25,8.06,119,73%,5.88,20%,239,,,56.1,83%,36.5,78%
+Pursuit Pro MX 6.0,Engage,$259.99,PBEFFECT,https://a8qh.short.gy/PMX6.0,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,16,5.75,4.25,7.87,125,95%,6.57,66%,254,,,56.8,96%,35.7,44%
+Pursuit Pro1 (Lite),Engage,$259.99,PBEFFECT,https://a8qh.short.gy/Pro1,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.88,4.25,7.85,112,27%,5.83,17%,234,High,1964,55.4,49%,36.6,81%
+Pursuit Pro1 (Standard),Engage,$259.99,PBEFFECT,https://a8qh.short.gy/Pro1,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.88,4.25,8.04,114,39%,5.94,25%,232,High,1956,55.9,73%,36.4,76%
+Pursuit Pro1 6.0 (Lite),Engage,$259.99,PBEFFECT,https://a8qh.short.gy/Pro16.0,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,16,5.88,4.25,7.66,115,44%,5.81,15%,241,High,1948,55.8,69%,37.1,93%
+Pursuit Pro1 6.0 (Standard),Engage,$259.99,PBEFFECT,https://a8qh.short.gy/Pro16.0,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,16,5.88,4.25,8.01,115,44%,5.83,17%,235,High,1959,55.6,57%,36.6,81%
+Pursuit Pro1 6.0 Hybrid,Engage,$259.99,PBEFFECT,Unreleased,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1,,15,5.50,4.25,7.96,111,22%,6.22,41%,237,High,1961,54.1,19%,35.0,18%
+Pursuit Pro1 6.0 Widebody,Engage,$259.99,PBEFFECT,Unreleased,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,,15,5.00,4.25,8.06,113,33%,7.60,98%,240,High,1980,54.8,30%,35.0,18%
+Pursuit Pro1 Hybrid,Engage,$259.99,PBEFFECT,Unreleased,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1,,13,5.50,4.25,7.96,101,1%,5.50,5%,220,Very High,2026,53.4,12%,36.0,54%
+Pursuit Pro1 Innovation 12.7,Engage,$259.99,PBEFFECT,Available April 10,2025,Elongaed,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.60,4.25,7.90,120,76%,5.90,22%,244,Very High,2059,56.1,83%,36.6,81%
+Pursuit Pro1 Innovation 15.2,Engage,$259.99,PBEFFECT,Available April 10,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,15,5.60,4.25,7.92,125,95%,6.31,47%,252,Very High,2020,55.8,69%,36.0,54%
+Pursuit Pro1 Widebody,Engage,$259.99,PBEFFECT,Unreleased,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,,13,5.00,4.25,8.10,105,4%,6.64,70%,224,Very High,2019,53.2,9%,35.5,35%
+Pursuit V2,Engage,$179.99,PBEFFECT,https://a8qh.short.gy/PV2,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,15,5.30,4.25,7.85,111,22%,5.94,25%,235,Very High,2119,55.2,43%,36.3,73%
+C45,Franklin,$229.00,PBEFFECT,Unreleased,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 3,All-Court,14,5.50,4.13,7.55,106,6%,5.60,8%,237,High,1982,54.8,30%,35.3,26%
+Dynasty 12 Feather Weight,Franklin,$149.99,PBEFFECT,https://a8qh.short.gy/F12,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,12,5.75,4.30,7.25,109,14%,5.70,11%,242,High,1936,55.7,60%,35.2,24%
+FS Tour Dynasty (14mm),Franklin,$150.00,PBEFFECT,https://a8qh.short.gy/D14,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.60,4.30,8.28,124,92%,6.56,65%,242,High,1975,55.6,57%,35.4,29%
+FS Tour Dynasty (16mm),Franklin,$150.00,PBEFFECT,https://a8qh.short.gy/D16,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.60,4.30,8.69,134,99%,7.22,93%,246,Medium,1864,56.1,83%,34.4,7%
+FS Tour Tempo (14mm),Franklin,$150.00,PBEFFECT,https://a8qh.short.gy/T14,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.00,4.30,8.47,117,60%,7.23,94%,235,Medium,1920,55.9,73%,35.2,24%
+FS Tour Tempo (16mm),Franklin,$150.00,PBEFFECT,https://a8qh.short.gy/T16,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.00,4.30,8.90,123,88%,7.68,99%,234,Medium,1925,55.7,60%,33.7,3%
+Challenger,Friday,$89.00,10EFFECT,https://a8qh.short.gy/Friday,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,7.70,112,27%,5.80,14%,238,Medium,1889,55.7,60%,36.2,67%
+Original,Friday,$69.00,10EFFECT,https://a8qh.short.gy/Friday,2024,Hybrid,Carbon,Paint Grit,Gen 2,All-Court,16,5.50,4.25,8.20,118,66%,6.29,45%,239,Medium,1926,56.3,87%,35.3,26%
+RCF-Airbender 16,Gamma,$199.99,PBEFFECT,https://a8qh.short.gy/Bender,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.30,4.13,8.45,118,66%,5.80,14%,,Medium,1896,54.9,31%,34.9,18%
+RCF-Obsidian 10,Gamma,$159.99,PBEFFECT,https://a8qh.short.gy/O10,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,10,5.75,4.13,7.90,116,53%,5.87,19%,243,Low,1813,55.0,36%,36.1,59%
+RCF-Obsidian 13,Gamma,$159.99,PBEFFECT,https://a8qh.short.gy/O13,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,13,5.75,4.13,8.03,116,53%,6.18,38%,240,Medium,1893,54.4,23%,34.8,13%
+RCF-Obsidian 16,Gamma,$159.99,PBEFFECT,https://a8qh.short.gy/O16,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.75,4.13,8.13,120,76%,6.53,63%,244,Medium,1897,55.2,43%,34.6,9%
+CX14H Ultimate Power,Gearbox,$249.99,N/A,https://a8qh.short.gy/CX14U,2023,Widebody,Carbon,Paint Grit,Gen 1/Edgeless,All-Court,14,5.50,4.00,8.50,96,0%,5.31,2%,203,,,,,,
+GX2 Elongated,Gearbox,,PBEFFECT,Unreleased,2025,Elongated,Carbon,Raw Texture/Peel Ply,,All-Court,16,5.50,4.13,7.94,120,76%,5.65,9%,250,Very High,2047,56.0,78%,36.1,59%
+GX2 Hyper,Gearbox,,PBEFFECT,Unreleased,2025,Widebody,Carbon,Raw Texture/Peel Ply,,All-Court,16,5.50,4.13,8.00,109,14%,6.51,62%,240,Very High,2009,55.4,49%,36.1,59%
+GX2 Integra XL,Gearbox,,PBEFFECT,Unreleased,2025,Hybrid,Carbon,Raw Texture/Peel Ply,,All-Court,16,5.50,4.13,7.91,118,66%,5.69,10%,248,Very High,2025,55.9,73%,35.9,48%
+Pro Control Elongated,Gearbox,$274.99,N/A,https://a8qh.short.gy/PCE,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3/Edgeless,All-Court,14,5.50,4.00,8.07,123,88%,5.01,0%,247,Medium,1914,54.1,19%,34.2,5%
+Pro Control Integra,Gearbox,$274.99,N/A,https://a8qh.short.gy/PCF,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 3/Edgeless,All-Court,14,5.50,4.00,7.95,116,53%,5.12,1%,246,High,1954,53.9,16%,34.8,13%
+Pro Power Elongated,Gearbox,$274.99,N/A,https://a8qh.short.gy/PPE,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3/Edgeless,Power,14,5.50,4.00,7.88,121,80%,5.16,1%,248,High,1986,57.4,99%,36.9,90%
+Pro Power Integra,Gearbox,$274.99,N/A,https://a8qh.short.gy/PPF,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 3/Edgeless,Power,14,5.50,4.00,7.98,114,39%,4.96,0%,241,High,1951,56.1,83%,36.1,59%
+Pro Ultimate Elongated 14,Gearbox,$274.99,N/A,Coming March 2025,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3/Edgeless,Power,14,5.50,4.00,8.05,125,95%,5.34,2%,255,High,1993,56.8,96%,36.0,54%
+Pro Ultimate Elongated 16,Gearbox,$274.99,N/A,https://a8qh.short.gy/GPU,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3/Edgeless,Power,16,5.50,4.00,8.00,124,92%,5.38,3%,256,High,1987,56.8,96%,35.9,48%
+Pro Ultimate Hyper,Gearbox,$274.99,N/A,https://a8qh.short.gy/PUH,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 3/Edgeless,Power,16,5.25,4.00,8.00,115,44%,6.36,51%,248,High,1986,56.1,83%,36.6,81%
+Aegis,Gherkin,$99.99,,,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,,16,5.30,4.25,8.00,112,27%,6.93,84%,237,,,,,,
+Aspire,Gherkin,$99.99,,,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,,16,5.30,4.25,8.00,118,66%,6.28,44%,241,,,,,,
+Nightshade E,Gherkin,$130.00,PBEFFECT,Available April 15,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.50,4.13,7.90,116,53%,6.01,28%,242,,,,,,
+Nightshade H,Gherkin,$130.00,PBEFFECT,Available April 15,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.50,4.13,7.98,113,33%,6.15,37%,238,Very High,2007,54.6,27%,36.2,67%
+Solace,Gherkin,$99.99,,,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,,16,5.30,4.25,7.90,112,27%,6.30,46%,238,,,,,,
+LAZR-16S,Gruvn,$169.99,PBEFFECT,,2024,Widebody,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,,16,5.40,4.13,8.00,108,10%,7.13,91%,234,,,,,,
+LAZR-16X,Gruvn,$169.99,PBEFFECT,,2024,Widebody,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,,16,5.50,4.13,8.00,118,66%,6.41,55%,241,,,,,,
+MUVN-13S,Gruvn,$159.00,PBEFFECT,,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,,13,5.50,4.13,7.90,100,0%,6.40,54%,224,,,,,,
+Boom Tour EX,Head,$200.00,N/A,https://a8qh.short.gy/BoomT,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,11,5.50,4.13,7.84,116,53%,5.46,4%,244,Very High,2074,56.5,92%,38.2,100%
+Radical Nite,Head,$219.00,N/A,https://a8qh.short.gy/Nite,2024,Elongated,Carbon,Paint Grit,Gen 2,,15,5.50,4.13,8.11,115,44%,5.91,23%,236,,,,,,
+Tour Radical Raw EX,Head,$169.95,N/A,https://a8qh.short.gy/EXRaw,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,15,5.50,4.13,8.17,115,44%,5.56,6%,236,,,,,,
+Aero Metallic TI (16mm),Holbrook,$219.99,PBEFFECT,https://a8qh.short.gy/PAM ,2024,Elongated,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,7.95,117,60%,5.85,19%,240,High,1982,55.3,47%,35.5,35%
+Aero S (16mm),Holbrook,$199.99,PBEFFECT,https://a8qh.short.gy/AS16 ,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.00,4.25,7.80,105,4%,6.63,70%,232,,,,,,
+Aero T (14mm),Holbrook,$199.99,PBEFFECT,https://a8qh.short.gy/AT14 ,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.50,4.25,7.80,115,44%,5.70,11%,241,High,1968,55.7,60%,36.3,73%
+Aero T (16mm),Holbrook,$199.99,PBEFFECT,https://a8qh.short.gy/AT16 ,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,7.81,113,33%,5.69,10%,238,Very High,2016,55.9,73%,36.2,67%
+Aero X (14mm),Holbrook,$199.99,PBEFFECT,https://a8qh.short.gy/AX14 ,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.25,4.25,7.80,112,27%,5.83,17%,239,High,1974,55.2,43%,36.2,67%
+Aero X (16mm),Holbrook,$199.99,PBEFFECT,https://a8qh.short.gy/AX16 ,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.25,4.25,7.82,113,33%,5.82,16%,238,High,1974,55.8,69%,36.1,59%
+Mav Pro,Holbrook,$219.99,PBEFFECT,https://a8qh.short.gy/MP,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,13,5.50,4.25,8.17,123,88%,6.10,32%,245,,,,,,
+Power Pro,Holbrook,$219.99,PBEFFECT,https://a8qh.short.gy/HP,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,8.03,121,80%,6.39,53%,241,,,,,,
+Pro Power E,Holbrook,$219.99,PBEFFECT,https://a8qh.short.gy/HPE,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.25,4.25,8.25,122,84%,6.68,72%,241,,,,,,
+J2,Honolulu Pickleball,$145.00,PBEFFECT,https://a8qh.short.gy/J2,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,7.95,110,18%,6.81,80%,236,,,,,,
+J2K,Honolulu Pickleball,$155.00,PBEFFECT,https://a8qh.short.gy/J2K,2024,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,8.22,115,44%,7.10,90%,237,High,1948,55.1,40%,36.4,76%
+J2K+,Honolulu Pickleball,$165.00,PBEFFECT,https://a8qh.short.gy/J2K+,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.13,8.26,115,44%,7.10,90%,238,High,1983,55.0,36%,36.0,54%
+J2Ti,Honolulu Pickleball,$155.00,PBEFFECT,https://a8qh.short.gy/J2Ti,2024,Hybrid,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,8.05,111,22%,6.60,68%,235,,,,,,
+J2Ti+,Honolulu Pickleball,$165.00,PBEFFECT,https://a8qh.short.gy/J2Ti+,2025,Hybrid,Titanium/Carbon,Raw Texture/Peel Ply,Gen 3,All-Court,16,5.50,4.13,8.30,116,53%,7.16,92%,239,,,,,,
+J3k,Honolulu Pickleball,$155.00,PBEFFECT,https://a8qh.short.gy/J3K,2024,Widebody,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,6.00,4.13,8.28,117,60%,7.22,93%,239,,,,,,
+J4KC,Honolulu Pickleball,,PBEFFECT,Unreleased,2025,Widebody,Kevlar,Raw Texture/Peel Ply,Gen 2,,16,5.50,4.13,8.07,110,18%,8.20,100%,236,,,,,,
+J7K,Honolulu Pickleball,$155.00,PBEFFECT,https://a8qh.short.gy/J7K,2024,Extra-elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,Power,16,6.00,4.13,8.25,123,88%,6.36,51%,242,,,,,,
+Mage Pro,Hudef,$99.00,10EFFECT,https://a8qh.short.gy/Mage,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.35,4.00,7.77,113,33%,6.13,35%,241,,,,,,
+Viva Pro Gen 2,Hudef,$129.99,10EFFECT,https://a8qh.short.gy/VGEN2,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,8.06,125,95%,6.43,56%,251,Medium,1854,55.5,53%,35.4,29%
+Viva Pro Gen 3,Hudef,$169.99,10EFFECT,https://a8qh.short.gy/G3,2024,Elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,7.76,119,73%,6.16,38%,250,,,,,,
+Agassi Edge (16mm),JOOLA,$99.95,PBEFFECT,https://a8qh.short.gy/AE16,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.50,,7.80,109,14%,5.47,5%,236,,,,,,
+Agassi Pro (14mm),JOOLA,$279.95,,https://a8qh.short.gy/AP14,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,,8.10,116,53%,6.02,29%,240,Very High,2026,56.4,90%,36.8,87%
+Hyperion 3S (14mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/3SH14,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,4.13,7.85,115,44%,6.01,28%,245,High,1967,55.9,73%,36.2,67%
+Hyperion 3S (16mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/3SH16,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.25,7.90,115,44%,6.12,35%,244,High,1989,57.2,98%,36.9,90%
+Magnus 3S (14mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/3SM14,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.00,4.13,7.90,113,33%,6.13,35%,240,,,,,,
+Magnus 3S (16mm),JOOLA,$275.00,PBEFFECT,https://a8qh.short.gy/Mag14,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.25,8.14,118,66%,6.45,58%,242,High,1949,,,,
+Mod TA-15 (16mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/Mod16,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.25,7.84,116,53%,6.10,32%,244,Very High,2014,57.8,99%,37.2,96%
+Mod-TA-15 (14mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/mod14,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,4.13,7.56,112,27%,5.77,13%,243,Very High,2044,58.4,100%,37.9,100%
+Perseus (14 mm),JOOLA,$249.99,PBEFFECT,https://a8qh.short.gy/P14,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.50,4.13,7.93,121,80%,5.77,13%,247,,,,,,
+Perseus (16 mm),JOOLA,$249.99,PBEFFECT,https://a8qh.short.gy/P16,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.25,7.85,117,60%,5.87,19%,244,Low,1818,52.8,3%,34.8,13%
+Perseus 3S (14mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/3SP14,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,4.13,7.90,117,60%,6.00,27%,244,,,56.4,90%,37.0,93%
+Perseus Pro IV (14mm),JOOLA,$279.95,,https://a8qh.short.gy/PP14,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,4.13,7.95,116,53%,6.08,32%,241,High,1964,56.1,83%,37.1,93%
+Perseus Pro IV (16mm),JOOLA,$279.95,,https://a8qh.short.gy/PP416,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.25,8.20,118,66%,6.29,45%,242,High,1971,56.5,92%,36.9,90%
+Scorpeus (14 mm),JOOLA,$249.99,PBEFFECT,https://a8qh.short.gy/S14,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.25,4.13,7.65,108,10%,6.45,58%,238,Medium,1856,52.8,3%,35.6,39%
+Scorpeus (16 mm),JOOLA,$249.99,PBEFFECT,https://a8qh.short.gy/S16,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.25,4.25,8.02,113,33%,6.86,82%,238,Low,1845,52.6,2%,34.6,9%
+Scorpeus 3S (14mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/3SS14,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,4.13,7.85,111,22%,6.78,77%,240,Very High,2068,56.0,78%,36.5,78%
+Scorpeus 3S (16mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/S3S16,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.25,8.12,116,53%,7.23,94%,241,Very High,2011,56.2,87%,37.2,96%
+Hyperion 3S (16mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/H3S16,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.25,7.89,115,44%,6.10,32%,243,Very High,2010,56.6,95%,36.6,81%
+Perseus 3S (16mm),JOOLA,$279.95,PBEFFECT,https://a8qh.short.gy/P3S16,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,16,5.50,4.25,8.00,121,80%,6.27,44%,245,High,1983,56.4,90%,36.7,87%
+One,Mark,$159.99,PBEFFECT,https://a8qh.short.gy/One,2024,Hybrid,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.30,4.13,8.18,119,73%,6.57,66%,242,,,,,,
+OneX,Mark,$159.99,PBEFFECT,https://a8qh.short.gy/OneX,2024,Hybrid,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.75,4.13,7.94,117,60%,6.46,59%,244,,,,,,
+Two,Mark,$159.99,PBEFFECT,https://a8qh.short.gy/M2,2024,Elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.30,4.13,8.24,123,88%,6.66,71%,245,,,,,,
+Havik-15 All-Court,Maverix,$180.00,PBEFFECT,https://a8qh.short.gy/15AC,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,15,5.30,4.13,8.18,118,66%,6.57,66%,239,Medium,1893,55.2,43%,36.1,59%
+Havik-15 Pro,Maverix,$200.00,PBEFFECT,https://a8qh.short.gy/15Pro,2024,Elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,15,5.30,4.13,8.23,118,66%,6.46,59%,240,Medium,1889,55.5,53%,36.6,81%
+Stinger,Mozi,,,,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,,16,,,8.00,112,27%,6.04,30%,237,,,,,,
+Gold Rush,Mozi,,,,2025,Elongated,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,,16,,,8.50,123,88%,6.39,53%,239,,,,,,
+Flare Prime X,Neonic,$139.99,PBEFFECT,https://a8qh.short.gy/FPX14,2024,Widebody,Carbon,Raw Texture/Peel Ply,,,14,5.50,4.13,7.77,107,8%,6.75,75%,237,Very High,2003,55.6,57%,35.6,39%
+Flare Titanium 16mm,Neonic,$149.99,PBEFFECT,https://a8qh.short.gy/FT16,2024,Widebody,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,8.15,114,39%,7.06,89%,239,Very High,2015,55.2,43%,35.5,35%
+Flow,Neonic,$129.99,PBEFFECT,https://a8qh.short.gy/Flow,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.20,4.13,8.14,117,60%,6.58,67%,238,Medium,1914,54.2,21%,34.7,12%
+Flow Prime X,Neonic,$139.99,PBEFFECT,https://a8qh.short.gy/NFX,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,,7.80,111,22%,6.11,34%,240,,,,,,
+Flow Swift,Neonic,,PBEFFECT,Unreleased,2025,Hybrid,Titanium/Carbon,Raw Texture/Peel Ply,Gen 2,,16,5.50,,8.10,115,44%,6.33,49%,239,,,,,,
+Force,Neonic,$99.99,PBEFFECT,https://a8qh.short.gy/force16,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.30,4.13,8.06,116,53%,6.35,50%,238,Low,1814,54.3,21%,34.8,13%
+Bantam ALW-C 12.7 New Version,Paddletek,$250.00,N/A,https://a8qh.short.gy/alw12,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.25,4.25,7.55,102,1%,6.54,64%,234,Very High,2083,55.7,60%,37.1,93%
+Bantam ALW-C 14.3 New Version,Paddletek,$250.00,N/A,https://a8qh.short.gy/alw14,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,14,5.25,4.25,7.70,105,4%,6.50,61%,237,Very High,2056,55.4,49%,36.3,73%
+Bantam ESQ-C 12.7,Paddletek,$250.00,N/A,https://a8qh.short.gy/esq12,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.50,4.25,7.82,103,2%,6.78,77%,236,Very High,2071,55.9,73%,37.2,96%
+Bantam ESQ-C 14.3,Paddletek,$250.00,N/A,https://a8qh.short.gy/esq14,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,14,5.50,4.25,7.85,106,6%,6.69,73%,232,Very High,2059,55.6,57%,36.6,81%
+Bantam TKO-C 12.7mm,Paddletek,$229.99,N/A,https://a8qh.short.gy/C12.7,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.25,4.25,7.78,114,39%,6.60,68%,243,Medium,1903,56.6,95%,37.7,99%
+Bantam TKO-C 14.3mm,Paddletek,$229.99,N/A,https://a8qh.short.gy/C14.3,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,14,5.25,4.25,7.75,115,44%,6.48,60%,245,Medium,1910,56.8,96%,37.4,98%
+Bantam TKO-CX 12.7,Paddletek,$229.99,N/A,https://a8qh.short.gy/CX12.7,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,13,5.75,4.25,7.82,117,60%,6.97,86%,247,,,,,,
+Bantam TKO-CX 14.3,Paddletek,$229.99,N/A,https://a8qh.short.gy/CX14.3,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,14,5.75,4.25,8.06,123,88%,7.35,96%,250,,,,,,
+Tempest TKO-C 14.3,Paddletek,$229.99,N/A,https://a8qh.short.gy/T14.3,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,14,5.25,4.25,8.13,120,76%,6.43,56%,245,Low,1848,55.9,73%,35.9,48%
+Tempest Wave Pro-C,Paddletek,$209.99,N/A,https://a8qh.short.gy/WPro,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,14,5.25,4.25,7.92,108,10%,6.98,86%,236,Low,1835,54.5,25%,35.7,44%
+Pro Line Energy,Pickleball Apes,$149.99,PBEFFECT,https://a8qh.short.gy/ApesE,2023,Extra-elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,Power,17,6.25,4.25,8.16,127,97%,5.89,21%,248,,,54.9,31%,0.0,
+Pro Line Energy S,Pickleball Apes,$169.99,PBEFFECT,https://a8qh.short.gy/ApesES,2023,Hybrid,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,17,5.50,4.25,8.10,116,53%,6.26,43%,238,,,52.0,1%,0.0,
+Pulse E,Pickleball Apes,$199.99,PBEFFECT,https://a8qh.short.gy/PulseE ,2024,Extra-elongated,Kevlar/Nylon,Raw Texture/Peel Ply,Gen 3,All-Court,17,6.25,4.25,8.26,127,97%,5.89,21%,247,High,1986,55.7,60%,35.9,48%
+Pulse S,Pickleball Apes,$199.99,PBEFFECT,https://a8qh.short.gy/PulseS ,2024,Hybrid,Kevlar/Nylon,Raw Texture/Peel Ply,Gen 3,All-Court,17,5.50,4.25,7.98,114,39%,6.24,42%,240,High,1971,54.9,31%,36.2,67%
+Pulse V,Pickleball Apes,$199.99,PBEFFECT,https://a8qh.short.gy/PulseV ,2024,Widebody,Kevlar/Nylon,Raw Texture/Peel Ply,Gen 3,All-Court,17,5.50,4.25,8.13,112,27%,7.37,96%,237,High,1978,54.7,28%,36.1,59%
+Pulse X,Pickleball Apes,$199.99,PBEFFECT,https://a8qh.short.gy/PulseX,2025,Elongated,Kevlar,Raw Texture/Peel Ply,Gen 3,All-Court,16,5.50,,8.10,121,80%,6.14,36%,245,,,,,,
+Hurricane Pro 14mm,PIKKL,$159.99,PBEFFECT,https://a8qh.short.gy/HP14,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,14,5.50,4.25,7.83,108,10%,6.67,71%,237,High,1979,53.1,9%,35.5,35%
+Hurricane Pro 16mm,PIKKL,$159.99,PBEFFECT,https://a8qh.short.gy/H16,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.25,7.90,111,22%,6.95,85%,238,High,1991,52.8,3%,35.3,26%
+Vantage Pro 14mm,PIKKL,$139.99,PBEFFECT,https://a8qh.short.gy/VP14,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,Control,14,5.30,4.25,8.04,115,44%,6.28,44%,236,High,1998,53.2,9%,,
+Vantage Pro 16mm,PIKKL,$139.99,PBEFFECT,https://a8qh.short.gy/VP16,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.30,4.25,8.40,121,80%,6.69,73%,237,High,1996,53.7,14%,,
+Black Ace 14,Prokennex,$279.00,PBEFFECT,https://a8qh.short.gy/BA14,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1.5/Edgeless,All-Court,14,5.30,4.00,7.80,102,1%,6.57,66%,224,Very High,2042,54.9,31%,37.1,93%
+Black Ace 16,Prokennex,$279.00,PBEFFECT,https://a8qh.short.gy/BA16,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1.5/Edgeless,Control,16,5.30,4.00,8.00,109,14%,6.92,84%,234,Very High,2056,55.4,49%,36.3,73%
+Black Ace LG 14,Prokennex,$279.00,PBEFFECT,https://a8qh.short.gy/LG14,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5/Edgeless,Power,14,5.90,4.00,7.80,107,8%,5.60,8%,229,Very High,2056,55.7,60%,37.1,93%
+Black Ace XF 14,Prokennex,$279.00,PBEFFECT,https://a8qh.short.gy/XF14,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5/Edgeless,All-Court,14,5.10,4.00,7.80,101,1%,5.40,3%,221,High,1993,54.7,28%,36.4,76%
+Project Flamingo,Proton,$280.00,PBEFFECT,https://a8qh.short.gy/PF,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,15,5.25,4.25,8.16,121,80%,6.78,77%,242,High,1982,55.9,73%,37.4,98%
+Series 1 Type A Elongated 11mm,Proton,$280.00,PBEFFECT,https://a8qh.short.gy/S1AE11,2024,Elongated,Carbon,Nanotak,Gen 1,,11,5.50,4.25,8.14,124,92%,5.91,23%,247,,,,,,
+Series 1 Type A Elongated 15mm,Proton,$280.00,PBEFFECT,https://a8qh.short.gy/1AE15,2024,Elongated,Carbon,Nanotak,Gen 1,,15,5.50,4.25,8.60,135,99%,6.52,62%,251,High,1938,55.9,73%,35.9,48%
+Series 1 Type A Square Shape 11mm,Proton,$280.00,PBEFFECT,https://a8qh.short.gy/1AS11,2024,Widebody,Carbon,Nanotak,Gen 1,,11,5.25,4.25,7.96,114,39%,6.59,68%,242,High,2000,54.4,23%,36.1,59%
+Series 2,Proton,$220.00,PBEFFECT,https://a8qh.short.gy/S2,2024,Hybrid,Carbon,Paint Grit,Gen 1/Edgeless,,15,5.38,4.25,8.38,121,80%,5.92,24%,240,,,,,,
+Series 3,Proton,$250.00,PBEFFECT,https://a8qh.short.gy/S3,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,,16,5.30,4.25,8.20,124,92%,6.88,83%,245,,,,,,
+Series 4,Proton,$300.00,PBEFFECT,https://a8qh.short.gy/S4,2024,Elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2/Edgeless,,16,5.30,4.25,7.80,111,22%,5.51,5%,237,High,1944,54.9,31%,34.6,9%
+Sweet Spot 13,ProXR,$210.00,PBEFFECT,https://a8qh.short.gy/SP13,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,,13,5.25,4.00,8.10,115,44%,6.99,87%,238,,,,,,
+"Zane Navtratil ""The Standard""",ProXR,$209.99,PBEFFECT,,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1.5,Control,16,5.00,4.00,8.26,106,6%,7.04,88%,222,,,,,,
+Zane Navtratil Signature,ProXR,$209.99,PBEFFECT,https://a8qh.short.gy/zn14,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,14,6.00,4.00,8.24,115,44%,5.71,12%,233,,,,,,
+RLD-1,Reload,$200.00,PBEFFECT,https://a8qh.short.gy/Reload,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,8.17,122,84%,6.37,52%,245,High,1973,55.5,53%,35.1,22%
+Zeus,Rev,$149.00,PBEFFECT,https://a8qh.short.gy/ZEUS,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,Power,16,5.25,4.20,8.00,113,33%,6.35,50%,239,,,,,,
+Drift Pure,Revolin,$174.99,PBEFFECT,https://a8qh.short.gy/RDP,2025,Widebody,Bio Flex,Raw Texture/Peel Ply,Gen 1,All-Court,16,5.00,4.25,8.08,109,14%,6.55,65%,232,Very High,2072,55.6,,35.9,
+Drift Reach,Revolin,$174.99,PBEFFECT,https://a8qh.short.gy/RDR,2025,Elongated,Bio Flex,Raw Texture/Peel Ply,Gen 1,All-Court,16,5.50,4.25,8.23,118,66%,5.72,12%,237,High,1980,55.7,,36.1,
+Revo Pro Pure Hybrid,Revolin,$219.99,PBEFFECT,https://a8qh.short.gy/Pure,2024,Widebody,Lava Rock,Raw Texture/Peel Ply,Gen 1,Power,16,5.25,4.25,8.00,103,2%,6.53,63%,226,High,1958,56.0,78%,37.1,93%
+Revo Pro Reach Hybrid,Revolin,$219.99,PBEFFECT,https://a8qh.short.gy/Reach,2024,Elongated,Lava Rock,Raw Texture/Peel Ply,Gen 1,Power,16,5.50,4.25,7.91,109,14%,5.59,7%,233,Medium,1851,56.3,87%,36.9,90%
+Red,Robust,,,,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,,14,,,8.00,120,76%,6.41,55%,243,,,,,,
+Aero Blade 1.19 (w/o Face Weights),Rokne,$299.99,N/A,,2024,Elongated,Carbon,Paint Grit,Gen 2/Edgeless,All-Court,19,5.50,4.25,8.40,135,99%,5.97,26%,256,Low,1657,55.3,47%,35.0,18%
+Aero Blade 1.19 (with Face Weights),Rokne,$299.99,N/A,,2024,Elongated,Carbon,Paint Grit,Gen 2/Edgeless,All-Court,19,5.50,4.25,9.60,143,100%,6.33,49%,248,,,,,,
+Pulsar FX.R1,Ronbus,$180.00,PBEFFECT,https://a8qh.short.gy/R1FX,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,8.21,120,76%,6.23,42%,243,Medium,1907,55.0,36%,35.9,48%
+Pulsar FX.R2,Ronbus,$180.00,PBEFFECT,https://a8qh.short.gy/R2FX,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,8.18,113,33%,7.05,89%,237,Medium,1900,54.9,31%,35.5,35%
+Pulsar FX.R3,Ronbus,$180.00,PBEFFECT,https://a8qh.short.gy/R3FX,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,8.22,123,88%,6.27,44%,245,High,1946,55.4,49%,35.6,39%
+R1 Nova,Ronbus,$180.00,PBEFFECT,https://a8qh.short.gy/R1Nova,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,8.14,118,66%,6.00,27%,242,Medium,1883,54.4,23%,34.2,5%
+R1 Pulsar,Ronbus,$170.00,PBEFFECT,https://a8qh.short.gy/R1P,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,7.87,114,39%,6.12,35%,237,,,,,,
+R1.16,Ronbus,$120.00,PBEFFECT,https://a8qh.short.gy/R1.16,2022,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.50,4.13,7.96,118,66%,6.11,34%,242,High,1950,53.7,14%,33.7,3%
+R3 Nova,Ronbus,$180.00,PBEFFECT,https://a8qh.short.gy/R3N,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,8.07,120,76%,6.04,30%,245,,,55.0,36%,34.8,13%
+R3 Pulsar,Ronbus,$170.00,PBEFFECT,https://a8qh.short.gy/R3P,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,7.98,122,84%,6.15,37%,245,Medium,1903,55.2,43%,35.4,29%
+R3.16,Ronbus,$120.00,PBEFFECT,https://a8qh.short.gy/R3.16,2022,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.50,4.13,7.73,119,73%,5.84,18%,247,,,,,,
+Ripple R1.14,Ronbus,$250.00,PBEFFECT,Unreleased,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 3,Power,14,5.50,4.13,7.96,118,66%,5.69,10%,243,Very High,2038,57.8,99%,37.5,99%
+Amped Epic Control,Selkirk,$160.00,INF-BRAYDONU,https://a8qh.short.gy/AmpE,2024,Widebody,Carbon,Paint Grit,Gen 1,Control,16,5.25,4.25,8.00,105,4%,6.54,64%,230,,,,,,
+Amped Epic Pro Air,Selkirk,$180.00,INF-BRAYDONU,https://a8qh.short.gy/APE,2024,Widebody,Fiberglass,Paint Grit,Gen 1.5/Edgeless,Power,16,5.25,4.25,7.97,112,27%,6.87,82%,240,Medium,1909,55.1,40%,36.1,59%
+Amped Invikta Pro Air,Selkirk,$180.00,INF-BRAYDONU,https://a8qh.short.gy/API,2024,Elongated,Fiberglass,Paint Grit,Gen 1.5/Edgeless,Power,16,5.25,4.25,7.86,118,66%,5.90,22%,246,Medium,1895,55.5,53%,36.3,73%
+LUXX 2025 Version,Selkirk,,INF-BRAYDONU,Available Late May,2025,Elongated,Carbon,Paint Grit,Gen 2,Control,19,5.50,4.25,8.05,117,60%,5.83,17%,243,,,,,,
+Luxx Control Air Epic,Selkirk,$250.00,INF-BRAYDONU,https://a8qh.short.gy/LEpic,2023,Widebody,Carbon,Paint Grit,Gen 1.5/Edgeless,Control,20,5.25,4.25,8.08,112,27%,6.35,50%,238,Medium,1873,51.2,1%,33.1,2%
+Luxx Control Air Invikta,Selkirk,$250.00,INF-BRAYDONU,https://a8qh.short.gy/LInvikta,2023,Elongated,Carbon,Paint Grit,Gen 1.5/Edgeless,Control,20,5.25,4.25,7.96,115,44%,5.78,14%,242,Medium,1858,52.0,1%,0.0,
+Luxx Control Air S2,Selkirk,$250.00,INF-BRAYDONU,https://a8qh.short.gy/LS2,2023,Widebody,Carbon,Paint Grit,Gen 1.5/Edgeless,Control,20,4.50,4.25,8.17,107,8%,7.13,91%,233,Medium,1870,50.3,0%,32.9,2%
+Power Air Epic,Selkirk,$249.99,INF-BRAYDONU,https://a8qh.short.gy/EAir,2022,Widebody,Fiberglass,Paint Grit,Gen 1.5/Edgeless,Power,13,5.25,4.25,8.04,104,3%,6.35,50%,229,Medium,1884,53.2,9%,36.6,81%
+Power Air Invikta,Selkirk,$249.99,INF-BRAYDONU,https://a8qh.short.gy/IAir,2022,Elongated,Fiberglass,Paint Grit,Gen 1.5/Edgeless,Power,13,5.25,4.25,8.00,112,27%,5.62,8%,237,Medium,1894,53.5,12%,36.5,78%
+Vanguard Control Epic (midweight),Selkirk,$200.00,INF-BRAYDONU,https://a8qh.short.gy/VCEpic,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.30,4.25,8.14,112,27%,6.37,52%,236,,,,,,
+Vanguard Control Invikta (mideweight),Selkirk,$200.00,INF-BRAYDONU,https://a8qh.short.gy/VCInvikta,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.50,4.25,7.97,113,33%,5.65,9%,237,,,,,,
+Vanguard Control S2 (midweight),Selkirk,$200.00,INF-BRAYDONU,https://a8qh.short.gy/VCS2,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,4.70,4.25,8.01,105,4%,7.09,90%,230,,,,,,
+Vanguard Pro Power Invikta,Selkirk,$220.00,INF-BRAYDONU,https://a8qh.short.gy/ProPI,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,8.03,114,39%,5.89,21%,237,High,1937,55.7,60%,35.2,24%
+008 Epic 13mm,Selkirk Labs,$288.00,INF-BRAYDONU,https://a8qh.short.gy/813e,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 4,Control,13,5.30,4.25,7.75,102,1%,5.81,15%,229,High,1954,54.8,30%,35.4,29%
+008 Invikta 10mm,Selkirk Labs,$288.00,INF-BRAYDONU,,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 4,All-Court,10,5.50,4.25,7.90,110,18%,5.20,1%,234,High,1995,55.0,36%,35.6,39%
+008 Invikta 13mm,Selkirk Labs,$288.00,INF-BRAYDONU,https://a8qh.short.gy/813I,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 4,Control,13,5.50,4.25,7.70,109,14%,5.40,3%,236,High,1965,55.1,40%,35.3,26%
+008 Tour 13mm,Selkirk Labs,$288.00,INF-BRAYDONU,https://a8qh.short.gy/813T,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 4,Control,13,6.00,4.25,7.90,112,27%,5.36,2%,237,High,1991,54.7,28%,35.0,18%
+008 Tour 16mm,Selkirk Labs,$288.00,INF-BRAYDONU,https://a8qh.short.gy/816,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 4,Control,16,6.00,4.25,8.10,116,53%,5.52,6%,239,High,1969,55.2,43%,34.8,13%
+Project 005 Epic,Selkirk Labs,$222.00,INF-BRAYDONU,https://a8qh.short.gy/005,2023,Widebody,Fiberglass,Paint Grit,Gen 2/Edgeless,All-Court,16,5.25,4.25,7.97,110,18%,6.88,83%,238,,,,,,
+Project 006 Maxima,Selkirk Labs,$333.00,INF-BRAYDONU,https://a8qh.short.gy/006,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.75,4.25,8.39,118,66%,5.97,26%,236,Low,1848,54.1,19%,34.4,7%
+Project 007 Epic 14mm,Selkirk Labs,$333.00,INF-BRAYDONU,https://a8qh.short.gy/007E14,2024,Widebody,Carbon,Paint Grit,Gen 2/Edgeless,Power,14,5.25,4.25,8.13,113,33%,6.50,61%,239,High,1981,55.5,53%,36.8,87%
+Project 007 Invikta 14mm,Selkirk Labs,$333.00,INF-BRAYDONU,https://a8qh.short.gy/00714,2024,Elongated,Carbon,Paint Grit,Gen 2,Power,14,,4.25,8.13,118,66%,5.94,25%,243,Very High,2005,56.5,92%,36.3,73%
+Black Diamond 14mm,Six Zero,$180.00,PBEFFECT,https://a8qh.short.gy/BD14,2024,Hybrid,Fiberglass,Raw Texture/Peel Ply,Gen 2,Power,14,5.50,4.25,8.00,112,27%,6.46,59%,237,High,1988,55.6,57%,36.8,87%
+Black Diamond 16mm,Six Zero,$179.99,PBEFFECT,https://a8qh.short.gy/BD,2023,Hybrid,Fiberglass,Raw Texture/Peel Ply,Gen 2,Power,16,5.50,4.25,8.07,114,39%,6.67,71%,239,High,1981,55.9,73%,36.3,73%
+Black Diamond Amethyst Pro,Six Zero,$199.00,PBEFFECT,https://a8qh.short.gy/BDPRO,2023,Hybrid,Fiberglass,Raw Texture/Peel Ply,Gen 2,Power,16,5.50,4.25,8.23,115,44%,6.72,74%,234,,,,,,
+Black Diamond Infinity 16mm,Six Zero,$220.00,PBEFFECT,https://a8qh.short.gy/BDi,2023,Hybrid,Fiberglass,Raw Texture/Peel Ply,Gen 2/Edgeless,All-Court,16,5.50,4.25,7.97,107,8%,5.80,14%,229,High,1990,52.8,3%,35.4,29%
+Double Black Diamond (Elongated),Six Zero,$189.99,PBEFFECT,https://a8qh.short.gy/DBDe,2024,Extra-elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,15,6.00,4.25,8.18,122,84%,5.74,12%,242,High,1931,56.0,78%,36.2,67%
+Double Black Diamond 14 mm,Six Zero,$179.99,PBEFFECT,https://a8qh.short.gy/DBD,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.50,4.25,7.87,110,18%,6.18,38%,237,Medium,1925,53.5,12%,36.9,90%
+Double Black Diamond 16 mm,Six Zero,$179.99,PBEFFECT,https://a8qh.short.gy/DBD,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,8.07,114,39%,6.55,65%,237,,,53.7,14%,35.9,48%
+Double Black Diamond Infinity 16mm,Six Zero,$220.00,PBEFFECT,https://a8qh.short.gy/DBDI,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2/Edgeless,Control,16,5.50,4.25,8.10,110,18%,5.90,22%,231,,,,,,
+Infinity Ruby,Six Zero,$220.00,PBEFFECT,https://a8qh.short.gy/IR,2024,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2/Edgeless,Control,16,5.50,4.25,8.50,116,53%,6.00,27%,234,,,,,,
+Quartz,Six Zero,$89.99,PBEFFECT,https://a8qh.short.gy/Q,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,15,5.00,4.25,7.97,108,10%,6.43,56%,234,High,1949,52.8,3%,34.8,13%
+Ruby,Six Zero,$200.00,PBEFFECT,https://a8qh.short.gy/ruby,2023,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.25,8.33,117,60%,6.81,80%,238,Low,,53.9,16%,35.3,26%
+Ruby (14mm),Six Zero,$199.99,PBEFFECT,https://a8qh.short.gy/R14,2024,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2,Power,14,5.50,4.25,8.10,114,39%,6.53,63%,238,High,1965,55.4,49%,36.9,90%
+Sapphire,Six Zero,$99.99,PBEFFECT,https://a8qh.short.gy/Sap,2023,Elongated,Carbon,Paint Grit,Gen 1.5,Power,13,5.50,4.25,7.90,111,22%,5.40,3%,224,,,,,,
+Sapphire V2,Six Zero,$139.99,PBEFFECT,https://a8qh.short.gy/SV2,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,13,5.60,4.25,7.85,116,53%,6.19,40%,241,,,,,,
+Halo Control Max,SLK,$139.99,INF-BRAYDONU,https://a8qh.short.gy/halo,2022,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,4.75,4.50,7.94,111,22%,6.94,85%,237,,,,,,
+Halo Control Max (2024 version),SLK,$130.00,INF-BRAYDONU,https://a8qh.short.gy/HCM,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,4.85,4.25,7.90,110,18%,6.77,76%,237,High,1983,54.1,19%,34.2,5%
+Halo Control XL,SLK,$139.99,INF-BRAYDONU,https://a8qh.short.gy/halo,2022,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.60,4.50,8.10,122,84%,6.07,31%,244,,,,,,
+Halo Power Max,SLK,$139.99,INF-BRAYDONU,https://a8qh.short.gy/halo,2022,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,13,4.75,4.00,7.97,110,18%,6.54,64%,234,,,,,,
+Halo Power Max (2024 version),SLK,$130.00,INF-BRAYDONU,https://a8qh.short.gy/HPM,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,13,4.85,4.25,7.70,103,2%,6.81,80%,231,High,2000,55.5,53%,35.7,44%
+Halo Power XL,SLK,$139.99,INF-BRAYDONU,https://a8qh.short.gy/halo,2022,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,All-Court,13,5.60,4.00,7.97,120,76%,5.59,7%,245,,,,,,
+Halo Pro Max,SLK,$150.00,INF-BRAYDONU,https://a8qh.short.gy/Mpro,2024,Widebody,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,4.85,4.25,7.92,108,10%,7.00,87%,234,High,1953,55.1,40%,35.5,35%
+Halo Pro XL,SLK,$150.00,INF-BRAYDONU,https://a8qh.short.gy/SLKPXL ,2024,Elongated,Kevlar/Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.75,4.25,7.98,120,76%,5.90,22%,245,High,1939,55.6,57%,36.6,81%
+Apollo,Spartus,$129.99,PBEFFECT,https://a8qh.short.gy/Apollo,2024,Widebody,Kevlar,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,8.07,108,10%,7.54,98%,232,Medium,1927,53.5,12%,35.0,18%
+Ballista,Spartus,$159.99,PBEFFECT,https://a8qh.short.gy/B,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2/Edgeless,All-Court,16,5.50,4.13,7.94,113,33%,5.59,7%,239,,,,,,
+Gladius Centurion,Spartus,$99.99,PBEFFECT,https://a8qh.short.gy/GC,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.13,7.98,121,80%,6.06,31%,243,,,,,,
+Odyssey,Spartus,$89.99,PBEFFECT,Unreleased,2025,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.35,4.25,7.90,110,18%,6.56,65%,236,Very High,2019,54.5,25%,35.2,24%
+Olympus,Spartus,$199.99,PBEFFECT,https://a8qh.short.gy/SO,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 3,All-Court,14,5.50,4.13,8.00,113,33%,6.32,48%,238,Very High,2043,55.7,60%,36.5,78%
+Orion,Spartus,$89.99,PBEFFECT,Unreleased,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,5.85,4.25,7.93,116,53%,6.00,27%,241,Very High,2027,55.4,49%,35.5,35%
+Cryo 16,Speed Up,,,,2024,Elongated,,Raw Texture/Peel Ply,,,16,6.25,,8.33,125,95%,6.30,46%,243,,,,,,
+Pyro 16,Speed Up,,,,2024,Elongated,,Raw Texture/Peel Ply,,,16,6.25,,8.30,123,88%,5.97,26%,243,,,,,,
+MC-3 Strike,Stinger,$199.99,PBEFFECT,https://a8qh.short.gy/MC3,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,,8.03,122,84%,7.05,89%,249,,,,,,
+TF-Blitz,Technifibre,$209.00,,,2024,Extra-elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,15,6.00,4.25,8.24,124,92%,5.81,15%,244,Very High,2092,56.5,92%,36.8,87%
+TF-Command,Technifibre,$209.00,,,2024,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,15,5.00,4.25,8.16,110,18%,6.81,80%,233,Very High,2044,55.0,36%,35.7,44%
+TF-Select,Technifibre,$209.00,,,2024,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2,All-Court,15,5.50,4.25,8.10,112,27%,6.43,56%,234,Very High,2093,55.9,73%,36.6,81%
+Azul 16,Thrive,$199.99,PBEFFECT,https://a8qh.short.gy/azul16,2024,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2,Power,16,5.25,,8.12,117,60%,6.60,68%,240,High,1948,55.7,60%,36.0,54%
+Blackout 16,Thrive,$199.99,PBEFFECT,https://a8qh.short.gy/BO16,2024,Hybrid,Fiberglass,Raw Texture/Peel Ply,Gen 2,Power,16,5.25,,8.28,119,73%,6.71,74%,242,Medium,1897,56.5,92%,36.2,67%
+Rush 13mm,Thrive,$179.99,PBEFFECT,https://a8qh.short.gy/Rush,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,13,5.50,,7.90,119,73%,6.10,32%,244,High,1931,55.7,60%,35.6,39%
+Smoke,Thrive,$219.99,PBEFFECT,https://a8qh.short.gy/smoke,2025,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1,Power,15,,4.25,7.96,119,73%,6.14,36%,242,Very High,2003,56.4,90%,36.2,67%
+Surge 16,Thrive,$199.99,PBEFFECT,https://a8qh.short.gy/Surge,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.25,,8.03,117,60%,6.80,79%,243,High,1937,55.3,47%,35.6,39%
+Threat 16mm,Thrive,$179.99,PBEFFECT,https://a8qh.short.gy/Threat,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,,8.00,122,84%,6.74,75%,245,Medium,1918,54.4,23%,34.6,9%
+Alchemy 13.5 mm,Vatic Pro,$179.99,PBEFFECT,https://a8qh.short.gy/VPA,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.50,4.13,8.20,116,53%,5.93,24%,238,,,,,,
+Alchemy 16 mm,Vatic Pro,$179.99,PBEFFECT,https://a8qh.short.gy/VPA,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.13,8.54,122,84%,6.49,61%,239,,,,,,
+Flash 14 mm,Vatic Pro,$139.99,PBEFFECT,https://a8qh.short.gy/VPFlash,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.30,4.13,7.94,110,18%,6.15,37%,235,,,53.9,16%,34.4,7%
+Flash 16 mm,Vatic Pro,$139.99,PBEFFECT,https://a8qh.short.gy/VPFlash,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.30,4.13,8.25,115,44%,6.70,73%,237,High,1935,,,,
+Prism Bloom 14mm,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/PB14,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1.5,Control,14,,,7.70,107,8%,6.05,31%,238,,,,,,
+Prism Bloom 16mm,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/PB16,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1.5,Control,16,,,7.92,112,27%,7.07,90%,238,,,,,,
+Prism Flash 14 mm,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/PF14,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,14,5.30,4.13,7.80,111,22%,6.11,34%,241,High,1950,53.0,8%,35.0,18%
+Prism Flash 16 mm,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/VPFP16,2023,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1.5,Control,16,5.30,4.13,7.91,114,39%,6.40,54%,237,High,1942,51.8,1%,33.7,3%
+Prism Flash LH 14,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/LH14,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,14,5.75,4.13,7.94,116,53%,5.89,21%,241,,,,,,
+Prism Flash LH 16,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/LH16,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1.5,Control,16,5.75,4.13,8.05,117,60%,6.18,38%,241,,,,,,
+Prism V7,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/VPV7P,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.30,4.13,8.44,128,98%,6.96,86%,244,,,52.8,3%,34.6,9%
+Prism V7 LH,Vatic Pro,$99.99,PBEFFECT,https://a8qh.short.gy/PV7LH,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.60,4.13,7.97,119,73%,6.16,38%,243,,,53.2,9%,34.4,7%
+Saga Bloom 16mm,Vatic Pro,$149.99,PBEFFECT,https://a8qh.short.gy/SB,2025,Widebody,Carbon,Raw Texture/Peel Ply,Gen 1,Control,16,,,8.00,111,22%,7.02,87%,237,Very High,2028,53.9,16%,34.8,13%
+Saga Flash LH,Vatic Pro,$149.99,PBEFFECT,https://a8qh.short.gy/SFLH,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,16,5.75,4.13,8.17,120,76%,6.30,46%,244,,,,,,
+Saga Flash SH,Vatic Pro,$149.99,PBEFFECT,https://a8qh.short.gy/SFSH,2024,Hybrid,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,16,5.30,4.13,7.93,114,39%,6.39,53%,240,High,1961,56.5,92%,35.5,35%
+Saga V7 LH,Vatic Pro,$149.99,PBEFFECT,https://a8qh.short.gy/SVLH,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,16,5.75,4.13,8.28,125,95%,6.50,61%,246,,,,,0.0,
+Saga V7 SH,Vatic Pro,$149.99,PBEFFECT,https://a8qh.short.gy/SVSH,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 1.5,All-Court,16,5.30,4.13,8.13,120,76%,6.62,69%,243,High,1954,56.8,96%,35.6,39%
+V7,Vatic Pro,$139.99,PBEFFECT,https://a8qh.short.gy/VPV7,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.30,4.13,8.32,123,88%,6.93,84%,244,Medium,1916,54.3,21%,35.9,48%
+Vector XL,Versix,$129.99,PBEFFECT,https://a8qh.short.gy/Vect,2024,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,15,5.75,4.25,8.30,121,80%,6.85,81%,240,Medium,1916,56.1,83%,35.9,48%
+CTRL 1 Forza,Volair,$199.99,PBEFFECT,https://a8qh.short.gy/C1F ,2024,Hybrid,Kevlar,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.15,8.00,115,44%,6.26,43%,240,,,,,,
+CTRL 2 Forza,Volair,$199.99,PBEFFECT,https://a8qh.short.gy/C2F,2024,Widebody,Kevlar,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.15,7.96,108,10%,7.16,92%,235,,,,,,
+Mach 1 14mm,Volair,$159.99,PBEFFECT,https://a8qh.short.gy/Mach14,2022,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.50,4.15,7.84,115,44%,5.82,16%,240,Medium,1900,53.2,9%,36.1,59%
+Mach 1 16mm,Volair,$159.99,PBEFFECT,https://a8qh.short.gy/Mach16,2022,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.15,8.06,118,66%,6.02,29%,242,Very High,2005,53.9,16%,34.7,12%
+Mach 1 Forza 14mm,Volair,$179.99,PBEFFECT,https://a8qh.short.gy/MF14,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,Power,14,5.50,4.15,7.69,109,14%,5.82,16%,237,High,1954,54.0,18%,35.7,44%
+Mach 1 Forza 16mm,Volair,$179.99,PBEFFECT,https://a8qh.short.gy/Forza16,2023,Elongated,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,16,5.50,4.15,8.19,117,60%,6.57,66%,240,High,1988,55.0,36%,35.5,35%
+Mach 2 14mm,Volair,$139.99,PBEFFECT,https://a8qh.short.gy/M214,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,14,5.50,4.15,7.90,106,6%,6.76,76%,231,High,1967,52.8,3%,35.0,18%
+Mach 2 16 mm,Volair,$139.99,PBEFFECT,https://a8qh.short.gy/M216,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.15,7.97,108,10%,6.77,76%,231,Very High,2003,53.0,8%,35.0,18%
+Mach 2 Forza 14mm,Volair,$179.99,PBEFFECT,https://a8qh.short.gy/M2F14,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,All-Court,14,5.50,4.15,7.80,109,14%,6.90,84%,238,High,1998,52.9,7%,35.9,48%
+Mach 2 Forza 16mm,Volair,$179.99,PBEFFECT,https://a8qh.short.gy/M2F16,2023,Widebody,Carbon,Raw Texture/Peel Ply,Gen 2,Control,16,5.50,4.15,8.02,111,22%,7.26,94%,238,High,1987,53.5,12%,33.7,3%

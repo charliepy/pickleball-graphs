@@ -58,13 +58,17 @@
                 <td class="px-4 py-2">
                   <a
                     class="text-blue-500 hover:underline"
-                    :href="`https://pickleballbrackets.com/ptplg.aspx?eid=${item['EventID']}`"
+                    :href="`https://pickleballtournaments.com/tournaments/${item['EventID']}/events`"
                     target="_blank">
                     {{ item['Title'] }}
                   </a>
                 </td>
                 <td class="px-4 py-2">
-                  {{ item['RegistrationCount_InAtLeastOneLiveEvent'] }}
+                  <span
+                    class="text-blue-500 hover:underline hover:cursor-pointer"
+                    @click="goToEvent(item)">
+                    {{ item['RegistrationCount_InAtLeastOneLiveEvent'] }}
+                  </span>
                 </td>
                 <td class="px-4 py-2">
                   {{ item['LocationOfEvent_Venue'] }}
@@ -101,6 +105,8 @@ import BaseDataTable from '@/components/BaseDataTable.vue';
 import PaginationButton from '@/components/pagination/PaginationButton.vue';
 import { useStore } from '@/utils/store.js';
 import { onMounted, onUnmounted } from 'vue';
+import { ROUTES } from '@/router/pages.js';
+import { useRouter } from 'vue-router';
 
 const columns = [
   'Date',
@@ -116,6 +122,7 @@ const columns = [
 const bracketStore = useBracketStore();
 const store = useStore();
 const dataId = store.initializeData();
+const router = useRouter();
 
 const clearForm = async () => {
   await getNode('state-checkbox').input([]);
@@ -131,6 +138,15 @@ const submitForm = async (data) => {
   if (eventList.length) {
     store.addAllData(dataId, eventList);
   }
+};
+
+const goToEvent = (item) => {
+  bracketStore.setEventTitle(item['Title']);
+
+  router.push({
+    name: ROUTES.details,
+    params: { id: item['EventID'] },
+  });
 };
 
 onMounted(async () => {
