@@ -4,6 +4,14 @@
       <div class="flex flex-col md:flex-row gap-4">
         <div class="min-w-52">
           <h1 class="text-xl mb-4">{{ title }}</h1>
+          <div class="mb-4">
+            <a
+              class="text-blue-500 hover:underline"
+              :href="`https://cors-anywhere.herokuapp.com/corsdemo`"
+              target="_blank">
+              Get temporary access to use this page
+            </a>
+          </div>
           <FormKit
             type="select"
             label="Select an event"
@@ -108,8 +116,6 @@ const onEventSelect = async (value) => {
 };
 
 onMounted(async () => {
-  console.log(bracketStore.getEventTitle());
-
   await bracketStore.getAllActivities(route.params.id);
 
   if (bracketStore.getSavedActivities().length > 0) {
