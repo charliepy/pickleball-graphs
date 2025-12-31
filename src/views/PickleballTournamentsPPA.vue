@@ -13,7 +13,7 @@
         <template #table-body>
           <tr v-for="item in store.getPaginatedData(dataId)" :key="item['id']">
             <td class="px-4 py-2">
-              {{ item['dateFrom'] }}
+              {{ format(parseISO(item['dateFrom']), 'MM/dd/yyyy') }}
             </td>
             <td class="px-4 py-2">
               <a
@@ -45,6 +45,7 @@ import BaseDataTable from '@/components/BaseDataTable.vue';
 import { onMounted, onUnmounted } from 'vue';
 import { useBracketStore } from '@/api/bracket.js';
 import { useStore } from '@/utils/store.js';
+import { format, parseISO } from 'date-fns';
 
 const columns = ['Date', 'Title', 'Count', 'Price', 'Location'];
 
@@ -62,7 +63,6 @@ const refreshList = async () => {
 
 onMounted(async () => {
   const result = bracketStore.getSavedProResult();
-  console.log(result);
   if (result.length) {
     store.addAllData(dataId, result);
   }

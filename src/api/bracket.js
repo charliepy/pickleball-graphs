@@ -143,13 +143,20 @@ export const useBracketStore = defineStore(
 
     const getProEvents = async () => {
       try {
-        const response = await axios.get(
+        const page1 = await axios.get(
           `https://cors-anywhere.herokuapp.com/https://pickleballtournaments.com/api/getPPATournaments?currentPage=1`,
         );
+        const eventList1 = page1.data.data.items;
 
-        const eventList = response.data.data.items;
-        savedProResult.value = eventList;
-        return eventList;
+        const page2 = await axios.get(
+          `https://cors-anywhere.herokuapp.com/https://pickleballtournaments.com/api/getPPATournaments?currentPage=2`,
+        );
+        const eventList2 = page2.data.data.items;
+
+        eventList1.push(...eventList2);
+
+        savedProResult.value = eventList1;
+        return eventList1;
       } catch (e) {
         console.error(e);
         return [];
