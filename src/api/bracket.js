@@ -60,6 +60,7 @@ export const useBracketStore = defineStore(
 
     const savedStates = ref([]);
     const savedResult = ref([]);
+    const savedProResult = ref([]);
     const savedActivities = ref([]);
 
     const eventTitle = ref('');
@@ -74,6 +75,10 @@ export const useBracketStore = defineStore(
 
     const getSavedResult = () => {
       return savedResult.value;
+    };
+
+    const getSavedProResult = () => {
+      return savedProResult.value;
     };
 
     const getSavedActivities = () => {
@@ -136,6 +141,21 @@ export const useBracketStore = defineStore(
       }
     };
 
+    const getProEvents = async () => {
+      try {
+        const response = await axios.get(
+          `https://cors-anywhere.herokuapp.com/https://pickleballtournaments.com/api/getPPATournaments?currentPage=1`,
+        );
+
+        const eventList = response.data.data.items;
+        savedProResult.value = eventList;
+        return eventList;
+      } catch (e) {
+        console.error(e);
+        return [];
+      }
+    };
+
     const getAllActivities = async (eventId) => {
       savedActivities.value = [];
       let eventList = [];
@@ -186,15 +206,18 @@ export const useBracketStore = defineStore(
     return {
       savedStates,
       savedResult,
+      savedProResult,
       savedActivities,
       eventTitle,
       getStateNames,
       getSavedStates,
       getSavedResult,
+      getSavedProResult,
       getSavedActivities,
       getEventTitle,
       setEventTitle,
       postEventSearch,
+      getProEvents,
       getAllActivities,
       getEventPlayers,
     };

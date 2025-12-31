@@ -1,6 +1,7 @@
 <template>
   <BaseSidebar>
     <div class="mt-6 max-w-7xl mx-auto">
+      <button class="btn btn-info mb-2" @click="refreshList">Refresh</button>
       <BaseDataTable>
         <template #table-header>
           <tr class="bg-gray-200">
@@ -10,7 +11,7 @@
           </tr>
         </template>
         <template #table-body>
-          <tr v-for="item in eventList" :key="item['id']">
+          <tr v-for="item in store.getPaginatedData(dataId)" :key="item['id']">
             <td class="px-4 py-2">
               {{ item['dateFrom'] }}
             </td>
@@ -41,35 +42,33 @@
 <script setup>
 import BaseSidebar from '@/components/BaseSidebar.vue';
 import BaseDataTable from '@/components/BaseDataTable.vue';
-import { onMounted } from 'vue';
-import { ROUTES } from '@/router/pages.js';
-import { useRouter } from 'vue-router';
-import axios from 'axios';
-import { ref } from 'vue';
+import { onMounted, onUnmounted } from 'vue';
+import { useBracketStore } from '@/api/bracket.js';
+import { useStore } from '@/utils/store.js';
 
 const columns = ['Date', 'Title', 'Count', 'Price', 'Location'];
 
-const router = useRouter();
-const eventList = ref([]);
+const bracketStore = useBracketStore();
+const store = useStore();
+const dataId = store.initializeData(100);
 
-const goToEvent = (item) => {
-  bracketStore.setEventTitle(item['Title']);
-
-  router.push({
-    name: ROUTES.details,
-    params: { id: item['EventID'] },
-  });
+const refreshList = async () => {
+  store.resetData(dataId);
+  const eventList = await bracketStore.getProEvents();
+  if (eventList.length) {
+    store.addAllData(dataId, eventList);
+  }
 };
 
 onMounted(async () => {
-  try {
-    const response = await axios.get(
-      `https://cors-anywhere.herokuapp.com/https://pickleballtournaments.com/api/getPPATournaments?currentPage=1`,
-    );
-
-    eventList.value = response.data.data.items;
-  } catch (e) {
-    console.error(e);
+  const result = bracketStore.getSavedProResult();
+  console.log(result);
+  if (result.length) {
+    store.addAllData(dataId, result);
   }
+});
+
+onUnmounted(() => {
+  store.deleteKey(dataId);
 });
 </script>
