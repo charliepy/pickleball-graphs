@@ -142,7 +142,7 @@ export const useBracketStore = defineStore(
 
       try {
         const response = await axios.get(
-          `https://pickleballtournaments.com/tournaments/api/tourneyEvents?slug=${eventId}`,
+          `https://proxy.corsfix.com/?https://pickleballtournaments.com/tournaments/api/tourneyEvents?slug=${eventId}`,
         );
 
         eventList = response.data.events;
@@ -156,7 +156,7 @@ export const useBracketStore = defineStore(
     const getEventPlayers = async (activityId) => {
       try {
         const response = await axios.get(
-          `https://pickleballtournaments.com/tournaments/api/eventPlayers?activityId=${activityId}`,
+          `https://proxy.corsfix.com/?https://pickleballtournaments.com/tournaments/api/eventPlayers?activityId=${activityId}`,
         );
 
         return response.data;

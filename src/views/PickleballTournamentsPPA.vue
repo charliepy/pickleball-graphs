@@ -23,7 +23,7 @@
               </a>
             </td>
             <td class="px-4 py-2">
-                {{ item['registrationCount'] }}
+              {{ item['registrationCount'] }}
             </td>
             <td class="px-4 py-2">
               {{ item['price'] }}
@@ -64,7 +64,7 @@ const goToEvent = (item) => {
 onMounted(async () => {
   try {
     const response = await axios.get(
-      `https://pickleballtournaments.com/api/getPPATournaments?currentPage=1`,
+      `https://proxy.corsfix.com/?https://pickleballtournaments.com/api/getPPATournaments?currentPage=1`,
     );
 
     eventList.value = response.data.data.items;
