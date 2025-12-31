@@ -117,6 +117,11 @@
             </div>
           </router-link>
         </li>
+        <li>
+          <a :href="`https://cors-anywhere.herokuapp.com/`" target="_blank">
+            Demo
+          </a>
+        </li>
       </ul>
     </div>
   </div>

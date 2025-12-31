@@ -64,7 +64,7 @@ const goToEvent = (item) => {
 onMounted(async () => {
   try {
     const response = await axios.get(
-      `https://proxy.corsfix.com/?https://pickleballtournaments.com/api/getPPATournaments?currentPage=1`,
+      `https://cors-anywhere.herokuapp.com/https://pickleballtournaments.com/api/getPPATournaments?currentPage=1`,
     );
 
     eventList.value = response.data.data.items;
