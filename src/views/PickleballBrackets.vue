@@ -71,6 +71,9 @@
                   </span>
                 </td>
                 <td class="px-4 py-2">
+                  {{ item['Cost_Registration_Current'] }}
+                </td>
+                <td class="px-4 py-2">
                   {{ item['LocationOfEvent_Venue'] }}
                 </td>
                 <td class="px-4 py-2">
@@ -112,6 +115,7 @@ const columns = [
   'Date',
   'Title',
   'Count',
+  'Cost',
   'Venue',
   'City',
   'State',

@@ -39,6 +39,12 @@ const routes = [
     meta: { title: 'Event Details' },
   },
   {
+    path: '/ppa',
+    name: ROUTES.ppa,
+    component: () => import('@/views/PickleballTournamentsPPA.vue'),
+    meta: { title: 'PPA' },
+  },
+  {
     path: '/:notFound(.*)',
     name: 'notFound',
     component: () => import('@/views/NotFound.vue'),

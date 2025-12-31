@@ -3,6 +3,7 @@ export const ROUTES = Object.freeze({
   pbeffect: 'pbeffect',
   johnkewpb: 'johnkewpb',
   pbbrackets: 'pbbrackets',
+  ppa: 'ppa',
   misc: 'misc',
-  details: 'details'
+  details: 'details',
 });

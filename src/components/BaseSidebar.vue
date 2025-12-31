@@ -104,6 +104,19 @@
             </div>
           </router-link>
         </li>
+        <li>
+          <router-link
+            :to="{ name: ROUTES.ppa }"
+            :class="{ active: route.name === ROUTES.ppa }">
+            <div class="flex gap-x-2">
+              <img
+                class="h-8"
+                src="/src/assets/PPA-Favicon-Circle-1.png"
+                alt="ppa logo" />
+              PPA
+            </div>
+          </router-link>
+        </li>
       </ul>
     </div>
   </div>
